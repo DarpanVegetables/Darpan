@@ -49,7 +49,7 @@ function displaySuggestions(results) {
     results.forEach(result => {
         const suggestion = document.createElement('div');
         suggestion.classList.add('suggestion');
-        suggestion.textContent = result.name;
+        suggestion.textContent = result.Item;
         suggestion.addEventListener('click', () => displayResult(result));
         suggestionsContainer.appendChild(suggestion);
     });
@@ -59,7 +59,7 @@ function displaySuggestions(results) {
 
 function displayResult(result) {
     if (result) {
-        priceDisplay.innerHTML = `Price: $${result.price.toFixed(2)}`; 
+        priceDisplay.innerHTML = `Price: $${result.Price.toFixed(2)}`; 
     } else {
         priceDisplay.innerHTML = '';
     }
