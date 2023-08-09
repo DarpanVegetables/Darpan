@@ -2,6 +2,8 @@ const searchInput = document.getElementById('search-input');
 const suggestionsContainer = document.getElementById('suggestions-container');
 const resultsContainer = document.querySelector('.results-container');
 const priceDisplay = document.getElementById('price-display');
+const timestampElement = document.getElementById('timestamp'); // Add this line
+
 let items = [];
 let selectedIndex = -1;
 
@@ -15,6 +17,7 @@ fetch('data.json')
   .then(data => {
     items = data;
     searchInput.removeAttribute('disabled');
+    updateTimestamp();
   })
   .catch(error => {
     console.error('Error loading data:', error);
@@ -64,7 +67,12 @@ function displayResult(result) {
         priceDisplay.innerHTML = '';
     }
 }
-
+function updateTimestamp() {
+  const now = new Date();
+  const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric', second: 'numeric', timeZoneName: 'short' };
+  const formattedTimestamp = now.toLocaleDateString(undefined, options);
+  timestampElement.textContent = `Last updated: ${formattedTimestamp}`;
+}
 function updateSelection(suggestions) {
     Array.from(suggestions).forEach((suggestion, index) => {
         if (index === selectedIndex) {
