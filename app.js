@@ -22,7 +22,7 @@ fetch('data.json')
 
 searchInput.addEventListener('input', (event) => {
     const searchTerm = event.target.value.toLowerCase();
-    const results = items.filter(item => item.name.toLowerCase().includes(searchTerm));
+    const results = items.filter(item => item.Item.toLowerCase().includes(searchTerm));
     selectedIndex = -1;
     displaySuggestions(results);
 });
@@ -39,7 +39,7 @@ searchInput.addEventListener('keydown', (event) => {
         updateSelection(suggestions);
     } else if (event.key === 'Enter') {
         if (selectedIndex >= 0 && selectedIndex < suggestions.length) {
-            displayResult(items.find(item => item.name === suggestions[selectedIndex].textContent));
+            displayResult(items.find(item => item.Item === suggestions[selectedIndex].textContent));
         }
     }
 });
