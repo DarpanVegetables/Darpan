@@ -1,7 +1,7 @@
 [
  {
    "Item": "Packing Tape",
-   "Price": 3611
+   "Price": 36
  },
  {
    "Item": "Pallet",
@@ -553,7 +553,7 @@
  },
  {
    "Item": "Daily:Tomato Plum",
-   "Price": 23 
+   "Price": 23
  },
  {
    "Item": "dano milk powder",
@@ -4109,11 +4109,11 @@
  },
  {
    "Item": "Long Beans - White 40lbs.",
-   "Price": 135
+   "Price": 72
  },
  {
-   "Item": "Long Beans Green 30lbs",
-   "Price": 75
+   "Item": "Long Beans Green 10lbs",
+   "Price": 28
  },
  {
    "Item": "Long beans Plants",
@@ -5765,7 +5765,7 @@
  },
  {
    "Item": "Sweet Potato",
-   "Price": 49
+   "Price": 62
  },
  {
    "Item": "Sweet Tamarind Box 454 Gms. X 1",
