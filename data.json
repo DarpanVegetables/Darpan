@@ -1,7 +1,7 @@
 [
  {
    "Item": "Packing Tape",
-   "Price": 36121
+   "Price": 36
  },
  {
    "Item": "Pallet",
@@ -293,7 +293,7 @@
  },
  {
    "Item": "Cauliflower 12 Heads",
-   "Price": 23
+   "Price": 26
  },
  {
    "Item": "Cauliflower 15 Heads",
@@ -917,7 +917,7 @@
  },
  {
    "Item": "Eggplant  American",
-   "Price": 28
+   "Price": 24
  },
  {
    "Item": "Eggplant  Jelio",
@@ -2389,7 +2389,7 @@
  },
  {
    "Item": "FRUITS:Hami Melon",
-   "Price": 28
+   "Price": 30
  },
  {
    "Item": "FRUITS:Honeydew 6 Sz.",
@@ -3973,7 +3973,7 @@
  },
  {
    "Item": "Kirbi",
-   "Price": 39
+   "Price": 49
  },
  {
    "Item": "Kirbi-Plastic Container",
@@ -4569,7 +4569,7 @@
  },
  {
    "Item": "Onion - Pearl",
-   "Price": 32
+   "Price": 33
  },
  {
    "Item": "Onion - Shallots",
@@ -5105,11 +5105,11 @@
  },
  {
    "Item": "Potato Red 'A'",
-   "Price": 49
+   "Price": 60
  },
  {
    "Item": "Potato Red 'B'",
-   "Price": 65
+   "Price": 62
  },
  {
    "Item": "Potato Red 'C'",
@@ -5121,7 +5121,7 @@
  },
  {
    "Item": "Potato White 'A'",
-   "Price": 65
+   "Price": 69
  },
  {
    "Item": "Potato White 'B'",
@@ -5409,7 +5409,7 @@
  },
  {
    "Item": "Sarso Ka Saag",
-   "Price": 55
+   "Price": 49
  },
  {
    "Item": "Scallions / Green Onion",
