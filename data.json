@@ -425,7 +425,7 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 33.0
+        "Price": 39.0
     },
     {
         "Item": "Coconut Box",
@@ -449,7 +449,7 @@
     },
     {
         "Item": "Coconut Green",
-        "Price": 28.0
+        "Price": 30.0
     },
     {
         "Item": "Coconut Milk - Chakoh",
@@ -854,6 +854,14 @@
     {
         "Item": "Drinks:Panchy Drink 250 Mls. X 30",
         "Price": 18.0
+    },
+    {
+        "Item": "Drinks:Pocas Milky Drink",
+        "Price": 16.0
+    },
+    {
+        "Item": "Drinks:Pocas Sparkling Drink",
+        "Price": 16.0
     },
     {
         "Item": "Drinks:Pomagranate Juice",
@@ -2433,7 +2441,7 @@
     },
     {
         "Item": "FRUITS:Mango",
-        "Price": 65.0
+        "Price": 79.0
     },
     {
         "Item": "FRUITS:Mango - Kesar",
@@ -2449,7 +2457,7 @@
     },
     {
         "Item": "FRUITS:Mango 7 Size",
-        "Price": 8.5
+        "Price": 9.0
     },
     {
         "Item": "FRUITS:Mango Atulofo 14 Sz.",
@@ -4089,7 +4097,7 @@
     },
     {
         "Item": "Lime 175 Ct.",
-        "Price": 56.0
+        "Price": 52.0
     },
     {
         "Item": "Lime 175 Pcs. - Kagati",
@@ -4113,7 +4121,7 @@
     },
     {
         "Item": "Long Beans - White 40lbs.",
-        "Price": 85.0
+        "Price": 80.0
     },
     {
         "Item": "Long Beans Green 30lbs",
@@ -4141,7 +4149,7 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 30.0
+        "Price": 28.0
     },
     {
         "Item": "Long squash ( Bangali)",
