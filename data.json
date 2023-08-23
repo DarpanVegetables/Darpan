@@ -305,7 +305,7 @@
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
-        "Price": 38.0
+        "Price": 50.0
     },
     {
         "Item": "Celery",
@@ -3845,7 +3845,7 @@
     },
     {
         "Item": "Long Beans - White 40lbs.",
-        "Price": 80.0
+        "Price": 85.0
     },
     {
         "Item": "Long Beans Green 30lbs",
@@ -4157,7 +4157,7 @@
     },
     {
         "Item": "Mustard Green Baby",
-        "Price": 49.0
+        "Price": 39.0
     },
     {
         "Item": "Naan - Paratha",
@@ -4325,11 +4325,11 @@
     },
     {
         "Item": "Onion Yellow 10 lb.",
-        "Price": 5.0
+        "Price": 4.0
     },
     {
         "Item": "Onion Yellow 2lb / 20 bags",
-        "Price": 29.0
+        "Price": 24.0
     },
     {
         "Item": "Orange Navel Choice 36 CT.",
