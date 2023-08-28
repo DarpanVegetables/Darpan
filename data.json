@@ -241,7 +241,7 @@
     },
     {
         "Item": "Cabbage in Box",
-        "Price": 20.0
+        "Price": 28.0
     },
     {
         "Item": "Cactus Pear Red",
@@ -629,7 +629,7 @@
     },
     {
         "Item": "Dhania-Local",
-        "Price": 30.0
+        "Price": 35.0
     },
     {
         "Item": "Dhania-TX- Wood",
@@ -2325,7 +2325,7 @@
     },
     {
         "Item": "FRUITS:Grapes Baby Red",
-        "Price": 40.0
+        "Price": 34.0
     },
     {
         "Item": "FRUITS:Grapes Black",
@@ -3873,7 +3873,7 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 28.0
+        "Price": 30.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -4000,10 +4000,6 @@
         "Price": 100.0
     },
     {
-        "Item": "Medium Chillie 10 Lb",
-        "Price": 29.0
-    },
-    {
         "Item": "Medium Chillie 15 Lb",
         "Price": 30.0
     },
@@ -4033,7 +4029,7 @@
     },
     {
         "Item": "Methi - TX",
-        "Price": 42.0
+        "Price": 45.0
     },
     {
         "Item": "Milo Jamaican Tin 12 X 14 Oz.",
@@ -4097,7 +4093,7 @@
     },
     {
         "Item": "Muli - TX",
-        "Price": 32.0
+        "Price": 35.0
     },
     {
         "Item": "Muli Red",
@@ -4637,7 +4633,7 @@
     },
     {
         "Item": "Plantain Hawaii",
-        "Price": 44.0
+        "Price": 45.0
     },
     {
         "Item": "Plantain Yellow",
@@ -5277,7 +5273,7 @@
     },
     {
         "Item": "Spinach",
-        "Price": 40.0
+        "Price": 42.0
     },
     {
         "Item": "Spinach Baby",
