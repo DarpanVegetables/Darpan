@@ -241,7 +241,7 @@
     },
     {
         "Item": "Cabbage in Box",
-        "Price": 28.0
+        "Price": 19.0
     },
     {
         "Item": "Cactus Pear Red",
@@ -257,7 +257,7 @@
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 38.0
+        "Price": 41.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -293,7 +293,7 @@
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 19.0
+        "Price": 22.0
     },
     {
         "Item": "Cauliflower 15 Heads",
@@ -353,7 +353,7 @@
     },
     {
         "Item": "Chayote Black",
-        "Price": 49.0
+        "Price": 54.0
     },
     {
         "Item": "Chayote Leaves",
@@ -361,7 +361,7 @@
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 69.0
+        "Price": 57.0
     },
     {
         "Item": "Chayote White",
@@ -485,7 +485,7 @@
     },
     {
         "Item": "Culantro",
-        "Price": 36.0
+        "Price": 38.0
     },
     {
         "Item": "Curry Leaves",
@@ -645,7 +645,7 @@
     },
     {
         "Item": "Dill",
-        "Price": 49.0
+        "Price": 55.0
     },
     {
         "Item": "Din Din  Candy Jar 24 Bottles",
@@ -929,7 +929,7 @@
     },
     {
         "Item": "Eggplant Chinese",
-        "Price": 48.0
+        "Price": 45.0
     },
     {
         "Item": "Eggplant Dominican",
@@ -1190,6 +1190,10 @@
     {
         "Item": "FROZEN:DD Banana Roast",
         "Price": 50.4
+    },
+    {
+        "Item": "FROZEN:DD Batura 330 Gms. X 24",
+        "Price": 58.0
     },
     {
         "Item": "FROZEN:DD Breadfruit",
@@ -2353,7 +2357,7 @@
     },
     {
         "Item": "FRUITS:Guava Mexican in CTN",
-        "Price": 48.0
+        "Price": 52.0
     },
     {
         "Item": "FRUITS:Hami Melon",
@@ -2444,11 +2448,11 @@
         "Price": 20.0
     },
     {
-        "Item": "FRUITS:Manzano Banana 15 Lbs.",
+        "Item": "FRUITS:Manzano Banana 20 Lb.",
         "Price": 28.0
     },
     {
-        "Item": "FRUITS:Manzano Banana 20 Lb.",
+        "Item": "FRUITS:Manzano Banana 20 Lbs.",
         "Price": 28.0
     },
     {
@@ -2485,7 +2489,7 @@
     },
     {
         "Item": "FRUITS:Papaya Yellow",
-        "Price": 42.0
+        "Price": 44.0
     },
     {
         "Item": "FRUITS:Papaya Yellow Small",
@@ -2573,7 +2577,7 @@
     },
     {
         "Item": "FRUITS:Tangerine Box 3 X Small Box",
-        "Price": 45.0
+        "Price": 39.0
     },
     {
         "Item": "FRUITS:Watermelon Pcs.",
@@ -2605,7 +2609,7 @@
     },
     {
         "Item": "Garlic Loose",
-        "Price": 69.0
+        "Price": 82.0
     },
     {
         "Item": "Garlic Peeled 1 lb. X 20 Packs",
@@ -3581,7 +3585,7 @@
     },
     {
         "Item": "Karela - Local Florida",
-        "Price": 39.0
+        "Price": 46.0
     },
     {
         "Item": "Karela Plants",
@@ -3709,7 +3713,7 @@
     },
     {
         "Item": "Kirbi",
-        "Price": 30.0
+        "Price": 35.0
     },
     {
         "Item": "Kirbi-Plastic Container",
@@ -3801,7 +3805,7 @@
     },
     {
         "Item": "Lemon 140 Sz.",
-        "Price": 45.0
+        "Price": 48.0
     },
     {
         "Item": "Lemon 165 Sz.",
@@ -3829,7 +3833,7 @@
     },
     {
         "Item": "Lime 200 Pcs.",
-        "Price": 78.0
+        "Price": 55.0
     },
     {
         "Item": "Lime 250 Pcs.",
@@ -3877,11 +3881,11 @@
     },
     {
         "Item": "Long squash ( Bangali)",
-        "Price": 42.0
+        "Price": 39.0
     },
     {
         "Item": "Long Squash ( INDIAN )",
-        "Price": 49.0
+        "Price": 39.0
     },
     {
         "Item": "Long Squash (Bangali - Local)",
@@ -4757,7 +4761,7 @@
     },
     {
         "Item": "Potato Red 'B'",
-        "Price": 58.0
+        "Price": 49.0
     },
     {
         "Item": "Potato Red 'C'",
@@ -4769,7 +4773,7 @@
     },
     {
         "Item": "Potato White 'A'",
-        "Price": 69.0
+        "Price": 49.0
     },
     {
         "Item": "Potato White 'B'",
@@ -4873,7 +4877,7 @@
     },
     {
         "Item": "Red Chillie",
-        "Price": 200.0
+        "Price": 160.0
     },
     {
         "Item": "Red Flat Beans",
@@ -5025,7 +5029,7 @@
     },
     {
         "Item": "Sarso Ka Saag",
-        "Price": 49.0
+        "Price": 54.0
     },
     {
         "Item": "Scallions / Green Onion",
@@ -5241,7 +5245,7 @@
     },
     {
         "Item": "Snake Gourd 30Lbs.",
-        "Price": 49.0
+        "Price": 52.0
     },
     {
         "Item": "Snow Peas",
@@ -5425,7 +5429,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 52.0
+        "Price": 55.0
     },
     {
         "Item": "Toddy Palm in Syrup",
@@ -5525,7 +5529,7 @@
     },
     {
         "Item": "Turnip",
-        "Price": 25.0
+        "Price": 28.0
     },
     {
         "Item": "Tuver Fresh",
