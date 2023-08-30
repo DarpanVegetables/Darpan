@@ -2553,7 +2553,7 @@
     },
     {
         "Item": "FRUITS:Ripe Jackfruit / lb.",
-        "Price": 0.9
+        "Price": 1.0
     },
     {
         "Item": "FRUITS:Sitafal",
@@ -2609,7 +2609,7 @@
     },
     {
         "Item": "Garlic Loose",
-        "Price": 82.0
+        "Price": 84.0
     },
     {
         "Item": "Garlic Peeled 1 lb. X 20 Packs",
@@ -3585,7 +3585,7 @@
     },
     {
         "Item": "Karela - Local Florida",
-        "Price": 46.0
+        "Price": 52.0
     },
     {
         "Item": "Karela Plants",
