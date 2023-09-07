@@ -25,7 +25,7 @@
     },
     {
         "Item": "Bamboo Shoot Fresh",
-        "Price": 110.0
+        "Price": 105.0
     },
     {
         "Item": "Banana Chiips",
@@ -33,7 +33,7 @@
     },
     {
         "Item": "Banana Flower",
-        "Price": 52.0
+        "Price": 46.0
     },
     {
         "Item": "Banana Leaves Fresh",
@@ -53,7 +53,7 @@
     },
     {
         "Item": "Bell Pepper",
-        "Price": 23.0
+        "Price": 26.0
     },
     {
         "Item": "Bell Pepper Red",
@@ -153,7 +153,7 @@
     },
     {
         "Item": "Cabbage Chinese",
-        "Price": 41.0
+        "Price": 24.0
     },
     {
         "Item": "Cabbage Flat",
@@ -169,7 +169,7 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 39.0
+        "Price": 40.0
     },
     {
         "Item": "Calabasa -Larga Long",
@@ -245,7 +245,7 @@
     },
     {
         "Item": "Chayote",
-        "Price": 42.0
+        "Price": 39.0
     },
     {
         "Item": "Chayote Black",
@@ -313,7 +313,7 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 39.0
+        "Price": 49.0
     },
     {
         "Item": "Coconut Dry",
@@ -465,11 +465,11 @@
     },
     {
         "Item": "Dhania - 60 Bunches Paperbox",
-        "Price": 40.0
+        "Price": 39.0
     },
     {
         "Item": "Dill",
-        "Price": 55.0
+        "Price": 39.0
     },
     {
         "Item": "Din Din  Candy Jar 24 Bottles",
@@ -657,7 +657,7 @@
     },
     {
         "Item": "Eggplant  American",
-        "Price": 17.0
+        "Price": 23.0
     },
     {
         "Item": "Eggplant Canadian",
@@ -665,7 +665,7 @@
     },
     {
         "Item": "Eggplant Chinese",
-        "Price": 45.0
+        "Price": 39.0
     },
     {
         "Item": "Eggplant Dominican",
@@ -673,7 +673,7 @@
     },
     {
         "Item": "Eggplant Green - Long",
-        "Price": 58.0
+        "Price": 49.0
     },
     {
         "Item": "Eggplant Griffiti",
@@ -1741,7 +1741,7 @@
     },
     {
         "Item": "FRUITS:Banana Thai",
-        "Price": 36.0
+        "Price": 39.0
     },
     {
         "Item": "FRUITS:Blueberry",
@@ -2820,6 +2820,10 @@
         "Price": 72.0
     },
     {
+        "Item": "Long Beans Oil 40 Lb.",
+        "Price": 78.0
+    },
+    {
         "Item": "Long Beans White 10 Lb.",
         "Price": 35.0
     },
@@ -3017,7 +3021,7 @@
     },
     {
         "Item": "Mustard Green Baby",
-        "Price": 39.0
+        "Price": 42.0
     },
     {
         "Item": "Naan - Paratha",
@@ -3061,7 +3065,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 35.0
+        "Price": 40.0
     },
     {
         "Item": "Okra Plants",
@@ -3069,7 +3073,7 @@
     },
     {
         "Item": "Okra Reg",
-        "Price": 37.0
+        "Price": 44.0
     },
     {
         "Item": "Olive Oil Extra Virgin 4 X 3 li",
@@ -3437,7 +3441,7 @@
     },
     {
         "Item": "Red Chillie",
-        "Price": 160.0
+        "Price": 115.0
     },
     {
         "Item": "Red Flat Beans",
@@ -3785,7 +3789,7 @@
     },
     {
         "Item": "Tinda",
-        "Price": 80.0
+        "Price": 85.0
     },
     {
         "Item": "Tindora",
@@ -3889,7 +3893,7 @@
     },
     {
         "Item": "Watercress",
-        "Price": 28.0
+        "Price": 32.0
     },
     {
         "Item": "Weri Weri Plants",
