@@ -209,7 +209,7 @@
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 22.0
+        "Price": 28.0
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
@@ -253,15 +253,15 @@
     },
     {
         "Item": "Chayote Leaves",
-        "Price": 3.0
+        "Price": 4.5
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 57.0
+        "Price": 44.0
     },
     {
         "Item": "Chayote White",
-        "Price": 47.0
+        "Price": 48.0
     },
     {
         "Item": "Cheak Peas",
@@ -405,7 +405,7 @@
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 24.0
+        "Price": 27.0
     },
     {
         "Item": "dano milk powder",
@@ -461,7 +461,7 @@
     },
     {
         "Item": "Dhania - 60 Bunches Paperbox",
-        "Price": 23.0
+        "Price": 32.0
     },
     {
         "Item": "Dill",
@@ -641,7 +641,7 @@
     },
     {
         "Item": "Edos",
-        "Price": 45.0
+        "Price": 44.0
     },
     {
         "Item": "Egg Leaves",
@@ -653,7 +653,7 @@
     },
     {
         "Item": "Eggplant  American",
-        "Price": 23.0
+        "Price": 26.0
     },
     {
         "Item": "Eggplant Canadian",
@@ -661,7 +661,7 @@
     },
     {
         "Item": "Eggplant Chinese",
-        "Price": 39.0
+        "Price": 29.0
     },
     {
         "Item": "Eggplant Dominican",
@@ -1817,7 +1817,7 @@
     },
     {
         "Item": "FRUITS:Guava Mexican in CTN",
-        "Price": 52.0
+        "Price": 55.0
     },
     {
         "Item": "FRUITS:Hami Melon",
@@ -1941,7 +1941,7 @@
     },
     {
         "Item": "FRUITS:Ripe Jackfruit / lb.",
-        "Price": 1.0
+        "Price": 1.1
     },
     {
         "Item": "FRUITS:Sitafal",
@@ -1997,7 +1997,7 @@
     },
     {
         "Item": "Garlic Regular",
-        "Price": 78.0
+        "Price": 70.0
     },
     {
         "Item": "Ghee 128. Oz",
@@ -2041,7 +2041,7 @@
     },
     {
         "Item": "Ginger Orgenic",
-        "Price": 45.0
+        "Price": 48.0
     },
     {
         "Item": "Ginger Paste Laxmi",
@@ -2589,7 +2589,7 @@
     },
     {
         "Item": "June Plum",
-        "Price": 75.0
+        "Price": 70.0
     },
     {
         "Item": "Jute Leaves",
@@ -2737,7 +2737,7 @@
     },
     {
         "Item": "Kirbi",
-        "Price": 35.0
+        "Price": 30.0
     },
     {
         "Item": "Kitkat",
@@ -2784,7 +2784,7 @@
         "Price": 32.0
     },
     {
-        "Item": "Lemon 165 Sz.",
+        "Item": "Lemon 140 Sz.",
         "Price": 48.0
     },
     {
@@ -2813,7 +2813,7 @@
     },
     {
         "Item": "Long Beans Green 30lbs",
-        "Price": 79.0
+        "Price": 85.0
     },
     {
         "Item": "Long Beans Oil 40 Lb.",
@@ -2825,11 +2825,11 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 26.0
+        "Price": 37.0
     },
     {
         "Item": "Long Squash",
-        "Price": 30.0
+        "Price": 35.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -2837,7 +2837,7 @@
     },
     {
         "Item": "Long Squash ( INDIAN )",
-        "Price": 39.0
+        "Price": 45.0
     },
     {
         "Item": "Long Squash Plants",
@@ -2880,12 +2880,8 @@
         "Price": 8.0
     },
     {
-        "Item": "Maria Crackers 3.5 Oz.",
-        "Price": 15.0
-    },
-    {
         "Item": "Maria Crackers 7 Oz. X 16 Pks.",
-        "Price": 14.0
+        "Price": 28.0
     },
     {
         "Item": "Masala Dabba Clear Lid",
@@ -2925,7 +2921,7 @@
     },
     {
         "Item": "Methi - TX",
-        "Price": 45.0
+        "Price": 35.0
     },
     {
         "Item": "Milo Jamaican Tin 12 X 14 Oz.",
@@ -2989,7 +2985,7 @@
     },
     {
         "Item": "Muli W/O Leafs",
-        "Price": 35.0
+        "Price": 32.0
     },
     {
         "Item": "Mundu Chillie Round 200 Gms,",
@@ -3017,7 +3013,7 @@
     },
     {
         "Item": "Mustard Green Baby",
-        "Price": 42.0
+        "Price": 45.0
     },
     {
         "Item": "Naan - Paratha",
@@ -3337,7 +3333,7 @@
     },
     {
         "Item": "Potato Idaho",
-        "Price": 30.0
+        "Price": 25.0
     },
     {
         "Item": "Potato Leaves",
@@ -3361,7 +3357,7 @@
     },
     {
         "Item": "Potato White 'A'",
-        "Price": 49.0
+        "Price": 52.0
     },
     {
         "Item": "Potato White 'B'",
@@ -3685,15 +3681,15 @@
     },
     {
         "Item": "Sriracha Chili Sauce 17oz",
-        "Price": 54.0
+        "Price": 84.0
     },
     {
         "Item": "Sriracha Chili Sauce 28 oz",
-        "Price": 69.0
+        "Price": 94.0
     },
     {
         "Item": "Sriracha Chili Sauce 9oz",
-        "Price": 45.0
+        "Price": 84.0
     },
     {
         "Item": "Straw Coconut",
@@ -3857,7 +3853,7 @@
     },
     {
         "Item": "Valor - Broad",
-        "Price": 80.0
+        "Price": 5.0
     },
     {
         "Item": "Valor - Long Florida",
@@ -3921,7 +3917,7 @@
     },
     {
         "Item": "Yellow Noodles 10 X 5 Lbs.",
-        "Price": 69.0
+        "Price": 74.0
     },
     {
         "Item": "Yu Choi",
@@ -3938,6 +3934,10 @@
     {
         "Item": "Zed Black Dhoop Cones",
         "Price": 10.0
+    },
+    {
+        "Item": "Zed Black Dhoop Stick 3 in 1",
+        "Price": 11.0
     },
     {
         "Item": "Zed Black Gauved Dhoop Cup",
