@@ -173,7 +173,7 @@
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 39.0
+        "Price": 37.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -313,7 +313,7 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 36.0
+        "Price": 33.0
     },
     {
         "Item": "Coconut Dry",
@@ -345,7 +345,7 @@
     },
     {
         "Item": "CranBerry Beans",
-        "Price": 80.0
+        "Price": 75.0
     },
     {
         "Item": "CREDIT",
@@ -689,7 +689,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 55.0
+        "Price": 49.0
     },
     {
         "Item": "Fatafat Candy 18 Jars",
@@ -1561,7 +1561,7 @@
     },
     {
         "Item": "FROZEN:Gulab Jamun 20 Pcs. Nanak",
-        "Price": 62.0
+        "Price": 80.0
     },
     {
         "Item": "FROZEN:Italian Blend Regal",
@@ -1697,7 +1697,7 @@
     },
     {
         "Item": "FRUITS:Anar 7 Sz.",
-        "Price": 29.0
+        "Price": 39.0
     },
     {
         "Item": "FRUITS:Apple 72 pcs.",
@@ -1817,7 +1817,7 @@
     },
     {
         "Item": "FRUITS:Guava Mexican in CTN",
-        "Price": 53.0
+        "Price": 50.0
     },
     {
         "Item": "FRUITS:Hami Melon",
@@ -1892,12 +1892,8 @@
         "Price": 20.0
     },
     {
-        "Item": "FRUITS:Manzano Banana 15 Lb.",
-        "Price": 28.0
-    },
-    {
         "Item": "FRUITS:Manzano Banana 20 Lbs.",
-        "Price": 32.0
+        "Price": 28.0
     },
     {
         "Item": "FRUITS:Nectarine",
@@ -2049,7 +2045,7 @@
     },
     {
         "Item": "Ginger Regular",
-        "Price": 49.0
+        "Price": 57.0
     },
     {
         "Item": "Ginger Young",
@@ -2796,6 +2792,10 @@
         "Price": 0.0
     },
     {
+        "Item": "Lime 150 Pcs.",
+        "Price": 55.0
+    },
+    {
         "Item": "Lime 175 Ct.",
         "Price": 62.0
     },
@@ -2829,7 +2829,7 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 34.0
+        "Price": 39.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -2880,7 +2880,7 @@
         "Price": 8.0
     },
     {
-        "Item": "Maria Crackers 7 Oz. X 16 Pks.",
+        "Item": "Maria Crackers Family Pack 28 o",
         "Price": 27.0
     },
     {
@@ -2921,7 +2921,7 @@
     },
     {
         "Item": "Methi - TX",
-        "Price": 35.0
+        "Price": 45.0
     },
     {
         "Item": "Milo Jamaican Tin 12 X 14 Oz.",
@@ -3305,11 +3305,11 @@
     },
     {
         "Item": "Pocas Ginger Milk Teas 20 Pks.",
-        "Price": 70.0
+        "Price": 68.0
     },
     {
         "Item": "Pocas Ginger Teas 20 Pks. X 24",
-        "Price": 62.0
+        "Price": 60.0
     },
     {
         "Item": "Poi Saag",
@@ -3326,10 +3326,6 @@
     {
         "Item": "Poojan Box",
         "Price": 10.0
-    },
-    {
-        "Item": "Potato Estern 5 Lb.",
-        "Price": 38.0
     },
     {
         "Item": "Potato Idaho",
@@ -3433,7 +3429,7 @@
     },
     {
         "Item": "Red Chillie",
-        "Price": 79.0
+        "Price": 60.0
     },
     {
         "Item": "Red Flat Beans",
@@ -3653,7 +3649,7 @@
     },
     {
         "Item": "Snake Gourd 30Lbs.",
-        "Price": 55.0
+        "Price": 46.0
     },
     {
         "Item": "Snow Peas",
