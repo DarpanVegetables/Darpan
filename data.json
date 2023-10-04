@@ -249,7 +249,7 @@
     },
     {
         "Item": "Chayote Black",
-        "Price": 54.0
+        "Price": 50.0
     },
     {
         "Item": "Chayote Leaves",
@@ -1696,8 +1696,8 @@
         "Price": 0.0
     },
     {
-        "Item": "FRUITS:Anar 7 Sz.",
-        "Price": 39.0
+        "Item": "FRUITS:Anar 26 Sz.",
+        "Price": 49.0
     },
     {
         "Item": "FRUITS:Apple 72 pcs.",
@@ -2816,8 +2816,8 @@
         "Price": 85.0
     },
     {
-        "Item": "Long Beans Oil 40 Lb.",
-        "Price": 78.0
+        "Item": "Long Beans Oil 10 Lb.",
+        "Price": 45.0
     },
     {
         "Item": "Long Beans White 10 Lb.",
@@ -2904,7 +2904,7 @@
         "Price": 84.0
     },
     {
-        "Item": "Medium Chillie 15 lb.",
+        "Item": "Medium Chillie 10 lb.",
         "Price": 32.0
     },
     {
@@ -3013,7 +3013,7 @@
     },
     {
         "Item": "Mustard Green Baby",
-        "Price": 45.0
+        "Price": 34.0
     },
     {
         "Item": "Naan - Paratha",
@@ -3113,7 +3113,7 @@
     },
     {
         "Item": "Onion Yellow - Canadian 10 Lbs.",
-        "Price": 5.5
+        "Price": 5.0
     },
     {
         "Item": "Onion Yellow 10 lb.",
@@ -3265,7 +3265,7 @@
     },
     {
         "Item": "Plastic Tray 6 Compartment",
-        "Price": 67.0
+        "Price": 56.0
     },
     {
         "Item": "Plastic Tray 7 Compartment",
@@ -3292,8 +3292,8 @@
         "Price": 1.0
     },
     {
-        "Item": "Pocas Bowl Noodle Soup 16/3.17",
-        "Price": 16.0
+        "Item": "Pocas Bowl Noodle Soup 12/3.17",
+        "Price": 15.0
     },
     {
         "Item": "Pocas Bubble Teas",
@@ -3481,7 +3481,7 @@
     },
     {
         "Item": "Round Long Squash",
-        "Price": 60.0
+        "Price": 70.0
     },
     {
         "Item": "Royal Pani Puri 18 X 4 Oz.",
@@ -3649,7 +3649,7 @@
     },
     {
         "Item": "Snake Gourd 30Lbs.",
-        "Price": 46.0
+        "Price": 48.0
     },
     {
         "Item": "Snow Peas",
