@@ -33,7 +33,7 @@
     },
     {
         "Item": "Banana Flower",
-        "Price": 49.0
+        "Price": 55.0
     },
     {
         "Item": "Banana Leaves Fresh",
@@ -640,6 +640,10 @@
         "Price": 55.0
     },
     {
+        "Item": "Dunge Chilies",
+        "Price": 7.0
+    },
+    {
         "Item": "Edos",
         "Price": 44.0
     },
@@ -661,7 +665,7 @@
     },
     {
         "Item": "Eggplant Chinese",
-        "Price": 45.0
+        "Price": 55.0
     },
     {
         "Item": "Eggplant Dominican",
@@ -681,7 +685,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 42.0
+        "Price": 53.0
     },
     {
         "Item": "Eggplant Plants",
@@ -1809,7 +1813,7 @@
     },
     {
         "Item": "FRUITS:Guava - Thai",
-        "Price": 65.0
+        "Price": 55.0
     },
     {
         "Item": "FRUITS:Guava Chinese",
@@ -3789,7 +3793,7 @@
     },
     {
         "Item": "Toori Saag",
-        "Price": 37.5
+        "Price": 38.0
     },
     {
         "Item": "Tortillas Flour 12 X 12 Pcs.",
