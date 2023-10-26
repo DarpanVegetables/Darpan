@@ -53,7 +53,7 @@
     },
     {
         "Item": "Bell Pepper",
-        "Price": 28.0
+        "Price": 33.0
     },
     {
         "Item": "Bell Pepper Red",
@@ -173,7 +173,7 @@
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 35.0
+        "Price": 38.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -213,7 +213,7 @@
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
-        "Price": 39.0
+        "Price": 43.0
     },
     {
         "Item": "Celery",
@@ -257,7 +257,7 @@
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 44.0
+        "Price": 45.0
     },
     {
         "Item": "Chayote White",
@@ -345,7 +345,7 @@
     },
     {
         "Item": "CranBerry Beans",
-        "Price": 80.0
+        "Price": 88.0
     },
     {
         "Item": "CREDIT",
@@ -453,7 +453,7 @@
     },
     {
         "Item": "Dhania-Local",
-        "Price": 27.0
+        "Price": 23.0
     },
     {
         "Item": "Dhania - 60 Bunches Paperbox",
@@ -661,7 +661,7 @@
     },
     {
         "Item": "Eggplant Chinese",
-        "Price": 39.0
+        "Price": 45.0
     },
     {
         "Item": "Eggplant Dominican",
@@ -1725,7 +1725,7 @@
     },
     {
         "Item": "FRUITS:Banana",
-        "Price": 21.0
+        "Price": 22.0
     },
     {
         "Item": "FRUITS:Banana - Green",
@@ -1805,7 +1805,7 @@
     },
     {
         "Item": "FRUITS:Green Jack Fruit",
-        "Price": 45.0
+        "Price": 49.0
     },
     {
         "Item": "FRUITS:Guava - Thai",
@@ -1981,7 +1981,7 @@
     },
     {
         "Item": "Garlic Loose",
-        "Price": 84.0
+        "Price": 88.0
     },
     {
         "Item": "Garlic Peeled 1 lb. X 20 Packs",
@@ -2361,7 +2361,7 @@
     },
     {
         "Item": "Grocery:Sunflower Oil 12/1 Ltr Plastic",
-        "Price": 52.0
+        "Price": 43.0
     },
     {
         "Item": "Grocery:Sunflower oil 4/5 Ltr Tin",
@@ -2369,7 +2369,7 @@
     },
     {
         "Item": "Grocery:Sunflower Oil 6/2 Lit Plastic B",
-        "Price": 50.0
+        "Price": 42.0
     },
     {
         "Item": "Guava Candy 30 X 12.3 Oz. Bag",
@@ -2617,7 +2617,7 @@
     },
     {
         "Item": "Karela - Local Florida",
-        "Price": 42.0
+        "Price": 48.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -2801,7 +2801,7 @@
     },
     {
         "Item": "Long Beans Green 30lbs",
-        "Price": 90.0
+        "Price": 95.0
     },
     {
         "Item": "Long Beans Oil 10 Lb.",
@@ -2825,7 +2825,7 @@
     },
     {
         "Item": "Long Squash ( INDIAN )",
-        "Price": 56.0
+        "Price": 55.0
     },
     {
         "Item": "Long Squash Plants",
@@ -2866,6 +2866,10 @@
     {
         "Item": "Mango Leaves",
         "Price": 8.0
+    },
+    {
+        "Item": "Mango Pickle Sugrim",
+        "Price": 52.0
     },
     {
         "Item": "Maria Crackers Family Pack 28 o",
@@ -2909,7 +2913,7 @@
     },
     {
         "Item": "Methi - TX",
-        "Price": 39.0
+        "Price": 33.0
     },
     {
         "Item": "Milo Jamaican Tin 12 X 14 Oz.",
@@ -2965,11 +2969,11 @@
     },
     {
         "Item": "Muli - TX",
-        "Price": 35.0
+        "Price": 32.0
     },
     {
         "Item": "Muli Saag ( Yul Moo)",
-        "Price": 48.0
+        "Price": 45.0
     },
     {
         "Item": "Muli W/O Leafs",
@@ -3045,7 +3049,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 32.0
+        "Price": 30.0
     },
     {
         "Item": "Okra Plants",
@@ -3529,7 +3533,7 @@
     },
     {
         "Item": "Sarso Ka Saag",
-        "Price": 52.0
+        "Price": 49.0
     },
     {
         "Item": "Scallions / Green Onion",
@@ -3725,7 +3729,11 @@
     },
     {
         "Item": "Sweet Potato",
-        "Price": 64.0
+        "Price": 67.0
+    },
+    {
+        "Item": "Sweet potato Local",
+        "Price": 34.0
     },
     {
         "Item": "Sweet Tamarind Box 454 Gms. X 1",
@@ -3773,7 +3781,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 52.0
+        "Price": 55.0
     },
     {
         "Item": "Toddy Palm in Syrup",
@@ -3885,11 +3893,11 @@
     },
     {
         "Item": "Win Beans",
-        "Price": 69.0
+        "Price": 65.0
     },
     {
         "Item": "Winter Melon",
-        "Price": 30.0
+        "Price": 25.0
     },
     {
         "Item": "Yam Brazil - Cuscus",
