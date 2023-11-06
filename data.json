@@ -453,7 +453,7 @@
     },
     {
         "Item": "Desi Papri 20Lbs",
-        "Price": 91.0
+        "Price": 98.0
     },
     {
         "Item": "Dhania-Local",
@@ -1652,6 +1652,10 @@
         "Price": 22.0
     },
     {
+        "Item": "FROZEN:Potato Fries Crinkle cut",
+        "Price": 42.0
+    },
+    {
         "Item": "FROZEN:Punjabi Samosa 12 X 8 75 Gms.La",
         "Price": 59.0
     },
@@ -2805,7 +2809,7 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 54.0
+        "Price": 59.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -2813,7 +2817,7 @@
     },
     {
         "Item": "Long Squash ( INDIAN )",
-        "Price": 52.0
+        "Price": 65.0
     },
     {
         "Item": "Long Squash Plants",
@@ -3041,7 +3045,7 @@
     },
     {
         "Item": "Okra Reg",
-        "Price": 42.0
+        "Price": 38.0
     },
     {
         "Item": "Olive Oil Extra Virgin 4 X 3 li",
@@ -3165,7 +3169,7 @@
     },
     {
         "Item": "Parval",
-        "Price": 62.0
+        "Price": 70.0
     },
     {
         "Item": "Pear Golden 9 Sz.",
@@ -3545,7 +3549,7 @@
     },
     {
         "Item": "Small Chilli",
-        "Price": 58.0
+        "Price": 74.0
     },
     {
         "Item": "Small Chillie Plants",
