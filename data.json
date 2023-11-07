@@ -173,11 +173,11 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 42.0
+        "Price": 40.0
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 38.0
+        "Price": 34.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -253,7 +253,7 @@
     },
     {
         "Item": "Chayote Black",
-        "Price": 50.0
+        "Price": 36.0
     },
     {
         "Item": "Chayote Leaves",
@@ -317,7 +317,7 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 33.0
+        "Price": 29.0
     },
     {
         "Item": "Coconut Dry",
@@ -1612,6 +1612,10 @@
         "Price": 52.0
     },
     {
+        "Item": "FROZEN:nanak Gajar Halwa 850 Gms. X 10",
+        "Price": 80.0
+    },
+    {
         "Item": "FROZEN:Nanak Gulab Jamun 300 Pcs.",
         "Price": 79.0
     },
@@ -2805,7 +2809,7 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 52.0
+        "Price": 48.0
     },
     {
         "Item": "Long Squash",
@@ -3521,7 +3525,7 @@
     },
     {
         "Item": "Sarso Ka Saag",
-        "Price": 48.0
+        "Price": 42.0
     },
     {
         "Item": "Scallions / Green Onion",
@@ -3829,7 +3833,7 @@
     },
     {
         "Item": "Turnip",
-        "Price": 28.0
+        "Price": 24.0
     },
     {
         "Item": "Tuver Fresh",
