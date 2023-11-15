@@ -53,7 +53,7 @@
     },
     {
         "Item": "Bell Pepper",
-        "Price": 25.0
+        "Price": 32.0
     },
     {
         "Item": "Bell Pepper Red",
@@ -173,7 +173,7 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 40.0
+        "Price": 41.0
     },
     {
         "Item": "Calabasa -Larga Long",
@@ -249,7 +249,7 @@
     },
     {
         "Item": "Chayote",
-        "Price": 39.0
+        "Price": 35.0
     },
     {
         "Item": "Chayote Black",
@@ -453,7 +453,7 @@
     },
     {
         "Item": "Desi Papri 20Lbs",
-        "Price": 98.0
+        "Price": 75.0
     },
     {
         "Item": "Dhania-Local",
@@ -709,7 +709,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 45.0
+        "Price": 49.0
     },
     {
         "Item": "Fatafat Candy 18 Jars",
@@ -1728,8 +1728,8 @@
         "Price": 0.0
     },
     {
-        "Item": "FRUITS:Anar 26 Sz.",
-        "Price": 49.0
+        "Item": "FRUITS:Anar 16 Sz.",
+        "Price": 55.0
     },
     {
         "Item": "FRUITS:Apple 72 pcs.",
@@ -1913,7 +1913,7 @@
     },
     {
         "Item": "FRUITS:Manzano Banana 20 Lbs.",
-        "Price": 29.0
+        "Price": 30.0
     },
     {
         "Item": "FRUITS:Nectarine",
@@ -2777,7 +2777,7 @@
     },
     {
         "Item": "Lemon 140 Sz.",
-        "Price": 59.0
+        "Price": 49.0
     },
     {
         "Item": "Lettuce",
@@ -2796,15 +2796,15 @@
         "Price": 139.0
     },
     {
-        "Item": "Long Beans - White 30lbs.",
-        "Price": 95.0
-    },
-    {
         "Item": "Long Beans Green 30lbs",
         "Price": 90.0
     },
     {
         "Item": "Long Beans Oil 10 Lb.",
+        "Price": 45.0
+    },
+    {
+        "Item": "long beans white 10 lb",
         "Price": 45.0
     },
     {
@@ -2905,7 +2905,7 @@
     },
     {
         "Item": "Methi - TX",
-        "Price": 35.0
+        "Price": 38.0
     },
     {
         "Item": "Milo Jamaican Tin 12 X 14 Oz.",
@@ -2961,7 +2961,7 @@
     },
     {
         "Item": "Muli - TX",
-        "Price": 29.0
+        "Price": 38.0
     },
     {
         "Item": "Muli Saag ( Yul Moo)",
@@ -3041,7 +3041,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 36.0
+        "Price": 32.0
     },
     {
         "Item": "Okra Plants",
@@ -3301,7 +3301,7 @@
     },
     {
         "Item": "Poi Saag",
-        "Price": 35.0
+        "Price": 38.0
     },
     {
         "Item": "Pole Beans",
@@ -3525,7 +3525,7 @@
     },
     {
         "Item": "Sarso Ka Saag",
-        "Price": 42.0
+        "Price": 45.0
     },
     {
         "Item": "Scallions / Green Onion",
@@ -3657,7 +3657,7 @@
     },
     {
         "Item": "Spinach Loose",
-        "Price": 53.0
+        "Price": 43.0
     },
     {
         "Item": "Spoon White",
