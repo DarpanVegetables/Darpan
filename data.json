@@ -2617,7 +2617,7 @@
     },
     {
         "Item": "Karela - Local Florida",
-        "Price": 55.0
+        "Price": 50.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -2797,7 +2797,7 @@
     },
     {
         "Item": "Long Beans Green 30lbs",
-        "Price": 90.0
+        "Price": 95.0
     },
     {
         "Item": "Long Beans Oil 10 Lb.",
@@ -2994,6 +2994,10 @@
     {
         "Item": "Mushroom Oystar 5 lbs.",
         "Price": 25.0
+    },
+    {
+        "Item": "Mushroom White Beach ( 40X 150",
+        "Price": 38.0
     },
     {
         "Item": "Mustard Green Baby",
@@ -3637,7 +3641,7 @@
     },
     {
         "Item": "Snake Gourd 30Lbs.",
-        "Price": 58.0
+        "Price": 55.0
     },
     {
         "Item": "Snow Peas",
@@ -3690,6 +3694,10 @@
     {
         "Item": "String Beans",
         "Price": 22.0
+    },
+    {
+        "Item": "Sugar Cane Stick Lrg.",
+        "Price": 24.0
     },
     {
         "Item": "Sugarcan(Lrg) Can 12 X 48 Oz.",
@@ -3773,7 +3781,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 69.0
+        "Price": 84.0
     },
     {
         "Item": "Toddy Palm in Syrup",
