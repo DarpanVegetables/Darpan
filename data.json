@@ -173,11 +173,11 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 41.0
+        "Price": 42.0
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 34.0
+        "Price": 35.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -205,7 +205,7 @@
     },
     {
         "Item": "Carrots 1 LB. bag/ 30",
-        "Price": 25.0
+        "Price": 45.0
     },
     {
         "Item": "cash",
@@ -213,7 +213,7 @@
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 28.0
+        "Price": 29.0
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
@@ -249,11 +249,11 @@
     },
     {
         "Item": "Chayote",
-        "Price": 35.0
+        "Price": 40.0
     },
     {
         "Item": "Chayote Black",
-        "Price": 36.0
+        "Price": 48.0
     },
     {
         "Item": "Chayote Leaves",
@@ -261,7 +261,7 @@
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 45.0
+        "Price": 48.0
     },
     {
         "Item": "Chayote White",
@@ -317,7 +317,7 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 26.0
+        "Price": 30.0
     },
     {
         "Item": "Coconut Dry",
@@ -365,7 +365,7 @@
     },
     {
         "Item": "Culantro",
-        "Price": 38.0
+        "Price": 35.0
     },
     {
         "Item": "Curry Leaves",
@@ -465,7 +465,7 @@
     },
     {
         "Item": "Dill",
-        "Price": 45.0
+        "Price": 49.0
     },
     {
         "Item": "Din Din  Candy Jar 24 Bottles",
@@ -733,7 +733,7 @@
     },
     {
         "Item": "Flat Beans",
-        "Price": 30.0
+        "Price": 52.0
     },
     {
         "Item": "Flat Puri",
@@ -1929,7 +1929,7 @@
     },
     {
         "Item": "FRUITS:Papaya Yellow",
-        "Price": 42.0
+        "Price": 45.0
     },
     {
         "Item": "FRUITS:Passion Fruit",
@@ -2273,7 +2273,7 @@
     },
     {
         "Item": "Grocery:Maggie Masala Noodle 560 Gms. X",
-        "Price": 28.0
+        "Price": 32.0
     },
     {
         "Item": "Grocery:Maggie Masala Noodles 280 Gms.",
@@ -2281,7 +2281,7 @@
     },
     {
         "Item": "Grocery:Maggie Masala Noodles 70 Gms. X",
-        "Price": 28.0
+        "Price": 32.0
     },
     {
         "Item": "Grocery:Masala Para 4 Ctn.",
@@ -2777,7 +2777,7 @@
     },
     {
         "Item": "Lemon 140 Sz.",
-        "Price": 49.0
+        "Price": 58.0
     },
     {
         "Item": "Lettuce",
@@ -2809,7 +2809,7 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 48.0
+        "Price": 46.0
     },
     {
         "Item": "Long Squash",
@@ -2925,7 +2925,7 @@
     },
     {
         "Item": "Mint",
-        "Price": 15.0
+        "Price": 14.0
     },
     {
         "Item": "Misc",
@@ -3481,7 +3481,7 @@
     },
     {
         "Item": "Rulo Banana",
-        "Price": 28.0
+        "Price": 26.0
     },
     {
         "Item": "Rumali Roti",
@@ -3529,7 +3529,7 @@
     },
     {
         "Item": "Sarso Ka Saag",
-        "Price": 45.0
+        "Price": 48.0
     },
     {
         "Item": "Scallions / Green Onion",
@@ -3864,6 +3864,10 @@
         "Price": 95.0
     },
     {
+        "Item": "Valor - Round Dominican",
+        "Price": 78.0
+    },
+    {
         "Item": "Valor Beans 20Lbs.",
         "Price": 59.0
     },
@@ -3901,11 +3905,11 @@
     },
     {
         "Item": "Yam Brazil - Cuscus",
-        "Price": 69.0
+        "Price": 60.0
     },
     {
         "Item": "Yam Costa Rican",
-        "Price": 65.0
+        "Price": 60.0
     },
     {
         "Item": "Yam Leaf",
