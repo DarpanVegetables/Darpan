@@ -673,7 +673,7 @@
     },
     {
         "Item": "Eggplant  American",
-        "Price": 28.0
+        "Price": 29.0
     },
     {
         "Item": "Eggplant Canadian",
@@ -1728,7 +1728,7 @@
         "Price": 0.0
     },
     {
-        "Item": "FRUITS:Anar 16 Sz.",
+        "Item": "FRUITS:Anar 18 Sz.",
         "Price": 55.0
     },
     {
@@ -1929,7 +1929,7 @@
     },
     {
         "Item": "FRUITS:Papaya Yellow",
-        "Price": 45.0
+        "Price": 48.0
     },
     {
         "Item": "FRUITS:Passion Fruit",
@@ -1973,7 +1973,7 @@
     },
     {
         "Item": "FRUITS:Tangerine Box 3 X Small Box",
-        "Price": 39.0
+        "Price": 45.0
     },
     {
         "Item": "FRUITS:Watermelon Pcs.",
@@ -2788,7 +2788,7 @@
         "Price": 0.0
     },
     {
-        "Item": "Lime 175 Pcs. - Kagati",
+        "Item": "Lime 150 Pcs.",
         "Price": 49.0
     },
     {
@@ -2853,7 +2853,7 @@
     },
     {
         "Item": "Malanga White",
-        "Price": 74.0
+        "Price": 94.0
     },
     {
         "Item": "Mango Leaves",
@@ -3321,7 +3321,7 @@
     },
     {
         "Item": "Potato Idaho",
-        "Price": 25.0
+        "Price": 22.0
     },
     {
         "Item": "Potato Leaves",
@@ -3329,11 +3329,11 @@
     },
     {
         "Item": "Potato Red 'A'",
-        "Price": 39.0
+        "Price": 38.0
     },
     {
         "Item": "Potato Red 'B'",
-        "Price": 49.0
+        "Price": 46.0
     },
     {
         "Item": "Potato Red 'C'",
@@ -3409,7 +3409,7 @@
     },
     {
         "Item": "Rambutan",
-        "Price": 30.0
+        "Price": 44.0
     },
     {
         "Item": "Rasmalai Big 6 Pcs.",
