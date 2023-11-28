@@ -89,7 +89,7 @@
     },
     {
         "Item": "Biodegradable 7 ' Compartment",
-        "Price": 53.0
+        "Price": 67.0
     },
     {
         "Item": "Biodegradable 7 ' Plain Plate",
@@ -129,7 +129,7 @@
     },
     {
         "Item": "Bombay Pav",
-        "Price": 18.0
+        "Price": 20.0
     },
     {
         "Item": "Bor # 1",
@@ -201,7 +201,7 @@
     },
     {
         "Item": "Carrots",
-        "Price": 30.0
+        "Price": 42.0
     },
     {
         "Item": "Carrots 1 LB. bag/ 30",
@@ -461,7 +461,7 @@
     },
     {
         "Item": "Dhania - 60 Bunches Paperbox",
-        "Price": 22.0
+        "Price": 27.0
     },
     {
         "Item": "Dill",
@@ -681,7 +681,7 @@
     },
     {
         "Item": "Eggplant Chinese",
-        "Price": 59.0
+        "Price": 45.0
     },
     {
         "Item": "Eggplant Dominican",
@@ -2069,7 +2069,7 @@
     },
     {
         "Item": "Ginger Regular",
-        "Price": 62.0
+        "Price": 45.0
     },
     {
         "Item": "Ginger Young",
@@ -2737,7 +2737,7 @@
     },
     {
         "Item": "Kirbi",
-        "Price": 45.0
+        "Price": 42.0
     },
     {
         "Item": "Kitkat",
@@ -2809,7 +2809,7 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 46.0
+        "Price": 42.0
     },
     {
         "Item": "Long Squash",
@@ -2969,7 +2969,7 @@
     },
     {
         "Item": "Muli W/O Leafs",
-        "Price": 32.0
+        "Price": 35.0
     },
     {
         "Item": "Mundu Chillie Round 200 Gms,",
@@ -3045,7 +3045,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 32.0
+        "Price": 26.0
     },
     {
         "Item": "Okra Plants",
@@ -3053,7 +3053,7 @@
     },
     {
         "Item": "Okra Reg",
-        "Price": 42.0
+        "Price": 36.0
     },
     {
         "Item": "Olive Oil Extra Virgin 4 X 3 li",
@@ -3341,7 +3341,7 @@
     },
     {
         "Item": "Potato Red  5Lb.",
-        "Price": 34.0
+        "Price": 32.0
     },
     {
         "Item": "Potato White 'A'",
@@ -3557,7 +3557,7 @@
     },
     {
         "Item": "Small Chilli",
-        "Price": 74.0
+        "Price": 54.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -3673,7 +3673,7 @@
     },
     {
         "Item": "Sriracha Chili Sauce 28 oz",
-        "Price": 84.0
+        "Price": 55.0
     },
     {
         "Item": "Sriracha Chili Sauce 9oz",
@@ -3841,7 +3841,7 @@
     },
     {
         "Item": "Turnip",
-        "Price": 24.0
+        "Price": 23.0
     },
     {
         "Item": "Tuver Fresh",
@@ -3853,11 +3853,7 @@
     },
     {
         "Item": "Valor - Broad",
-        "Price": 5.0
-    },
-    {
-        "Item": "Valor - Long Florida",
-        "Price": 79.0
+        "Price": 80.0
     },
     {
         "Item": "Valor - Purple 20 Lbs.",
@@ -3870,10 +3866,6 @@
     {
         "Item": "Valor Beans 20Lbs.",
         "Price": 59.0
-    },
-    {
-        "Item": "Valor Plants",
-        "Price": 28.0
     },
     {
         "Item": "Vegetable Roll - Big roll Plast",
