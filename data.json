@@ -461,7 +461,7 @@
     },
     {
         "Item": "Dhania - 60 Bunches Paperbox",
-        "Price": 27.0
+        "Price": 22.0
     },
     {
         "Item": "Dill",
@@ -3177,7 +3177,7 @@
     },
     {
         "Item": "Parval",
-        "Price": 70.0
+        "Price": 87.0
     },
     {
         "Item": "Pear Golden 9 Sz.",
@@ -3349,7 +3349,7 @@
     },
     {
         "Item": "Potato White 'B'",
-        "Price": 68.0
+        "Price": 59.0
     },
     {
         "Item": "Potato White 'C'",
@@ -3417,7 +3417,7 @@
     },
     {
         "Item": "Ratalu",
-        "Price": 90.0
+        "Price": 125.0
     },
     {
         "Item": "Red Chillie",
@@ -3825,7 +3825,7 @@
     },
     {
         "Item": "Turia - Chinese Okra",
-        "Price": 59.0
+        "Price": 55.0
     },
     {
         "Item": "Turmeric White",
@@ -3854,6 +3854,10 @@
     {
         "Item": "Valor - Broad",
         "Price": 80.0
+    },
+    {
+        "Item": "Valor - Long Florida",
+        "Price": 95.0
     },
     {
         "Item": "Valor - Purple 20 Lbs.",
