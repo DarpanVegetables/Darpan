@@ -161,7 +161,7 @@
     },
     {
         "Item": "Cabbage Flat",
-        "Price": 25.0
+        "Price": 32.0
     },
     {
         "Item": "Cabbage in Box",
@@ -177,7 +177,7 @@
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 35.0
+        "Price": 39.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -193,19 +193,11 @@
     },
     {
         "Item": "Carrot Baby",
-        "Price": 30.0
-    },
-    {
-        "Item": "Carrot Indian",
-        "Price": 48.0
+        "Price": 44.0
     },
     {
         "Item": "Carrots",
-        "Price": 42.0
-    },
-    {
-        "Item": "Carrots 1 LB. bag/ 30",
-        "Price": 45.0
+        "Price": 33.0
     },
     {
         "Item": "cash",
@@ -261,7 +253,7 @@
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 48.0
+        "Price": 46.0
     },
     {
         "Item": "Chayote White",
@@ -365,7 +357,7 @@
     },
     {
         "Item": "Culantro",
-        "Price": 35.0
+        "Price": 37.0
     },
     {
         "Item": "Curry Leaves",
@@ -457,11 +449,15 @@
     },
     {
         "Item": "Dhania-Local",
-        "Price": 23.0
+        "Price": 29.0
+    },
+    {
+        "Item": "Dhania-TX",
+        "Price": 29.0
     },
     {
         "Item": "Dhania - 60 Bunches Paperbox",
-        "Price": 22.0
+        "Price": 28.0
     },
     {
         "Item": "Dill",
@@ -681,7 +677,7 @@
     },
     {
         "Item": "Eggplant Chinese",
-        "Price": 45.0
+        "Price": 52.0
     },
     {
         "Item": "Eggplant Dominican",
@@ -701,7 +697,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 59.0
+        "Price": 50.0
     },
     {
         "Item": "Eggplant Plants",
@@ -709,7 +705,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 49.0
+        "Price": 54.0
     },
     {
         "Item": "Fatafat Candy 18 Jars",
@@ -1185,7 +1181,7 @@
     },
     {
         "Item": "FROZEN:DD Paratha Malabar Family",
-        "Price": 72.0
+        "Price": 66.0
     },
     {
         "Item": "FROZEN:DD Paratha Onion",
@@ -1829,7 +1825,7 @@
     },
     {
         "Item": "FRUITS:Guava - Thai",
-        "Price": 60.0
+        "Price": 75.0
     },
     {
         "Item": "FRUITS:Guava Chinese",
@@ -2616,8 +2612,12 @@
         "Price": 11.0
     },
     {
+        "Item": "Karela - Hondurus",
+        "Price": 42.0
+    },
+    {
         "Item": "Karela - Local Florida",
-        "Price": 48.0
+        "Price": 50.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -2737,7 +2737,7 @@
     },
     {
         "Item": "Kirbi",
-        "Price": 39.0
+        "Price": 35.0
     },
     {
         "Item": "Kitkat",
@@ -2792,28 +2792,20 @@
         "Price": 49.0
     },
     {
-        "Item": "Long Beans - Red",
-        "Price": 139.0
-    },
-    {
         "Item": "Long Beans Green 30lbs",
         "Price": 95.0
     },
     {
-        "Item": "Long Beans Oil 10 Lb.",
-        "Price": 45.0
-    },
-    {
-        "Item": "long beans white 10 lb",
-        "Price": 45.0
+        "Item": "Long beans white 30 lb",
+        "Price": 115.0
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 39.0
+        "Price": 31.0
     },
     {
         "Item": "Long Squash",
-        "Price": 75.0
+        "Price": 65.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -3421,7 +3413,7 @@
     },
     {
         "Item": "Red Chillie",
-        "Price": 95.0
+        "Price": 85.0
     },
     {
         "Item": "Red Flat Beans",
@@ -3557,7 +3549,7 @@
     },
     {
         "Item": "Small Chilli",
-        "Price": 54.0
+        "Price": 45.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -3801,7 +3793,7 @@
     },
     {
         "Item": "Tree Tomatoes",
-        "Price": 34.0
+        "Price": 39.0
     },
     {
         "Item": "Tulsi - Fresh",
@@ -3853,7 +3845,7 @@
     },
     {
         "Item": "Valor - Broad",
-        "Price": 62.0
+        "Price": 53.0
     },
     {
         "Item": "Valor - Long Florida",
@@ -3865,7 +3857,7 @@
     },
     {
         "Item": "Valor - Round Dominican",
-        "Price": 78.0
+        "Price": 49.0
     },
     {
         "Item": "Valor Beans 20Lbs.",
