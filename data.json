@@ -1,5 +1,17 @@
 [
     {
+        "Item": "Packing Tape",
+        "Price": 36.0
+    },
+    {
+        "Item": "Pallet",
+        "Price": 5.0
+    },
+    {
+        "Item": "Trash removal",
+        "Price": 0.0
+    },
+    {
         "Item": "Aagi no Moto - 16 oz",
         "Price": 75.0
     },
@@ -136,10 +148,6 @@
         "Price": 29.0
     },
     {
-        "Item": "Broccoli Rab",
-        "Price": 49.0
-    },
-    {
         "Item": "Broom",
         "Price": 2.5
     },
@@ -173,7 +181,7 @@
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 52.0
+        "Price": 65.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -249,7 +257,7 @@
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 47.0
+        "Price": 46.0
     },
     {
         "Item": "Chayote White",
@@ -305,7 +313,7 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 39.0
+        "Price": 32.0
     },
     {
         "Item": "Coconut Dry",
@@ -388,11 +396,11 @@
         "Price": 0.0
     },
     {
-        "Item": "Avocados",
+        "Item": "Daily:Avocados",
         "Price": 39.0
     },
     {
-        "Item": "Tomato Plum",
+        "Item": "Daily:Tomato Plum",
         "Price": 45.0
     },
     {
@@ -457,7 +465,7 @@
     },
     {
         "Item": "Dill",
-        "Price": 35.0
+        "Price": 27.0
     },
     {
         "Item": "Din Din  Candy Jar 24 Bottles",
@@ -492,156 +500,156 @@
         "Price": 0.0
     },
     {
-        "Item": "Aloe Vera Drink 16 Oz.Organic",
+        "Item": "Drinks:Aloe Vera Drink 16 Oz.Organic",
         "Price": 30.0
     },
     {
-        "Item": "Aloe Vera Drink 16.9 Oz. X 20",
+        "Item": "Drinks:Aloe Vera Drink 16.9 Oz. X 20",
         "Price": 22.0
     },
     {
-        "Item": "Aloe Vera Drink 50.7 Oz Organic",
+        "Item": "Drinks:Aloe Vera Drink 50.7 Oz Organic",
         "Price": 42.0
     },
     {
-        "Item": "Aloe Vera Drink 50.7Oz.X 12",
+        "Item": "Drinks:Aloe Vera Drink 50.7Oz.X 12",
         "Price": 32.0
     },
     {
-        "Item": "Aloe Vera Lemon Ginger 20/16.9",
+        "Item": "Drinks:Aloe Vera Lemon Ginger 20/16.9",
         "Price": 24.0
     },
     {
-        "Item": "Aloe Vera Watermelon 16.9 oz.",
+        "Item": "Drinks:Aloe Vera Watermelon 16.9 oz.",
         "Price": 21.0
     },
     {
-        "Item": "Cherry Juice 12/ 33.8 Oz.",
+        "Item": "Drinks:Cherry Juice 12/ 33.8 Oz.",
         "Price": 32.0
     },
     {
-        "Item": "COCO Coconut milk Drink 9.8 Fl.",
+        "Item": "Drinks:COCO Coconut milk Drink 9.8 Fl.",
         "Price": 38.0
     },
     {
-        "Item": "Fanta",
+        "Item": "Drinks:Fanta",
         "Price": 18.0
     },
     {
-        "Item": "Foco - Coconut",
+        "Item": "Drinks:Foco - Coconut",
         "Price": 25.0
     },
     {
-        "Item": "Foco - Coconut Tall",
+        "Item": "Drinks:Foco - Coconut Tall",
         "Price": 32.0
     },
     {
-        "Item": "Foco - Guava",
+        "Item": "Drinks:Foco - Guava",
         "Price": 32.0
     },
     {
-        "Item": "Foco - Lychee",
+        "Item": "Drinks:Foco - Lychee",
         "Price": 32.0
     },
     {
-        "Item": "Foco - Mango",
+        "Item": "Drinks:Foco - Mango",
         "Price": 33.0
     },
     {
-        "Item": "Foco - Passian Fruit",
+        "Item": "Drinks:Foco - Passian Fruit",
         "Price": 32.0
     },
     {
-        "Item": "Foco - Pomagranate drink",
+        "Item": "Drinks:Foco - Pomagranate drink",
         "Price": 28.0
     },
     {
-        "Item": "Foco - Sugarcane",
+        "Item": "Drinks:Foco - Sugarcane",
         "Price": 29.0
     },
     {
-        "Item": "Foco - Tamaraind",
+        "Item": "Drinks:Foco - Tamaraind",
         "Price": 32.0
     },
     {
-        "Item": "Foco - Tamarind Tall",
+        "Item": "Drinks:Foco - Tamarind Tall",
         "Price": 37.0
     },
     {
-        "Item": "Frooty Mango Tetra Pack 6 X 6 X",
+        "Item": "Drinks:Frooty Mango Tetra Pack 6 X 6 X",
         "Price": 10.0
     },
     {
-        "Item": "Lassi - Mango 12 / 10 oz.",
+        "Item": "Drinks:Lassi - Mango 12 / 10 oz.",
         "Price": 19.0
     },
     {
-        "Item": "Lassi - Masala Chaas 12 / 10 oz",
+        "Item": "Drinks:Lassi - Masala Chaas 12 / 10 oz",
         "Price": 16.0
     },
     {
-        "Item": "Lassi - Original 12 / 10 oz.",
+        "Item": "Drinks:Lassi - Original 12 / 10 oz.",
         "Price": 16.0
     },
     {
-        "Item": "Limca Bottle 330 Mls.",
+        "Item": "Drinks:Limca Bottle 330 Mls.",
         "Price": 16.0
     },
     {
-        "Item": "Limca Cans 250 Mls.",
+        "Item": "Drinks:Limca Cans 250 Mls.",
         "Price": 19.0
     },
     {
-        "Item": "Maaza Lychee 6X1 Lit",
+        "Item": "Drinks:Maaza Lychee 6X1 Lit",
         "Price": 14.0
     },
     {
-        "Item": "Mazaa guava 12 X 330 Ml.",
+        "Item": "Drinks:Mazaa guava 12 X 330 Ml.",
         "Price": 18.0
     },
     {
-        "Item": "Mazaa Lyche 12 X 330 Mls.",
+        "Item": "Drinks:Mazaa Lyche 12 X 330 Mls.",
         "Price": 13.0
     },
     {
-        "Item": "Mazaa Lyche 6 X 1Lt.",
+        "Item": "Drinks:Mazaa Lyche 6 X 1Lt.",
         "Price": 13.0
     },
     {
-        "Item": "Mazaa Mango 12 X 330 ml.",
+        "Item": "Drinks:Mazaa Mango 12 X 330 ml.",
         "Price": 13.0
     },
     {
-        "Item": "Mazaa Mango 6 X 1Lt..",
+        "Item": "Drinks:Mazaa Mango 6 X 1Lt..",
         "Price": 13.0
     },
     {
-        "Item": "Milo Powder",
+        "Item": "Drinks:Milo Powder",
         "Price": 54.0
     },
     {
-        "Item": "Pocas Milky Drink",
+        "Item": "Drinks:Pocas Milky Drink",
         "Price": 16.0
     },
     {
-        "Item": "Pocas Sparkling Drink",
+        "Item": "Drinks:Pocas Sparkling Drink",
         "Price": 16.0
     },
     {
-        "Item": "Pomagranate Juice",
+        "Item": "Drinks:Pomagranate Juice",
         "Price": 43.0
     },
     {
-        "Item": "Ramune Drink Bottle Soda",
+        "Item": "Drinks:Ramune Drink Bottle Soda",
         "Price": 36.0
     },
     {
-        "Item": "Thumps Up 24 X 300ml",
+        "Item": "Drinks:Thumps Up 24 X 300ml",
         "Price": 18.0
     },
     {
         "Item": "Drumstics",
-        "Price": 140.0
+        "Price": 165.0
     },
     {
         "Item": "Drumstics Leaves",
@@ -665,7 +673,7 @@
     },
     {
         "Item": "Eggplant  American",
-        "Price": 36.0
+        "Price": 29.0
     },
     {
         "Item": "Eggplant Canadian",
@@ -681,7 +689,7 @@
     },
     {
         "Item": "Eggplant Green - Long",
-        "Price": 75.0
+        "Price": 49.0
     },
     {
         "Item": "Eggplant Griffiti",
@@ -693,7 +701,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 49.0
+        "Price": 59.0
     },
     {
         "Item": "Eggplant Plants",
@@ -808,903 +816,903 @@
         "Price": null
     },
     {
-        "Item": "Banana Leaves # 20",
+        "Item": "FROZEN:Banana Leaves # 20",
         "Price": 33.0
     },
     {
-        "Item": "Broccoli Chopped 12 X 2.5 LBs.",
+        "Item": "FROZEN:Broccoli Chopped 12 X 2.5 LBs.",
         "Price": 33.0
     },
     {
-        "Item": "Butter Desi",
+        "Item": "FROZEN:Butter Desi",
         "Price": 90.0
     },
     {
-        "Item": "Carrots Diced-Regal",
+        "Item": "FROZEN:Carrots Diced-Regal",
         "Price": 18.0
     },
     {
-        "Item": "Cauliflower Frozen",
+        "Item": "FROZEN:Cauliflower Frozen",
         "Price": 31.0
     },
     {
-        "Item": "Chapati - Malasian",
+        "Item": "FROZEN:Chapati - Malasian",
         "Price": 57.0
     },
     {
-        "Item": "Chapati Family Pack",
+        "Item": "FROZEN:Chapati Family Pack",
         "Price": 65.0
     },
     {
-        "Item": "Chapati Oat Family Pack",
+        "Item": "FROZEN:Chapati Oat Family Pack",
         "Price": 54.0
     },
     {
-        "Item": "Chapati Reg - Kawan",
+        "Item": "FROZEN:Chapati Reg - Kawan",
         "Price": 54.0
     },
     {
-        "Item": "Chopped Spinach Endico",
+        "Item": "FROZEN:Chopped Spinach Endico",
         "Price": 28.0
     },
     {
-        "Item": "Chopped Spinach Regal",
+        "Item": "FROZEN:Chopped Spinach Regal",
         "Price": 30.0
     },
     {
-        "Item": "Coconut Water - David",
+        "Item": "FROZEN:Coconut Water - David",
         "Price": 26.0
     },
     {
-        "Item": "Corn cut Regal",
+        "Item": "FROZEN:Corn cut Regal",
         "Price": 36.0
     },
     {
-        "Item": "Cut Beans - Regular cut 12/ 2 l",
+        "Item": "FROZEN:Cut Beans - Regular cut 12/ 2 l",
         "Price": 26.0
     },
     {
-        "Item": "Cut Okra Regal 12 X 2 Lbs.",
+        "Item": "FROZEN:Cut Okra Regal 12 X 2 Lbs.",
         "Price": 29.0
     },
     {
-        "Item": "DD Aviyal Mix",
+        "Item": "FROZEN:DD Aviyal Mix",
         "Price": 60.0
     },
     {
-        "Item": "DD Banana Fry",
+        "Item": "FROZEN:DD Banana Fry",
         "Price": 55.0
     },
     {
-        "Item": "DD Banana Roast",
+        "Item": "FROZEN:DD Banana Roast",
         "Price": 50.4
     },
     {
-        "Item": "DD Batura 330 Gms. X 24",
+        "Item": "FROZEN:DD Batura 330 Gms. X 24",
         "Price": 58.0
     },
     {
-        "Item": "DD Breadfruit",
+        "Item": "FROZEN:DD Breadfruit",
         "Price": 52.0
     },
     {
-        "Item": "DD Cabbage Wada 300 Gms. X 28 P",
+        "Item": "FROZEN:DD Cabbage Wada 300 Gms. X 28 P",
         "Price": 58.0
     },
     {
-        "Item": "DD Canadian Paratha",
+        "Item": "FROZEN:DD Canadian Paratha",
         "Price": 48.0
     },
     {
-        "Item": "DD Canadian Square Roti 30 Pcs.",
+        "Item": "FROZEN:DD Canadian Square Roti 30 Pcs.",
         "Price": 49.0
     },
     {
-        "Item": "DD Chapati",
+        "Item": "FROZEN:DD Chapati",
         "Price": 46.0
     },
     {
-        "Item": "DD Chapati Home Made Style",
+        "Item": "FROZEN:DD Chapati Home Made Style",
         "Price": 59.0
     },
     {
-        "Item": "DD Chicken Biriyani",
+        "Item": "FROZEN:DD Chicken Biriyani",
         "Price": 66.0
     },
     {
-        "Item": "DD Chicken Curry",
+        "Item": "FROZEN:DD Chicken Curry",
         "Price": 74.0
     },
     {
-        "Item": "DD Chicken Tikka Masala",
+        "Item": "FROZEN:DD Chicken Tikka Masala",
         "Price": 77.0
     },
     {
-        "Item": "DD Chinese Potato Block",
+        "Item": "FROZEN:DD Chinese Potato Block",
         "Price": 52.0
     },
     {
-        "Item": "DD Chinese Potato Cooked",
+        "Item": "FROZEN:DD Chinese Potato Cooked",
         "Price": 87.0
     },
     {
-        "Item": "DD CKD PD T/Off 100/150 10 X 2L",
+        "Item": "FROZEN:DD CKD PD T/Off 100/150 10 X 2L",
         "Price": 106.0
     },
     {
-        "Item": "DD CKD PD T/Off 91/110 10X2 Lbs",
+        "Item": "FROZEN:DD CKD PD T/Off 91/110 10X2 Lbs",
         "Price": 113.0
     },
     {
-        "Item": "DD Cocktail Samosa 300 Gms. X 1",
+        "Item": "FROZEN:DD Cocktail Samosa 300 Gms. X 1",
         "Price": 26.0
     },
     {
-        "Item": "DD Coconut Shredded 454 Gms. X",
+        "Item": "FROZEN:DD Coconut Shredded 454 Gms. X",
         "Price": 80.0
     },
     {
-        "Item": "DD Coconut Sliced",
+        "Item": "FROZEN:DD Coconut Sliced",
         "Price": 76.0
     },
     {
-        "Item": "DD Cut Mango",
+        "Item": "FROZEN:DD Cut Mango",
         "Price": 76.0
     },
     {
-        "Item": "DD Cutlets",
+        "Item": "FROZEN:DD Cutlets",
         "Price": 50.4
     },
     {
-        "Item": "DD Daily D Plum Special 700 X 1",
+        "Item": "FROZEN:DD Daily D Plum Special 700 X 1",
         "Price": 84.0
     },
     {
-        "Item": "DD Dates & Cashew Cake 700 Gms.",
+        "Item": "FROZEN:DD Dates & Cashew Cake 700 Gms.",
         "Price": 97.0
     },
     {
-        "Item": "DD Desi Delight Parotha 908 Gms",
+        "Item": "FROZEN:DD Desi Delight Parotha 908 Gms",
         "Price": 69.0
     },
     {
-        "Item": "DD Drum Stick",
+        "Item": "FROZEN:DD Drum Stick",
         "Price": 88.0
     },
     {
-        "Item": "DD Edo",
+        "Item": "FROZEN:DD Edo",
         "Price": 48.0
     },
     {
-        "Item": "DD Elayada",
+        "Item": "FROZEN:DD Elayada",
         "Price": 77.0
     },
     {
-        "Item": "DD Elayada Jackfruit",
+        "Item": "FROZEN:DD Elayada Jackfruit",
         "Price": 77.0
     },
     {
-        "Item": "DD Fish Biriyani 10 oz X 28 pkt",
+        "Item": "FROZEN:DD Fish Biriyani 10 oz X 28 pkt",
         "Price": 68.0
     },
     {
-        "Item": "DD Fruit Rich Plum 700 Gms.",
+        "Item": "FROZEN:DD Fruit Rich Plum 700 Gms.",
         "Price": 88.0
     },
     {
-        "Item": "DD Garlic Pearls 282 gms. X 18",
+        "Item": "FROZEN:DD Garlic Pearls 282 gms. X 18",
         "Price": 53.0
     },
     {
-        "Item": "DD Gooseberry",
+        "Item": "FROZEN:DD Gooseberry",
         "Price": 70.0
     },
     {
-        "Item": "DD Green Chilli",
+        "Item": "FROZEN:DD Green Chilli",
         "Price": 40.0
     },
     {
-        "Item": "DD Idiyapam - WHITE",
+        "Item": "FROZEN:DD Idiyapam - WHITE",
         "Price": 59.0
     },
     {
-        "Item": "DD Idiyapum - BROWN",
+        "Item": "FROZEN:DD Idiyapum - BROWN",
         "Price": 59.0
     },
     {
-        "Item": "DD Idly",
+        "Item": "FROZEN:DD Idly",
         "Price": 62.0
     },
     {
-        "Item": "DD Idly Vada",
+        "Item": "FROZEN:DD Idly Vada",
         "Price": 38.0
     },
     {
-        "Item": "DD Jackfruit",
+        "Item": "FROZEN:DD Jackfruit",
         "Price": 75.0
     },
     {
-        "Item": "DD Jackfruit Cake 700 X 12 Pks",
+        "Item": "FROZEN:DD Jackfruit Cake 700 X 12 Pks",
         "Price": 99.0
     },
     {
-        "Item": "DD Jackfruit Seeds",
+        "Item": "FROZEN:DD Jackfruit Seeds",
         "Price": 72.0
     },
     {
-        "Item": "DD Jackfruit Sliced 400 Gms. X",
+        "Item": "FROZEN:DD Jackfruit Sliced 400 Gms. X",
         "Price": 78.0
     },
     {
-        "Item": "DD Jalebi Red 227 Gms X 28",
+        "Item": "FROZEN:DD Jalebi Red 227 Gms X 28",
         "Price": 74.0
     },
     {
-        "Item": "DD Jalebi yellow 227 Gms X 12",
+        "Item": "FROZEN:DD Jalebi yellow 227 Gms X 12",
         "Price": 34.0
     },
     {
-        "Item": "DD Kerala Chicken Curry 10 10oz",
+        "Item": "FROZEN:DD Kerala Chicken Curry 10 10oz",
         "Price": 77.0
     },
     {
-        "Item": "DD Kerala Fish Curry",
+        "Item": "FROZEN:DD Kerala Fish Curry",
         "Price": 108.0
     },
     {
-        "Item": "DD King Fish Steak 10X4 5/10",
+        "Item": "FROZEN:DD King Fish Steak 10X4 5/10",
         "Price": 185.0
     },
     {
-        "Item": "DD King Fish Steak 2X20 Lbs.",
+        "Item": "FROZEN:DD King Fish Steak 2X20 Lbs.",
         "Price": 168.0
     },
     {
-        "Item": "DD Kumblyppum",
+        "Item": "FROZEN:DD Kumblyppum",
         "Price": 48.6
     },
     {
-        "Item": "DD Laddu",
+        "Item": "FROZEN:DD Laddu",
         "Price": 50.4
     },
     {
-        "Item": "DD Lamb Biriyani",
+        "Item": "FROZEN:DD Lamb Biriyani",
         "Price": 73.0
     },
     {
-        "Item": "DD Mackerel Curry 1 lbs X 28 Pc",
+        "Item": "FROZEN:DD Mackerel Curry 1 lbs X 28 Pc",
         "Price": 57.0
     },
     {
-        "Item": "DD Mackerel P/R 2lb.X 20 Pks.",
+        "Item": "FROZEN:DD Mackerel P/R 2lb.X 20 Pks.",
         "Price": 97.0
     },
     {
-        "Item": "DD MackeWhole 2lb. X 20 Pks.",
+        "Item": "FROZEN:DD MackeWhole 2lb. X 20 Pks.",
         "Price": 76.0
     },
     {
-        "Item": "DD Masala Dosa",
+        "Item": "FROZEN:DD Masala Dosa",
         "Price": 50.4
     },
     {
-        "Item": "DD Masala Dosa Wada",
+        "Item": "FROZEN:DD Masala Dosa Wada",
         "Price": 34.0
     },
     {
-        "Item": "DD Mature Plum  800 Gms. X 12 P",
+        "Item": "FROZEN:DD Mature Plum  800 Gms. X 12 P",
         "Price": 85.0
     },
     {
-        "Item": "DD Mixed Veg.",
+        "Item": "FROZEN:DD Mixed Veg.",
         "Price": 36.0
     },
     {
-        "Item": "DD Mixed Veg. Wrap",
+        "Item": "FROZEN:DD Mixed Veg. Wrap",
         "Price": 38.0
     },
     {
-        "Item": "DD Momos Shrimp",
+        "Item": "FROZEN:DD Momos Shrimp",
         "Price": 43.0
     },
     {
-        "Item": "DD Momos Vegetables",
+        "Item": "FROZEN:DD Momos Vegetables",
         "Price": 41.0
     },
     {
-        "Item": "DD Mutton Biriyani",
+        "Item": "FROZEN:DD Mutton Biriyani",
         "Price": 73.0
     },
     {
-        "Item": "DD Mutton Curry",
+        "Item": "FROZEN:DD Mutton Curry",
         "Price": 98.0
     },
     {
-        "Item": "DD Neyyappam",
+        "Item": "FROZEN:DD Neyyappam",
         "Price": 56.0
     },
     {
-        "Item": "DD Ottapam",
+        "Item": "FROZEN:DD Ottapam",
         "Price": 30.0
     },
     {
-        "Item": "DD Palada",
+        "Item": "FROZEN:DD Palada",
         "Price": 48.0
     },
     {
-        "Item": "DD Palappam",
+        "Item": "FROZEN:DD Palappam",
         "Price": 44.0
     },
     {
-        "Item": "DD Paratha 28 Pcs.",
+        "Item": "FROZEN:DD Paratha 28 Pcs.",
         "Price": 62.0
     },
     {
-        "Item": "DD Paratha Aaloo",
+        "Item": "FROZEN:DD Paratha Aaloo",
         "Price": 46.0
     },
     {
-        "Item": "DD Paratha Ceylon",
+        "Item": "FROZEN:DD Paratha Ceylon",
         "Price": 60.0
     },
     {
-        "Item": "DD Paratha Desi Delight 908 Gms",
+        "Item": "FROZEN:DD Paratha Desi Delight 908 Gms",
         "Price": 62.0
     },
     {
-        "Item": "DD Paratha Family",
+        "Item": "FROZEN:DD Paratha Family",
         "Price": 59.0
     },
     {
-        "Item": "DD Paratha Jeera",
+        "Item": "FROZEN:DD Paratha Jeera",
         "Price": 50.0
     },
     {
-        "Item": "DD Paratha Jumbo Cooked 908 Gms",
+        "Item": "FROZEN:DD Paratha Jumbo Cooked 908 Gms",
         "Price": 62.0
     },
     {
-        "Item": "DD Paratha Kothu 2lb X 16 Pks.",
+        "Item": "FROZEN:DD Paratha Kothu 2lb X 16 Pks.",
         "Price": 60.0
     },
     {
-        "Item": "DD Paratha Kothu 350 Gms. X 36",
+        "Item": "FROZEN:DD Paratha Kothu 350 Gms. X 36",
         "Price": 60.0
     },
     {
-        "Item": "DD Paratha Malabar",
+        "Item": "FROZEN:DD Paratha Malabar",
         "Price": 62.0
     },
     {
-        "Item": "DD Paratha Malabar Family",
+        "Item": "FROZEN:DD Paratha Malabar Family",
         "Price": 66.0
     },
     {
-        "Item": "DD Paratha Onion",
+        "Item": "FROZEN:DD Paratha Onion",
         "Price": 50.0
     },
     {
-        "Item": "DD Paratha Orange 330 Gms. X 12",
+        "Item": "FROZEN:DD Paratha Orange 330 Gms. X 12",
         "Price": 23.0
     },
     {
-        "Item": "DD Paratha Quinoa",
+        "Item": "FROZEN:DD Paratha Quinoa",
         "Price": 82.0
     },
     {
-        "Item": "DD Paratha Restaurant Style 454",
+        "Item": "FROZEN:DD Paratha Restaurant Style 454",
         "Price": 69.0
     },
     {
-        "Item": "DD Paratha Wheat",
+        "Item": "FROZEN:DD Paratha Wheat",
         "Price": 46.0
     },
     {
-        "Item": "DD Parippuvada 300 Gms. X 28 Pk",
+        "Item": "FROZEN:DD Parippuvada 300 Gms. X 28 Pk",
         "Price": 53.0
     },
     {
-        "Item": "DD Parotha BeetRoot 330 Gms.X12",
+        "Item": "FROZEN:DD Parotha BeetRoot 330 Gms.X12",
         "Price": 25.0
     },
     {
-        "Item": "DD Parotha Blueberry",
+        "Item": "FROZEN:DD Parotha Blueberry",
         "Price": 25.0
     },
     {
-        "Item": "DD Parotha Carrot 330 Gms. X 12",
+        "Item": "FROZEN:DD Parotha Carrot 330 Gms. X 12",
         "Price": 25.0
     },
     {
-        "Item": "DD Parotha Coriender 330 Gms. X",
+        "Item": "FROZEN:DD Parotha Coriender 330 Gms. X",
         "Price": 25.0
     },
     {
-        "Item": "DD Parotha Green Apple 330 Gms.",
+        "Item": "FROZEN:DD Parotha Green Apple 330 Gms.",
         "Price": 25.0
     },
     {
-        "Item": "DD Parotha Mango",
+        "Item": "FROZEN:DD Parotha Mango",
         "Price": 25.0
     },
     {
-        "Item": "DD Parotha Orange 330 Gm X 12 P",
+        "Item": "FROZEN:DD Parotha Orange 330 Gm X 12 P",
         "Price": 26.5
     },
     {
-        "Item": "DD Parotha Real Choc 330 Gms. X",
+        "Item": "FROZEN:DD Parotha Real Choc 330 Gms. X",
         "Price": 25.0
     },
     {
-        "Item": "DD Parotha Strawberry 330 Gms.",
+        "Item": "FROZEN:DD Parotha Strawberry 330 Gms.",
         "Price": 25.0
     },
     {
-        "Item": "DD Porotha Veg Coriender 300 Gm",
+        "Item": "FROZEN:DD Porotha Veg Coriender 300 Gm",
         "Price": 25.0
     },
     {
-        "Item": "DD Potato Masala",
+        "Item": "FROZEN:DD Potato Masala",
         "Price": 38.0
     },
     {
-        "Item": "DD Puff",
+        "Item": "FROZEN:DD Puff",
         "Price": 46.8
     },
     {
-        "Item": "DD Puff Pastry 530 Gms. X  26 P",
+        "Item": "FROZEN:DD Puff Pastry 530 Gms. X  26 P",
         "Price": 81.0
     },
     {
-        "Item": "DD Punjabi Samosa 6 X 25 Pcs.",
+        "Item": "FROZEN:DD Punjabi Samosa 6 X 25 Pcs.",
         "Price": 75.0
     },
     {
-        "Item": "DD Puttu Kadala Brown",
+        "Item": "FROZEN:DD Puttu Kadala Brown",
         "Price": 38.0
     },
     {
-        "Item": "DD Puttu Kadala White",
+        "Item": "FROZEN:DD Puttu Kadala White",
         "Price": 37.0
     },
     {
-        "Item": "DD Ratalu",
+        "Item": "FROZEN:DD Ratalu",
         "Price": 44.8
     },
     {
-        "Item": "DD Red Onion frozen",
+        "Item": "FROZEN:DD Red Onion frozen",
         "Price": 85.0
     },
     {
-        "Item": "DD Red Onion Vada 300 Gms.X 12",
+        "Item": "FROZEN:DD Red Onion Vada 300 Gms.X 12",
         "Price": 26.5
     },
     {
-        "Item": "DD Rich Plum Cake 700 Gms. X 12",
+        "Item": "FROZEN:DD Rich Plum Cake 700 Gms. X 12",
         "Price": 88.0
     },
     {
-        "Item": "DD Romali Roti",
+        "Item": "FROZEN:DD Romali Roti",
         "Price": 50.0
     },
     {
-        "Item": "DD Roti Wrap Mixed Vegetables",
+        "Item": "FROZEN:DD Roti Wrap Mixed Vegetables",
         "Price": 38.0
     },
     {
-        "Item": "DD Roti Wrap Potatos Masala",
+        "Item": "FROZEN:DD Roti Wrap Potatos Masala",
         "Price": 45.0
     },
     {
-        "Item": "DD Sambar Mix",
+        "Item": "FROZEN:DD Sambar Mix",
         "Price": 52.0
     },
     {
-        "Item": "DD Sambar Ready to Eat 454Gms.X",
+        "Item": "FROZEN:DD Sambar Ready to Eat 454Gms.X",
         "Price": 24.0
     },
     {
-        "Item": "DD Samosa",
+        "Item": "FROZEN:DD Samosa",
         "Price": 42.0
     },
     {
-        "Item": "DD Samosa Restaurant 10 X 1135",
+        "Item": "FROZEN:DD Samosa Restaurant 10 X 1135",
         "Price": 77.0
     },
     {
-        "Item": "DD Samosa Veg. 227 Gms.X 28 Pks",
+        "Item": "FROZEN:DD Samosa Veg. 227 Gms.X 28 Pks",
         "Price": 49.0
     },
     {
-        "Item": "DD Sardine Whole 2ld. X 20 Pks.",
+        "Item": "FROZEN:DD Sardine Whole 2ld. X 20 Pks.",
         "Price": 50.0
     },
     {
-        "Item": "DD Shrimp Biriyani",
+        "Item": "FROZEN:DD Shrimp Biriyani",
         "Price": 70.0
     },
     {
-        "Item": "DD Shrimp Curry",
+        "Item": "FROZEN:DD Shrimp Curry",
         "Price": 82.0
     },
     {
-        "Item": "DD Silver Belly 2lb. X 20 Pack",
+        "Item": "FROZEN:DD Silver Belly 2lb. X 20 Pack",
         "Price": 76.0
     },
     {
-        "Item": "DD Snake guard",
+        "Item": "FROZEN:DD Snake guard",
         "Price": 59.0
     },
     {
-        "Item": "DD Tandoori Naan 24 Pks.",
+        "Item": "FROZEN:DD Tandoori Naan 24 Pks.",
         "Price": 45.0
     },
     {
-        "Item": "DD Tapioca",
+        "Item": "FROZEN:DD Tapioca",
         "Price": 48.0
     },
     {
-        "Item": "DD Tapioca Sliced",
+        "Item": "FROZEN:DD Tapioca Sliced",
         "Price": 52.0
     },
     {
-        "Item": "DD Tender Jackfruit 32 X .88Lbs",
+        "Item": "FROZEN:DD Tender Jackfruit 32 X .88Lbs",
         "Price": 92.0
     },
     {
-        "Item": "DD TenderJack Burger 283 Gms. X",
+        "Item": "FROZEN:DD TenderJack Burger 283 Gms. X",
         "Price": 55.0
     },
     {
-        "Item": "DD Tindora",
+        "Item": "FROZEN:DD Tindora",
         "Price": 42.0
     },
     {
-        "Item": "DD Upamas",
+        "Item": "FROZEN:DD Upamas",
         "Price": 39.2
     },
     {
-        "Item": "DD Uttapum",
+        "Item": "FROZEN:DD Uttapum",
         "Price": 42.0
     },
     {
-        "Item": "DD Uttapum Onion",
+        "Item": "FROZEN:DD Uttapum Onion",
         "Price": 42.0
     },
     {
-        "Item": "DD Uzhunnuvada",
+        "Item": "FROZEN:DD Uzhunnuvada",
         "Price": 42.0
     },
     {
-        "Item": "DD Vattayappam",
+        "Item": "FROZEN:DD Vattayappam",
         "Price": 42.0
     },
     {
-        "Item": "DD Veg. Pulav",
+        "Item": "FROZEN:DD Veg. Pulav",
         "Price": 54.0
     },
     {
-        "Item": "DD Vegetables Burger 283 Gms. X",
+        "Item": "FROZEN:DD Vegetables Burger 283 Gms. X",
         "Price": 48.0
     },
     {
-        "Item": "DD Yam",
+        "Item": "FROZEN:DD Yam",
         "Price": 46.0
     },
     {
-        "Item": "DD Yuca Cassava 908 gms. X 18 P",
+        "Item": "FROZEN:DD Yuca Cassava 908 gms. X 18 P",
         "Price": 52.0
     },
     {
-        "Item": "Deep - Aloo Paratha",
+        "Item": "FROZEN:Deep - Aloo Paratha",
         "Price": 54.0
     },
     {
-        "Item": "Deep - Bhatura 20 Pcs.(8)",
+        "Item": "FROZEN:Deep - Bhatura 20 Pcs.(8)",
         "Price": 67.0
     },
     {
-        "Item": "Deep - Bhatura 5 Pcs.",
+        "Item": "FROZEN:Deep - Bhatura 5 Pcs.",
         "Price": 60.0
     },
     {
-        "Item": "Deep - ChiliCoriander Naan ( 24",
+        "Item": "FROZEN:Deep - ChiliCoriander Naan ( 24",
         "Price": 48.0
     },
     {
-        "Item": "Deep - Cocktail Dal Samosa",
+        "Item": "FROZEN:Deep - Cocktail Dal Samosa",
         "Price": 75.0
     },
     {
-        "Item": "Deep - Cocktail Potato Samosa",
+        "Item": "FROZEN:Deep - Cocktail Potato Samosa",
         "Price": 75.0
     },
     {
-        "Item": "Deep - Coconut Shredded.",
+        "Item": "FROZEN:Deep - Coconut Shredded.",
         "Price": 48.0
     },
     {
-        "Item": "Deep - Dahi Vada 10 Pcs.",
+        "Item": "FROZEN:Deep - Dahi Vada 10 Pcs.",
         "Price": 29.0
     },
     {
-        "Item": "Deep - Diced Potato 12 Oz.",
+        "Item": "FROZEN:Deep - Diced Potato 12 Oz.",
         "Price": 29.0
     },
     {
-        "Item": "Deep - Drumstics 12OZ X 24",
+        "Item": "FROZEN:Deep - Drumstics 12OZ X 24",
         "Price": 39.0
     },
     {
-        "Item": "Deep - Fafda",
+        "Item": "FROZEN:Deep - Fafda",
         "Price": 39.0
     },
     {
-        "Item": "Deep - Famliy Paratha",
+        "Item": "FROZEN:Deep - Famliy Paratha",
         "Price": 58.0
     },
     {
-        "Item": "Deep - Garlic Naan 12 Pcs.",
+        "Item": "FROZEN:Deep - Garlic Naan 12 Pcs.",
         "Price": 55.0
     },
     {
-        "Item": "Deep - Garlic Naan 4 Pcs.",
+        "Item": "FROZEN:Deep - Garlic Naan 4 Pcs.",
         "Price": 64.0
     },
     {
-        "Item": "Deep - Home Style Paratha",
+        "Item": "FROZEN:Deep - Home Style Paratha",
         "Price": 55.0
     },
     {
-        "Item": "Deep - Idly Family Packs 24 Pcs",
+        "Item": "FROZEN:Deep - Idly Family Packs 24 Pcs",
         "Price": 42.0
     },
     {
-        "Item": "Deep - Jumbo Samosa 60 Pcs.",
+        "Item": "FROZEN:Deep - Jumbo Samosa 60 Pcs.",
         "Price": 42.0
     },
     {
-        "Item": "Deep - Lilva Kachori",
+        "Item": "FROZEN:Deep - Lilva Kachori",
         "Price": 33.0
     },
     {
-        "Item": "Deep - Masala Dosa 4 Pcs X 12",
+        "Item": "FROZEN:Deep - Masala Dosa 4 Pcs X 12",
         "Price": 28.0
     },
     {
-        "Item": "Deep - Masala Paratha 5 Pcs (24",
+        "Item": "FROZEN:Deep - Masala Paratha 5 Pcs (24",
         "Price": 51.0
     },
     {
-        "Item": "Deep - Menduvada",
+        "Item": "FROZEN:Deep - Menduvada",
         "Price": 28.0
     },
     {
-        "Item": "Deep - Methi Chopped 10 oz. X 2",
+        "Item": "FROZEN:Deep - Methi Chopped 10 oz. X 2",
         "Price": 45.0
     },
     {
-        "Item": "Deep - Methi Paratha",
+        "Item": "FROZEN:Deep - Methi Paratha",
         "Price": 51.0
     },
     {
-        "Item": "Deep - MixVeg. Paratha",
+        "Item": "FROZEN:Deep - MixVeg. Paratha",
         "Price": 70.0
     },
     {
-        "Item": "Deep - Muthia 12 Oz. X 24",
+        "Item": "FROZEN:Deep - Muthia 12 Oz. X 24",
         "Price": 40.0
     },
     {
-        "Item": "Deep - Mysore Masala Dosa 4 Pcs",
+        "Item": "FROZEN:Deep - Mysore Masala Dosa 4 Pcs",
         "Price": 25.0
     },
     {
-        "Item": "Deep - Onion Kulcha 4 Pcs. X 24",
+        "Item": "FROZEN:Deep - Onion Kulcha 4 Pcs. X 24",
         "Price": 49.5
     },
     {
-        "Item": "Deep - Paneer Kulcha 4 Pcs.",
+        "Item": "FROZEN:Deep - Paneer Kulcha 4 Pcs.",
         "Price": 37.0
     },
     {
-        "Item": "Deep - Paneer Paratha",
+        "Item": "FROZEN:Deep - Paneer Paratha",
         "Price": 70.0
     },
     {
-        "Item": "Deep - Punjabi Samosa 8 pcs (8)",
+        "Item": "FROZEN:Deep - Punjabi Samosa 8 pcs (8)",
         "Price": 45.0
     },
     {
-        "Item": "Deep - Punjabi Tinda 12 Oz.",
+        "Item": "FROZEN:Deep - Punjabi Tinda 12 Oz.",
         "Price": 37.0
     },
     {
-        "Item": "Deep - Ratalu",
+        "Item": "FROZEN:Deep - Ratalu",
         "Price": 60.29
     },
     {
-        "Item": "Deep - Samosa Jalapinios 24 Pcs",
+        "Item": "FROZEN:Deep - Samosa Jalapinios 24 Pcs",
         "Price": 63.0
     },
     {
-        "Item": "Deep - Samosa Party Veg 24 Pcs.",
+        "Item": "FROZEN:Deep - Samosa Party Veg 24 Pcs.",
         "Price": 63.0
     },
     {
-        "Item": "Deep - Spring Roll 10 Pcs. X 12",
+        "Item": "FROZEN:Deep - Spring Roll 10 Pcs. X 12",
         "Price": 73.5
     },
     {
-        "Item": "Deep - Surti Papri",
+        "Item": "FROZEN:Deep - Surti Papri",
         "Price": 49.0
     },
     {
-        "Item": "Deep - Tandoori Naan 16 Pcs.",
+        "Item": "FROZEN:Deep - Tandoori Naan 16 Pcs.",
         "Price": 55.0
     },
     {
-        "Item": "Deep - Tandoori Naan 5 Pcs",
+        "Item": "FROZEN:Deep - Tandoori Naan 5 Pcs",
         "Price": 57.0
     },
     {
-        "Item": "Deep - Tandoori Roti 5 Pcs",
+        "Item": "FROZEN:Deep - Tandoori Roti 5 Pcs",
         "Price": 68.0
     },
     {
-        "Item": "Deep - Tindora",
+        "Item": "FROZEN:Deep - Tindora",
         "Price": 36.0
     },
     {
-        "Item": "Deep - Tuver Lilwa",
+        "Item": "FROZEN:Deep - Tuver Lilwa",
         "Price": 54.0
     },
     {
-        "Item": "Deep - Whole Wheet Naan",
+        "Item": "FROZEN:Deep - Whole Wheet Naan",
         "Price": 63.0
     },
     {
-        "Item": "Flaky Paratha Malaysian",
+        "Item": "FROZEN:Flaky Paratha Malaysian",
         "Price": 62.0
     },
     {
-        "Item": "French Fries 3/8 Reddy Raw",
+        "Item": "FROZEN:French Fries 3/8 Reddy Raw",
         "Price": 39.0
     },
     {
-        "Item": "Green Peas Regal 12 X 2.5 Lbs.",
+        "Item": "FROZEN:Green Peas Regal 12 X 2.5 Lbs.",
         "Price": 33.0
     },
     {
-        "Item": "Gulab Jamun 20 Pcs. Nanak",
+        "Item": "FROZEN:Gulab Jamun 20 Pcs. Nanak",
         "Price": 80.0
     },
     {
-        "Item": "Italian Blend Regal",
+        "Item": "FROZEN:Italian Blend Regal",
         "Price": 34.0
     },
     {
-        "Item": "Jack Fruit - G & F",
+        "Item": "FROZEN:Jack Fruit - G & F",
         "Price": 112.0
     },
     {
-        "Item": "Jackfruit Green",
+        "Item": "FROZEN:Jackfruit Green",
         "Price": 140.0
     },
     {
-        "Item": "Lima Beans Regal 12 X 2.5 Lbs.",
+        "Item": "FROZEN:Lima Beans Regal 12 X 2.5 Lbs.",
         "Price": 52.0
     },
     {
-        "Item": "Mix Vegetables 12 X 2.5 Lbs.",
+        "Item": "FROZEN:Mix Vegetables 12 X 2.5 Lbs.",
         "Price": 33.0
     },
     {
-        "Item": "Mustard Green",
+        "Item": "FROZEN:Mustard Green",
         "Price": 52.0
     },
     {
-        "Item": "nanak Gajar Halwa 850 Gms. X 10",
+        "Item": "FROZEN:nanak Gajar Halwa 850 Gms. X 10",
         "Price": 80.0
     },
     {
-        "Item": "Nanak Gulab Jamun 300 Pcs.",
+        "Item": "FROZEN:Nanak Gulab Jamun 300 Pcs.",
         "Price": 79.0
     },
     {
-        "Item": "Onion Diced",
+        "Item": "FROZEN:Onion Diced",
         "Price": 14.0
     },
     {
-        "Item": "Oriental Blend",
+        "Item": "FROZEN:Oriental Blend",
         "Price": 20.0
     },
     {
-        "Item": "Paratha Family Pack",
+        "Item": "FROZEN:Paratha Family Pack",
         "Price": 65.0
     },
     {
-        "Item": "Paratha Malaysian",
+        "Item": "FROZEN:Paratha Malaysian",
         "Price": 57.0
     },
     {
-        "Item": "Paratha Onion Family pack",
+        "Item": "FROZEN:Paratha Onion Family pack",
         "Price": 72.0
     },
     {
-        "Item": "Paratha Reduced Fat Malaysian",
+        "Item": "FROZEN:Paratha Reduced Fat Malaysian",
         "Price": 57.0
     },
     {
-        "Item": "Paratha Wheat Malaysian",
+        "Item": "FROZEN:Paratha Wheat Malaysian",
         "Price": 72.0
     },
     {
-        "Item": "Peas & Carrot Regal",
+        "Item": "FROZEN:Peas & Carrot Regal",
         "Price": 28.0
     },
     {
-        "Item": "Pigeon Peas",
+        "Item": "FROZEN:Pigeon Peas",
         "Price": 22.0
     },
     {
-        "Item": "Potato Fries Crinkle cut",
+        "Item": "FROZEN:Potato Fries Crinkle cut",
         "Price": 42.0
     },
     {
-        "Item": "Punjabi Samosa 12 X 8 75 Gms.La",
+        "Item": "FROZEN:Punjabi Samosa 12 X 8 75 Gms.La",
         "Price": 59.0
     },
     {
-        "Item": "Raju Punjabi Samosa 24 Pcs/ 6",
+        "Item": "FROZEN:Raju Punjabi Samosa 24 Pcs/ 6",
         "Price": 48.0
     },
     {
-        "Item": "Raju Sabudana Wada 20 Pcs./ 12",
+        "Item": "FROZEN:Raju Sabudana Wada 20 Pcs./ 12",
         "Price": 39.0
     },
     {
-        "Item": "Rasgulla 20Pcs X 10 Pks.",
+        "Item": "FROZEN:Rasgulla 20Pcs X 10 Pks.",
         "Price": 78.0
     },
     {
-        "Item": "Rasmalai Big 12 Pcs.- Nanak",
+        "Item": "FROZEN:Rasmalai Big 12 Pcs.- Nanak",
         "Price": 98.0
     },
     {
-        "Item": "Rasmalai Small 20 Pcs.",
+        "Item": "FROZEN:Rasmalai Small 20 Pcs.",
         "Price": 98.0
     },
     {
-        "Item": "Roti Paratha Plain Kawan 24 X 5",
+        "Item": "FROZEN:Roti Paratha Plain Kawan 24 X 5",
         "Price": 64.0
     },
     {
-        "Item": "Samosa Sheet Gold Label 30 X 14",
+        "Item": "FROZEN:Samosa Sheet Gold Label 30 X 14",
         "Price": 72.0
     },
     {
-        "Item": "Samosa Sheet TYJ40 /25 Pcs. 8 '",
+        "Item": "FROZEN:Samosa Sheet TYJ40 /25 Pcs. 8 '",
         "Price": 52.0
     },
     {
-        "Item": "Samosa Sheet Wei Chuan",
+        "Item": "FROZEN:Samosa Sheet Wei Chuan",
         "Price": 52.0
     },
     {
-        "Item": "Samosa Veg. 15 X 1 Kgs.",
+        "Item": "FROZEN:Samosa Veg. 15 X 1 Kgs.",
         "Price": 68.0
     },
     {
-        "Item": "Samosa Veg. 20 X 500 Gms.",
+        "Item": "FROZEN:Samosa Veg. 20 X 500 Gms.",
         "Price": 55.0
     },
     {
-        "Item": "Supari Green/ Yellow (12 Pieces",
+        "Item": "FROZEN:Supari Green/ Yellow (12 Pieces",
         "Price": 89.0
     },
     {
-        "Item": "Tuver Lilwa - Shana",
+        "Item": "FROZEN:Tuver Lilwa - Shana",
         "Price": 21.0
     },
     {
@@ -1712,7 +1720,7 @@
         "Price": 55.0
     },
     {
-        "Item": "Golden Canary Melon",
+        "Item": "Fruit Candy Chewing:Golden Canary Melon",
         "Price": 35.0
     },
     {
@@ -1720,259 +1728,259 @@
         "Price": 0.0
     },
     {
-        "Item": "Anar 22  Sz.",
+        "Item": "FRUITS:Anar 18 Sz.",
         "Price": 52.0
     },
     {
-        "Item": "Apple 72 pcs.",
+        "Item": "FRUITS:Apple 72 pcs.",
         "Price": 36.0
     },
     {
-        "Item": "Apple Gala",
+        "Item": "FRUITS:Apple Gala",
         "Price": 54.0
     },
     {
-        "Item": "Apple Gala Baby 175 Ct",
+        "Item": "FRUITS:Apple Gala Baby 175 Ct",
         "Price": 32.0
     },
     {
-        "Item": "Apple Golden",
+        "Item": "FRUITS:Apple Golden",
         "Price": 40.0
     },
     {
-        "Item": "Apple Green",
+        "Item": "FRUITS:Apple Green",
         "Price": 35.0
     },
     {
-        "Item": "Apple Lady",
+        "Item": "FRUITS:Apple Lady",
         "Price": 55.0
     },
     {
-        "Item": "Banana",
+        "Item": "FRUITS:Banana",
         "Price": 22.0
     },
     {
-        "Item": "Banana - Green",
+        "Item": "FRUITS:Banana - Green",
         "Price": 20.0
     },
     {
-        "Item": "Banana Baby",
+        "Item": "FRUITS:Banana Baby",
         "Price": 18.0
     },
     {
-        "Item": "Banana Red",
+        "Item": "FRUITS:Banana Red",
         "Price": 18.0
     },
     {
-        "Item": "Banana Thai",
+        "Item": "FRUITS:Banana Thai",
         "Price": 39.0
     },
     {
-        "Item": "Blueberry",
+        "Item": "FRUITS:Blueberry",
         "Price": 0.0
     },
     {
-        "Item": "Bor # 2",
+        "Item": "FRUITS:Bor # 2",
         "Price": 59.0
     },
     {
-        "Item": "Breadfruit",
+        "Item": "FRUITS:Breadfruit",
         "Price": 49.0
     },
     {
-        "Item": "Canery Melon",
+        "Item": "FRUITS:Canery Melon",
         "Price": 35.0
     },
     {
-        "Item": "Cantalop Golden 12 Size",
+        "Item": "FRUITS:Cantalop Golden 12 Size",
         "Price": 34.0
     },
     {
-        "Item": "Cherry",
+        "Item": "FRUITS:Cherry",
         "Price": 24.0
     },
     {
-        "Item": "Chickoo",
+        "Item": "FRUITS:Chickoo",
         "Price": 59.0
     },
     {
-        "Item": "Clementine Loose",
+        "Item": "FRUITS:Clementine Loose",
         "Price": 28.0
     },
     {
-        "Item": "Dates ---  Fresh",
+        "Item": "FRUITS:Dates ---  Fresh",
         "Price": 65.0
     },
     {
-        "Item": "Dragon Fruit",
+        "Item": "FRUITS:Dragon Fruit",
         "Price": 36.0
     },
     {
-        "Item": "Fresh peanuts",
+        "Item": "FRUITS:Fresh peanuts",
         "Price": 69.0
     },
     {
-        "Item": "Grapes Baby",
+        "Item": "FRUITS:Grapes Baby",
         "Price": 55.0
     },
     {
-        "Item": "Green Jack Fruit",
+        "Item": "FRUITS:Green Jack Fruit",
         "Price": 49.0
     },
     {
-        "Item": "Guava - Thai",
+        "Item": "FRUITS:Guava - Thai",
         "Price": 90.0
     },
     {
-        "Item": "Guava Chinese",
+        "Item": "FRUITS:Guava Chinese",
         "Price": 59.0
     },
     {
-        "Item": "Guava Mexican in CTN",
+        "Item": "FRUITS:Guava Mexican in CTN",
         "Price": 50.0
     },
     {
-        "Item": "Hami Melon",
+        "Item": "FRUITS:Hami Melon",
         "Price": 36.0
     },
     {
-        "Item": "Honeydew 6 Sz.",
+        "Item": "FRUITS:Honeydew 6 Sz.",
         "Price": 32.0
     },
     {
-        "Item": "Jamboo",
+        "Item": "FRUITS:Jamboo",
         "Price": 72.0
     },
     {
-        "Item": "Kenepas",
+        "Item": "FRUITS:Kenepas",
         "Price": 39.0
     },
     {
-        "Item": "Kharbooja",
+        "Item": "FRUITS:Kharbooja",
         "Price": 49.0
     },
     {
-        "Item": "Kiwi Loose",
+        "Item": "FRUITS:Kiwi Loose",
         "Price": 35.0
     },
     {
-        "Item": "Lychee",
+        "Item": "FRUITS:Lychee",
         "Price": 30.0
     },
     {
-        "Item": "Mag Melon",
+        "Item": "FRUITS:Mag Melon",
         "Price": 34.0
     },
     {
-        "Item": "Mandarine 2X",
+        "Item": "FRUITS:Mandarine 2X",
         "Price": 42.0
     },
     {
-        "Item": "Mandarine 3X",
+        "Item": "FRUITS:Mandarine 3X",
         "Price": 42.0
     },
     {
-        "Item": "Mango",
+        "Item": "FRUITS:Mango",
         "Price": 165.0
     },
     {
-        "Item": "Mango - Kesar",
+        "Item": "FRUITS:Mango - Kesar",
         "Price": 17.0
     },
     {
-        "Item": "Mango - Mingolo",
+        "Item": "FRUITS:Mango - Mingolo",
         "Price": 18.0
     },
     {
-        "Item": "Mango 20lb MX",
+        "Item": "FRUITS:Mango 20lb MX",
         "Price": 45.0
     },
     {
-        "Item": "Mango 7 Size",
+        "Item": "FRUITS:Mango 7 Size",
         "Price": 10.0
     },
     {
-        "Item": "Mango Dominican 20 Lbs.",
+        "Item": "FRUITS:Mango Dominican 20 Lbs.",
         "Price": 15.0
     },
     {
-        "Item": "Mango Kent",
+        "Item": "FRUITS:Mango Kent",
         "Price": 10.0
     },
     {
-        "Item": "Mango Thai",
+        "Item": "FRUITS:Mango Thai",
         "Price": 20.0
     },
     {
-        "Item": "Manzano Banana 20 Lbs.",
+        "Item": "FRUITS:Manzano Banana 20 Lbs.",
         "Price": 28.0
     },
     {
-        "Item": "Nectarine",
+        "Item": "FRUITS:Nectarine",
         "Price": 32.0
     },
     {
-        "Item": "Orange 56 Sz.",
+        "Item": "FRUITS:Orange 56 Sz.",
         "Price": 37.0
     },
     {
-        "Item": "Pamelo",
+        "Item": "FRUITS:Pamelo",
         "Price": 42.0
     },
     {
-        "Item": "Papaya Yellow",
-        "Price": 42.0
+        "Item": "FRUITS:Papaya Yellow",
+        "Price": 46.0
     },
     {
-        "Item": "Passion Fruit",
+        "Item": "FRUITS:Passion Fruit",
         "Price": 39.0
     },
     {
-        "Item": "Peach",
+        "Item": "FRUITS:Peach",
         "Price": 42.0
     },
     {
-        "Item": "Pear Duckwell",
+        "Item": "FRUITS:Pear Duckwell",
         "Price": 54.0
     },
     {
-        "Item": "Persimmon 25 Lbs.",
+        "Item": "FRUITS:Persimmon 25 Lbs.",
         "Price": 49.0
     },
     {
-        "Item": "Plum",
+        "Item": "FRUITS:Plum",
         "Price": 44.0
     },
     {
-        "Item": "Ramfal",
+        "Item": "FRUITS:Ramfal",
         "Price": 62.0
     },
     {
-        "Item": "Ripe Jackfruit / lb.",
+        "Item": "FRUITS:Ripe Jackfruit / lb.",
         "Price": 1.1
     },
     {
-        "Item": "Sitafal",
+        "Item": "FRUITS:Sitafal",
         "Price": 69.0
     },
     {
-        "Item": "Star Fruit",
+        "Item": "FRUITS:Star Fruit",
         "Price": 24.0
     },
     {
-        "Item": "Sugar Cane Fresh",
+        "Item": "FRUITS:Sugar Cane Fresh",
         "Price": 28.0
     },
     {
-        "Item": "Tangerine Box 3 X Small Box",
-        "Price": 45.0
+        "Item": "FRUITS:Tangerine Box 3 X Small Box",
+        "Price": 48.0
     },
     {
-        "Item": "Watermelon Pcs.",
+        "Item": "FRUITS:Watermelon Pcs.",
         "Price": 9.0
     },
     {
-        "Item": "Young Coconut",
+        "Item": "FRUITS:Young Coconut",
         "Price": 28.0
     },
     {
@@ -2061,7 +2069,7 @@
     },
     {
         "Item": "Ginger Regular",
-        "Price": 44.0
+        "Price": 45.0
     },
     {
         "Item": "Ginger Young",
@@ -2089,7 +2097,7 @@
     },
     {
         "Item": "Green Jackfruit in Can 24 X 20",
-        "Price": 34.0
+        "Price": 42.0
     },
     {
         "Item": "Green Leafs",
@@ -2100,275 +2108,275 @@
         "Price": 0.0
     },
     {
-        "Item": "Aaji No Moto 8 Ox. X 30 Bags",
+        "Item": "Grocery:Aaji No Moto 8 Ox. X 30 Bags",
         "Price": 50.0
     },
     {
-        "Item": "Agarbatti 25 Doz.",
+        "Item": "Grocery:Agarbatti 25 Doz.",
         "Price": 100.0
     },
     {
-        "Item": "Atta",
+        "Item": "Grocery:Atta",
         "Price": 13.0
     },
     {
-        "Item": "Banana Blosom in can",
+        "Item": "Grocery:Banana Blosom in can",
         "Price": 38.0
     },
     {
-        "Item": "Burfi Kaleva",
+        "Item": "Grocery:Burfi Kaleva",
         "Price": 0.0
     },
     {
-        "Item": "Coockies",
+        "Item": "Grocery:Coockies",
         "Price": 70.0
     },
     {
-        "Item": "Crispy Baqar Khani",
+        "Item": "Grocery:Crispy Baqar Khani",
         "Price": 34.0
     },
     {
-        "Item": "Crispy Puff Pastry",
+        "Item": "Grocery:Crispy Puff Pastry",
         "Price": 34.0
     },
     {
-        "Item": "Crispy Twistees",
+        "Item": "Grocery:Crispy Twistees",
         "Price": 34.0
     },
     {
-        "Item": "Ginger candy",
+        "Item": "Grocery:Ginger candy",
         "Price": 36.0
     },
     {
-        "Item": "Gits",
+        "Item": "Grocery:Gits",
         "Price": 11.0
     },
     {
-        "Item": "Herbal tooth paste 72 Pcs.",
+        "Item": "Grocery:Herbal tooth paste 72 Pcs.",
         "Price": 144.0
     },
     {
-        "Item": "Honey 8oz. X 12",
+        "Item": "Grocery:Honey 8oz. X 12",
         "Price": 42.0
     },
     {
-        "Item": "Jaggeri 4 x 11lbs.",
+        "Item": "Grocery:Jaggeri 4 x 11lbs.",
         "Price": 34.0
     },
     {
-        "Item": "Jivraj Tea 1 Lbs.",
+        "Item": "Grocery:Jivraj Tea 1 Lbs.",
         "Price": 90.0
     },
     {
-        "Item": "Karachi Cashew Bisc",
+        "Item": "Grocery:Karachi Cashew Bisc",
         "Price": 60.0
     },
     {
-        "Item": "Karachi Double Delight Bisc",
+        "Item": "Grocery:Karachi Double Delight Bisc",
         "Price": 65.0
     },
     {
-        "Item": "Karachi Fruit Bisc",
+        "Item": "Grocery:Karachi Fruit Bisc",
         "Price": 55.0
     },
     {
-        "Item": "Karachi Pista Bisc",
+        "Item": "Grocery:Karachi Pista Bisc",
         "Price": 60.0
     },
     {
-        "Item": "Karachi Salt Bisc",
+        "Item": "Grocery:Karachi Salt Bisc",
         "Price": 55.0
     },
     {
-        "Item": "Kelvert Jeera Masala Syrup 700",
+        "Item": "Grocery:Kelvert Jeera Masala Syrup 700",
         "Price": 34.0
     },
     {
-        "Item": "Kelvert Kachi Keri Syrup 700",
+        "Item": "Grocery:Kelvert Kachi Keri Syrup 700",
         "Price": 34.0
     },
     {
-        "Item": "Kelvert Khus Syrup 700",
+        "Item": "Grocery:Kelvert Khus Syrup 700",
         "Price": 34.0
     },
     {
-        "Item": "Kelvert Kokum Crush Syrup 700",
+        "Item": "Grocery:Kelvert Kokum Crush Syrup 700",
         "Price": 34.0
     },
     {
-        "Item": "Kelvert Orange Syrup 700",
+        "Item": "Grocery:Kelvert Orange Syrup 700",
         "Price": 34.0
     },
     {
-        "Item": "Kelvert Pineapple Syrup 700",
+        "Item": "Grocery:Kelvert Pineapple Syrup 700",
         "Price": 34.0
     },
     {
-        "Item": "Kelvert Rose Syrup 700",
+        "Item": "Grocery:Kelvert Rose Syrup 700",
         "Price": 34.0
     },
     {
-        "Item": "Kelvert Seffron Syrup 700",
+        "Item": "Grocery:Kelvert Seffron Syrup 700",
         "Price": 34.0
     },
     {
-        "Item": "Kelvert Strawberry Syrup 700",
+        "Item": "Grocery:Kelvert Strawberry Syrup 700",
         "Price": 34.0
     },
     {
-        "Item": "Kissan Jam",
+        "Item": "Grocery:Kissan Jam",
         "Price": 60.0
     },
     {
-        "Item": "Kithul Palm Jaggery 500 Gms. X",
+        "Item": "Grocery:Kithul Palm Jaggery 500 Gms. X",
         "Price": 90.0
     },
     {
-        "Item": "Knoor Soup Chinese Manchuryn",
+        "Item": "Grocery:Knoor Soup Chinese Manchuryn",
         "Price": 45.0
     },
     {
-        "Item": "Knoor Soup Chinese Shezwan",
+        "Item": "Grocery:Knoor Soup Chinese Shezwan",
         "Price": 42.0
     },
     {
-        "Item": "Knoor Soup Hot N Sour",
+        "Item": "Grocery:Knoor Soup Hot N Sour",
         "Price": 42.0
     },
     {
-        "Item": "Knoor Soup Sweet Corn",
+        "Item": "Grocery:Knoor Soup Sweet Corn",
         "Price": 42.0
     },
     {
-        "Item": "Kolhapuri Techa 100 X 100 Gms.",
+        "Item": "Grocery:Kolhapuri Techa 100 X 100 Gms.",
         "Price": 70.0
     },
     {
-        "Item": "Kolkata Dry Pan 20 Packs",
+        "Item": "Grocery:Kolkata Dry Pan 20 Packs",
         "Price": 50.0
     },
     {
-        "Item": "Kushal Kanthil 5 Gms. X 21",
+        "Item": "Grocery:Kushal Kanthil 5 Gms. X 21",
         "Price": 35.0
     },
     {
-        "Item": "Lapsi In Brine 400 Gms.X24",
+        "Item": "Grocery:Lapsi In Brine 400 Gms.X24",
         "Price": 60.0
     },
     {
-        "Item": "Lapsi Pickle Hot 400 Gms.X24",
+        "Item": "Grocery:Lapsi Pickle Hot 400 Gms.X24",
         "Price": 60.0
     },
     {
-        "Item": "Lijjat Plain Papad 200 Gms.X 80",
+        "Item": "Grocery:Lijjat Plain Papad 200 Gms.X 80",
         "Price": 85.0
     },
     {
-        "Item": "Maggi Tomato Ketchup 12 X 500 G",
+        "Item": "Grocery:Maggi Tomato Ketchup 12 X 500 G",
         "Price": 39.0
     },
     {
-        "Item": "Maggie Hot & Sweet 1 Kg. X 12",
+        "Item": "Grocery:Maggie Hot & Sweet 1 Kg. X 12",
         "Price": 49.0
     },
     {
-        "Item": "Maggie Masala Noodle 560 Gms. X",
+        "Item": "Grocery:Maggie Masala Noodle 560 Gms. X",
         "Price": 40.0
     },
     {
-        "Item": "Maggie Masala Noodles 280 Gms.",
+        "Item": "Grocery:Maggie Masala Noodles 280 Gms.",
         "Price": 40.0
     },
     {
-        "Item": "Maggie Masala Noodles 70 Gms. X",
+        "Item": "Grocery:Maggie Masala Noodles 70 Gms. X",
         "Price": 32.0
     },
     {
-        "Item": "Masala Para 4 Ctn.",
+        "Item": "Grocery:Masala Para 4 Ctn.",
         "Price": 18.0
     },
     {
-        "Item": "Miswak Tooth Paste 72 Pcs.",
+        "Item": "Grocery:Miswak Tooth Paste 72 Pcs.",
         "Price": 144.0
     },
     {
-        "Item": "Moov Cream 50 Gms",
+        "Item": "Grocery:Moov Cream 50 Gms,.",
         "Price": 2.5
     },
     {
-        "Item": "Mukhwas",
+        "Item": "Grocery:Mukhwas",
         "Price": 25.0
     },
     {
-        "Item": "Mysore Sandal Talc 300 Gms. X24",
+        "Item": "Grocery:Mysore Sandal Talc 300 Gms. X24",
         "Price": 55.0
     },
     {
-        "Item": "Mysore Sandle Soap 150 Gms.",
+        "Item": "Grocery:Mysore Sandle Soap 150 Gms.",
         "Price": 74.0
     },
     {
-        "Item": "Mysore Sandle Soap 75 Gms.",
+        "Item": "Grocery:Mysore Sandle Soap 75 Gms.",
         "Price": 125.0
     },
     {
-        "Item": "Namakpara 8 Ctns",
+        "Item": "Grocery:Namakpara 8 Ctns",
         "Price": 35.0
     },
     {
-        "Item": "Nanak Kaju Katli",
+        "Item": "Grocery:Nanak Kaju Katli",
         "Price": 50.0
     },
     {
-        "Item": "Nanak Kaju Roll",
+        "Item": "Grocery:Nanak Kaju Roll",
         "Price": 55.0
     },
     {
-        "Item": "Nanak sweet Assorted",
+        "Item": "Grocery:Nanak sweet Assorted",
         "Price": 50.0
     },
     {
-        "Item": "Neem Tooth Paste 72 Pcs",
+        "Item": "Grocery:Neem Tooth Paste 72 Pcs",
         "Price": 144.0
     },
     {
-        "Item": "NesCafe 200 Gms X 12",
+        "Item": "Grocery:NesCafe 200 Gms X 12",
         "Price": 42.0
     },
     {
-        "Item": "Noodle 75 Gms.",
+        "Item": "Grocery:Noodle 75 Gms.",
         "Price": 40.0
     },
     {
-        "Item": "Pocas Ginger Candy - Hard",
+        "Item": "Grocery:Pocas Ginger Candy - Hard",
         "Price": 42.0
     },
     {
-        "Item": "Raju Snack 200 Gms.X 20 Packs",
+        "Item": "Grocery:Raju Snack 200 Gms.X 20 Packs",
         "Price": 20.0
     },
     {
-        "Item": "Raju Snack 400 Gms.X 20 Packs",
+        "Item": "Grocery:Raju Snack 400 Gms.X 20 Packs",
         "Price": 35.0
     },
     {
-        "Item": "Ravalgaon Mix Cherry Candy 500",
+        "Item": "Grocery:Ravalgaon Mix Cherry Candy 500",
         "Price": 85.0
     },
     {
-        "Item": "Seasoned Sea Laver 24 X 13.5 Gm",
+        "Item": "Grocery:Seasoned Sea Laver 24 X 13.5 Gm",
         "Price": 23.0
     },
     {
-        "Item": "Sunflower Oil 12/1 Ltr Plastic",
+        "Item": "Grocery:Sunflower Oil 12/1 Ltr Plastic",
         "Price": 43.0
     },
     {
-        "Item": "Sunflower oil 4/5 Ltr Tin",
+        "Item": "Grocery:Sunflower oil 4/5 Ltr Tin",
         "Price": 99.0
     },
     {
-        "Item": "Sunflower Oil 6/2 Lit Plastic B",
+        "Item": "Grocery:Sunflower Oil 6/2 Lit Plastic B",
         "Price": 42.0
     },
     {
@@ -2444,16 +2452,16 @@
         "Price": 96.0
     },
     {
+        "Item": "Honey",
+        "Price": 29.0
+    },
+    {
         "Item": "Honey 16 oz. / 12 Pcs..",
         "Price": 73.0
     },
     {
         "Item": "Honey 30Oz. X 12 Pcs.",
         "Price": 101.0
-    },
-    {
-        "Item": "Honey 5 Lb.",
-        "Price": 139.0
     },
     {
         "Item": "Honey W/Comb 12/624 Gms.",
@@ -2540,10 +2548,6 @@
         "Price": 62.0
     },
     {
-        "Item": "Inspection USDA",
-        "Price": 0.0
-    },
-    {
         "Item": "Jackfruit Baby",
         "Price": 58.0
     },
@@ -2621,7 +2625,7 @@
     },
     {
         "Item": "Karela - Hondurus",
-        "Price": 59.0
+        "Price": 55.0
     },
     {
         "Item": "Karela - Local Florida",
@@ -2813,11 +2817,11 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 40.0
+        "Price": 32.0
     },
     {
         "Item": "Long Squash",
-        "Price": 39.0
+        "Price": 65.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -2964,10 +2968,6 @@
         "Price": 20.0
     },
     {
-        "Item": "Muli-Cali",
-        "Price": 41.0
-    },
-    {
         "Item": "Muli - TX",
         "Price": 43.0
     },
@@ -2977,10 +2977,10 @@
     },
     {
         "Item": "Muli W/O Leafs",
-        "Price": 29.0
+        "Price": 35.0
     },
     {
-        "Item": "Mundu Chillie Round 200 Gms",
+        "Item": "Mundu Chillie Round 200 Gms,",
         "Price": 40.0
     },
     {
@@ -3016,15 +3016,15 @@
         "Price": 35.0
     },
     {
-        "Item": "Kulcha Naan",
+        "Item": "Naan - Paratha:Kulcha Naan",
         "Price": 28.0
     },
     {
-        "Item": "Rughni Naan",
+        "Item": "Naan - Paratha:Rughni Naan",
         "Price": 20.0
     },
     {
-        "Item": "Whole Wheat Naan",
+        "Item": "Naan - Paratha:Whole Wheat Naan",
         "Price": 34.0
     },
     {
@@ -3069,7 +3069,7 @@
     },
     {
         "Item": "Onion - Pearl",
-        "Price": 29.0
+        "Price": 24.0
     },
     {
         "Item": "Onion - Shallots",
@@ -3132,16 +3132,8 @@
         "Price": 140.0
     },
     {
-        "Item": "Packing Tape",
-        "Price": 36.0
-    },
-    {
         "Item": "Paha",
         "Price": 75.0
-    },
-    {
-        "Item": "Pallet",
-        "Price": 5.0
     },
     {
         "Item": "Pallet Wrap",
@@ -3345,11 +3337,11 @@
     },
     {
         "Item": "Potato Red 'A'",
-        "Price": 39.0
+        "Price": 38.0
     },
     {
         "Item": "Potato Red 'B'",
-        "Price": 47.0
+        "Price": 46.0
     },
     {
         "Item": "Potato Red 'C'",
@@ -3361,7 +3353,7 @@
     },
     {
         "Item": "Potato White 'A'",
-        "Price": 59.0
+        "Price": 49.0
     },
     {
         "Item": "Potato White 'B'",
@@ -3497,7 +3489,7 @@
     },
     {
         "Item": "Rulo Banana",
-        "Price": 27.0
+        "Price": 26.0
     },
     {
         "Item": "Rumali Roti",
@@ -3525,7 +3517,7 @@
     },
     {
         "Item": "Sambal Chili Paste 18 oz X 12 P",
-        "Price": 56.0
+        "Price": 45.0
     },
     {
         "Item": "Sambal Chili Paste 8 oz",
@@ -3545,7 +3537,7 @@
     },
     {
         "Item": "Sarso Ka Saag",
-        "Price": 59.0
+        "Price": 48.0
     },
     {
         "Item": "Scallions / Green Onion",
@@ -3573,7 +3565,7 @@
     },
     {
         "Item": "Small Chilli",
-        "Price": 55.0
+        "Price": 49.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -3584,71 +3576,71 @@
         "Price": 0.0
     },
     {
-        "Item": "Chakri",
+        "Item": "Snacks:Chakri",
         "Price": 50.0
     },
     {
-        "Item": "Chakri - Jalapinios",
+        "Item": "Snacks:Chakri - Jalapinios",
         "Price": 50.0
     },
     {
-        "Item": "Chat Para 24 Packs",
+        "Item": "Snacks:Chat Para 24 Packs",
         "Price": 50.0
     },
     {
-        "Item": "Chat Para 4 Ctn.",
+        "Item": "Snacks:Chat Para 4 Ctn.",
         "Price": 18.0
     },
     {
-        "Item": "Gujia Kaju",
+        "Item": "Snacks:Gujia Kaju",
         "Price": 120.0
     },
     {
-        "Item": "Jalebi",
+        "Item": "Snacks:Jalebi",
         "Price": 40.0
     },
     {
-        "Item": "Janthikalu",
+        "Item": "Snacks:Janthikalu",
         "Price": 50.0
     },
     {
-        "Item": "Kaju Katri",
+        "Item": "Snacks:Kaju Katri",
         "Price": 110.0
     },
     {
-        "Item": "Kaju Roll",
+        "Item": "Snacks:Kaju Roll",
         "Price": 120.0
     },
     {
-        "Item": "Kerala mixture 200 Gms.",
+        "Item": "Snacks:Kerala mixture 200 Gms.",
         "Price": 53.0
     },
     {
-        "Item": "Matthi",
+        "Item": "Snacks:Matthi",
         "Price": 55.0
     },
     {
-        "Item": "Moori - Mamra",
+        "Item": "Snacks:Moori - Mamra",
         "Price": 32.0
     },
     {
-        "Item": "Namakpara",
+        "Item": "Snacks:Namakpara",
         "Price": 50.0
     },
     {
-        "Item": "Rassogulla 12 Packs",
+        "Item": "Snacks:Rassogulla 12 Packs",
         "Price": 28.0
     },
     {
-        "Item": "Real Snacks",
+        "Item": "Snacks:Real Snacks",
         "Price": 32.0
     },
     {
-        "Item": "Sakkar para Sweet",
+        "Item": "Snacks:Sakkar para Sweet",
         "Price": 50.0
     },
     {
-        "Item": "Yan Yan Cracker",
+        "Item": "Snacks:Yan Yan Cracker",
         "Price": 12.0
     },
     {
@@ -3745,7 +3737,7 @@
     },
     {
         "Item": "Sweet Potato",
-        "Price": 65.0
+        "Price": 67.0
     },
     {
         "Item": "Sweet potato Local",
@@ -3813,10 +3805,6 @@
     },
     {
         "Item": "Trash Bag",
-        "Price": 0.0
-    },
-    {
-        "Item": "Trash removal",
         "Price": 0.0
     },
     {
@@ -3990,5 +3978,9 @@
     {
         "Item": "Zuchini(Green Squash)",
         "Price": 18.0
+    },
+    {
+        "Item": "Inspection USDA",
+        "Price": 0.0
     }
 ]
