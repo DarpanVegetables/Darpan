@@ -329,7 +329,7 @@
     },
     {
         "Item": "Coconut Green",
-        "Price": 30.0
+        "Price": 32.0
     },
     {
         "Item": "Coconut Milk - Chakoh",
@@ -349,7 +349,7 @@
     },
     {
         "Item": "CranBerry Beans",
-        "Price": 75.0
+        "Price": 55.0
     },
     {
         "Item": "CREDIT",
@@ -405,7 +405,7 @@
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 38.0
+        "Price": 30.0
     },
     {
         "Item": "dano milk powder",
@@ -456,12 +456,8 @@
         "Price": 75.0
     },
     {
-        "Item": "Dhania-Local",
-        "Price": 29.0
-    },
-    {
         "Item": "Dhania-TX",
-        "Price": 26.0
+        "Price": 28.0
     },
     {
         "Item": "Dhania - 60 Bunches Paperbox",
@@ -713,7 +709,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 59.0
+        "Price": 55.0
     },
     {
         "Item": "Fatafat Candy 18 Jars",
@@ -1733,7 +1729,7 @@
     },
     {
         "Item": "FRUITS:Anar 5 Sz.",
-        "Price": 30.0
+        "Price": 25.0
     },
     {
         "Item": "FRUITS:Apple 72 pcs.",
@@ -1829,7 +1825,7 @@
     },
     {
         "Item": "FRUITS:Guava - Thai",
-        "Price": 85.0
+        "Price": 70.0
     },
     {
         "Item": "FRUITS:Guava Chinese",
@@ -2393,7 +2389,7 @@
     },
     {
         "Item": "Gujarati Belan",
-        "Price": 1.25
+        "Price": 2.5
     },
     {
         "Item": "Gunda",
@@ -2629,11 +2625,7 @@
     },
     {
         "Item": "Karela - Hondurus",
-        "Price": 55.0
-    },
-    {
-        "Item": "Karela - Local Florida",
-        "Price": 69.0
+        "Price": 49.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -2833,7 +2825,7 @@
     },
     {
         "Item": "Long Squash ( INDIAN )",
-        "Price": 59.0
+        "Price": 54.0
     },
     {
         "Item": "Long Squash Plants",
@@ -3069,7 +3061,7 @@
     },
     {
         "Item": "Okra Indian 11 lb.",
-        "Price": 42.0
+        "Price": 35.0
     },
     {
         "Item": "Okra Plants",
@@ -3081,7 +3073,7 @@
     },
     {
         "Item": "Okra Reg 11Lb.",
-        "Price": 42.0
+        "Price": 35.0
     },
     {
         "Item": "Olive Oil Extra Virgin 4 X 3 li",
@@ -3109,11 +3101,11 @@
     },
     {
         "Item": "Onion red 10 Lb. Small",
-        "Price": 5.75
+        "Price": 6.0
     },
     {
         "Item": "Onion Red 10 lbs. Reg.",
-        "Price": 6.25
+        "Price": 7.0
     },
     {
         "Item": "Onion Red 25 Lbs.",
@@ -3121,7 +3113,7 @@
     },
     {
         "Item": "Onion Red 2lb / 20 bags",
-        "Price": 40.0
+        "Price": 46.0
     },
     {
         "Item": "Onion White 10 Lbs.",
@@ -3129,11 +3121,11 @@
     },
     {
         "Item": "Onion Yellow - Canadian 10 Lbs.",
-        "Price": 5.5
+        "Price": 6.0
     },
     {
         "Item": "Onion Yellow 10 lb.",
-        "Price": 3.5
+        "Price": 4.0
     },
     {
         "Item": "Onion Yellow 2lb / 20 bags",
@@ -3333,7 +3325,7 @@
     },
     {
         "Item": "Poi Saag",
-        "Price": 38.0
+        "Price": 55.0
     },
     {
         "Item": "Pole Beans",
@@ -3398,6 +3390,10 @@
     {
         "Item": "Pumpkin Leafs",
         "Price": 54.0
+    },
+    {
+        "Item": "Punjabi Belan",
+        "Price": 2.5
     },
     {
         "Item": "Puri- CRISPY",
@@ -3501,7 +3497,7 @@
     },
     {
         "Item": "Round Long Squash",
-        "Price": 73.0
+        "Price": 60.0
     },
     {
         "Item": "Royal Pani Puri 18 X 4 Oz.",
@@ -3760,10 +3756,6 @@
         "Price": 65.0
     },
     {
-        "Item": "Sweet potato Local",
-        "Price": 34.0
-    },
-    {
         "Item": "Sweet Tamarind Box 454 Gms. X 1",
         "Price": 78.0
     },
@@ -3925,7 +3917,7 @@
     },
     {
         "Item": "Winter Melon",
-        "Price": 25.0
+        "Price": 30.0
     },
     {
         "Item": "Yam Brazil - Cuscus",
