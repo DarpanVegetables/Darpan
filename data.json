@@ -89,7 +89,7 @@
     },
     {
         "Item": "Biodegradable 6 Oz. Bowl 500c",
-        "Price": 38.0
+        "Price": 57.0
     },
     {
         "Item": "Biodegradable 7 ' Compartment",
@@ -185,7 +185,7 @@
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 55.0
+        "Price": 49.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -202,6 +202,10 @@
     {
         "Item": "Carrot Baby",
         "Price": 44.0
+    },
+    {
+        "Item": "Carrot Desi",
+        "Price": 70.0
     },
     {
         "Item": "Carrots",
@@ -405,7 +409,7 @@
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 18.0
+        "Price": 19.0
     },
     {
         "Item": "dano milk powder",
@@ -701,7 +705,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 56.0
+        "Price": 48.0
     },
     {
         "Item": "Eggplant Plants",
@@ -709,7 +713,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 59.0
+        "Price": 48.0
     },
     {
         "Item": "Fatafat Candy 18 Jars",
@@ -1429,7 +1433,7 @@
     },
     {
         "Item": "FROZEN:Deep - Coconut Shredded.",
-        "Price": 48.0
+        "Price": 58.0
     },
     {
         "Item": "FROZEN:Deep - Dahi Vada 10 Pcs.",
@@ -2077,7 +2081,7 @@
     },
     {
         "Item": "Ginger Regular",
-        "Price": 48.0
+        "Price": 34.0
     },
     {
         "Item": "Ginger Young",
@@ -2796,6 +2800,10 @@
         "Price": 32.0
     },
     {
+        "Item": "Lemon 115 Sz.",
+        "Price": 42.0
+    },
+    {
         "Item": "Lemon 140 Sz.",
         "Price": 42.0
     },
@@ -2809,11 +2817,11 @@
     },
     {
         "Item": "Lime 150 Pcs.",
-        "Price": 48.0
+        "Price": 49.0
     },
     {
         "Item": "Lime 175 Pcs. - Kagati",
-        "Price": 47.0
+        "Price": 49.0
     },
     {
         "Item": "Long Beans Green 30lbs",
@@ -2821,7 +2829,7 @@
     },
     {
         "Item": "Long Beans White 10 Lb.",
-        "Price": 45.0
+        "Price": 100.0
     },
     {
         "Item": "Long Hot Pepper",
@@ -2837,7 +2845,7 @@
     },
     {
         "Item": "Long Squash ( INDIAN )",
-        "Price": 59.0
+        "Price": 45.0
     },
     {
         "Item": "Long Squash Plants",
@@ -3069,7 +3077,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 25.0
+        "Price": 28.0
     },
     {
         "Item": "Okra Indian 11 lb.",
@@ -3133,7 +3141,7 @@
     },
     {
         "Item": "Onion Yellow - Canadian 10 Lbs.",
-        "Price": 6.0
+        "Price": 6.5
     },
     {
         "Item": "Onion Yellow 10 lb.",
@@ -3377,7 +3385,7 @@
     },
     {
         "Item": "Potato White 'A'",
-        "Price": 65.0
+        "Price": 68.0
     },
     {
         "Item": "Potato White 'B'",
@@ -3593,7 +3601,7 @@
     },
     {
         "Item": "Small Chilli",
-        "Price": 69.0
+        "Price": 59.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -3885,7 +3893,7 @@
     },
     {
         "Item": "Valor - Broad",
-        "Price": 58.0
+        "Price": 60.0
     },
     {
         "Item": "Valor - Long Florida",
@@ -3897,7 +3905,7 @@
     },
     {
         "Item": "Valor - Round Dominican",
-        "Price": 58.0
+        "Price": 60.0
     },
     {
         "Item": "Valor Beans 20Lbs.",
