@@ -705,7 +705,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 48.0
+        "Price": 28.0
     },
     {
         "Item": "Eggplant Plants",
@@ -2833,7 +2833,7 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 54.0
+        "Price": 55.0
     },
     {
         "Item": "Long Squash",
@@ -3080,20 +3080,12 @@
         "Price": 21.0
     },
     {
-        "Item": "Okra Indian 11 lb.",
-        "Price": 21.0
-    },
-    {
         "Item": "Okra Plants",
         "Price": 21.0
     },
     {
         "Item": "Okra Reg",
         "Price": 29.0
-    },
-    {
-        "Item": "Okra Reg 11Lb.",
-        "Price": 35.0
     },
     {
         "Item": "Olive Oil Extra Virgin 4 X 3 li",
