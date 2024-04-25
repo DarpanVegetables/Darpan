@@ -217,7 +217,7 @@
     },
     {
         "Item": "Cabbage in Box",
-        "Price": 32.0
+        "Price": 28.0
     },
     {
         "Item": "Cactus Pear Red",
@@ -285,11 +285,11 @@
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 27.0
+        "Price": 36.0
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
-        "Price": 39.0
+        "Price": 42.0
     },
     {
         "Item": "Cawthong 10 Lb.",
@@ -345,7 +345,7 @@
     },
     {
         "Item": "Chayote",
-        "Price": 36.0
+        "Price": 45.0
     },
     {
         "Item": "Chayote Black",
@@ -601,7 +601,7 @@
     },
     {
         "Item": "Dhania - Mexico -60 Bunches Pap",
-        "Price": 28.0
+        "Price": 25.0
     },
     {
         "Item": "Dill",
@@ -813,7 +813,7 @@
     },
     {
         "Item": "Eggplant  American",
-        "Price": 27.0
+        "Price": 29.0
     },
     {
         "Item": "Eggplant  Jelio",
@@ -845,7 +845,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 39.0
+        "Price": 30.0
     },
     {
         "Item": "Eggplant Italian",
@@ -1645,7 +1645,7 @@
     },
     {
         "Item": "FROZEN:Deep - Coconut Shredded.",
-        "Price": 58.0
+        "Price": 48.0
     },
     {
         "Item": "FROZEN:Deep - Dahi Vada 10 Pcs.",
@@ -1654,10 +1654,6 @@
     {
         "Item": "FROZEN:Deep - Diced Potato 12 Oz.",
         "Price": 29.0
-    },
-    {
-        "Item": "FROZEN:Deep - Drumstick",
-        "Price": 39.0
     },
     {
         "Item": "FROZEN:Deep - Fafda",
@@ -2165,7 +2161,7 @@
     },
     {
         "Item": "FRUITS:Guava Mexican in CTN",
-        "Price": 65.0
+        "Price": 49.0
     },
     {
         "Item": "FRUITS:Hami Melon",
@@ -2221,7 +2217,7 @@
     },
     {
         "Item": "FRUITS:Mango Baby 50 Lbs.",
-        "Price": 168.0
+        "Price": 175.0
     },
     {
         "Item": "FRUITS:Mango Sweet 20 Lbs.",
@@ -2345,7 +2341,7 @@
     },
     {
         "Item": "Garlic Peeled 5 lb. Jar case",
-        "Price": 60.0
+        "Price": 89.0
     },
     {
         "Item": "Garlic Regular",
@@ -2405,7 +2401,7 @@
     },
     {
         "Item": "Ginger Orgenic",
-        "Price": 64.0
+        "Price": 35.0
     },
     {
         "Item": "Ginger Paste Laxmi",
@@ -2413,7 +2409,7 @@
     },
     {
         "Item": "Ginger Regular",
-        "Price": 36.0
+        "Price": 28.0
     },
     {
         "Item": "Ginger Young",
@@ -2429,7 +2425,7 @@
     },
     {
         "Item": "Gongura leaf",
-        "Price": 69.0
+        "Price": 62.0
     },
     {
         "Item": "Gooseberry Pickled",
@@ -3009,7 +3005,7 @@
     },
     {
         "Item": "Grocery:Maggie Masala Noodles 280 Gms.",
-        "Price": 46.0
+        "Price": 32.0
     },
     {
         "Item": "Grocery:Maggie Masala Noodles 420 Gms.",
@@ -3234,6 +3230,10 @@
     {
         "Item": "Grocery:Paraboil Rice 20 Lb. Laxmi",
         "Price": 14.0
+    },
+    {
+        "Item": "Grocery:Parle Malody Candy 454.2 Gms. X",
+        "Price": 60.0
     },
     {
         "Item": "Grocery:Pocas Ginger Candy - Hard",
@@ -3537,7 +3537,7 @@
     },
     {
         "Item": "Jamaican Pepper",
-        "Price": 33.0
+        "Price": 45.0
     },
     {
         "Item": "Jamun Powder 80 Packs",
@@ -3593,11 +3593,11 @@
     },
     {
         "Item": "Karela - Hondurus",
-        "Price": 35.0
+        "Price": 39.0
     },
     {
         "Item": "Karela - Local Florida",
-        "Price": 39.0
+        "Price": 45.0
     },
     {
         "Item": "Karela Plants",
@@ -3756,8 +3756,8 @@
         "Price": 32.0
     },
     {
-        "Item": "Lemon 165 Sz.",
-        "Price": 52.0
+        "Item": "Lemon 140 Sz.",
+        "Price": 49.0
     },
     {
         "Item": "Lettuce",
@@ -3768,8 +3768,8 @@
         "Price": 0.0
     },
     {
-        "Item": "Lime 175 Ct.",
-        "Price": 56.0
+        "Item": "Lime 150 Pcs.",
+        "Price": 59.0
     },
     {
         "Item": "Long Bean White 10 Lbs.",
@@ -3789,11 +3789,11 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 36.0
+        "Price": 51.0
     },
     {
         "Item": "Long Squash",
-        "Price": 42.0
+        "Price": 29.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -3801,7 +3801,7 @@
     },
     {
         "Item": "Long Squash ( INDIAN )",
-        "Price": 49.0
+        "Price": 57.0
     },
     {
         "Item": "Long Squash (Bangali - Cali)",
@@ -3840,8 +3840,8 @@
         "Price": 44.0
     },
     {
-        "Item": "Maggi Ketchup 12 X 500 Gms.",
-        "Price": 39.0
+        "Item": "Maggie Ketchup 1 Kgs.",
+        "Price": 50.0
     },
     {
         "Item": "Maggie Ketchup NONG Sauce",
@@ -4013,7 +4013,7 @@
     },
     {
         "Item": "Mushroom Oystar 5 lbs.",
-        "Price": 28.0
+        "Price": 26.0
     },
     {
         "Item": "Mushroom Oyster King",
@@ -4097,7 +4097,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 32.0
+        "Price": 30.0
     },
     {
         "Item": "Okra Plants",
@@ -4133,7 +4133,7 @@
     },
     {
         "Item": "Onion Red 10 lbs. Reg.",
-        "Price": 8.0
+        "Price": 9.0
     },
     {
         "Item": "Onion Red 10 Lbs.Small",
@@ -4253,7 +4253,11 @@
     },
     {
         "Item": "Parle G Biscuit 192 X 56.4 Gms.",
-        "Price": 36.0
+        "Price": 21.0
+    },
+    {
+        "Item": "Parle Krack Jack 48 X 60 Gms.",
+        "Price": 18.0
     },
     {
         "Item": "Parval",
@@ -4529,7 +4533,7 @@
     },
     {
         "Item": "Red Chillie",
-        "Price": 90.0
+        "Price": 80.0
     },
     {
         "Item": "Red Flat Beans",
@@ -4705,7 +4709,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 79.0
+        "Price": 75.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -4884,10 +4888,6 @@
         "Price": 36.0
     },
     {
-        "Item": "SunFeast Cookies 72 X 75 Gms.",
-        "Price": 21.0
-    },
-    {
         "Item": "Suran",
         "Price": 170.0
     },
@@ -4953,7 +4953,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 65.0
+        "Price": 62.0
     },
     {
         "Item": "Toddy Palm in Syrup",
@@ -5013,7 +5013,7 @@
     },
     {
         "Item": "Turia - Chinese Okra",
-        "Price": 39.0
+        "Price": 49.0
     },
     {
         "Item": "Turmeric White",
@@ -5033,7 +5033,7 @@
     },
     {
         "Item": "Turnip",
-        "Price": 28.0
+        "Price": 26.0
     },
     {
         "Item": "USDA Inspection",
@@ -5045,7 +5045,7 @@
     },
     {
         "Item": "Valor - Broad",
-        "Price": 79.0
+        "Price": 75.0
     },
     {
         "Item": "Valor - Long Florida",
@@ -5093,7 +5093,7 @@
     },
     {
         "Item": "Winter Melon",
-        "Price": 35.0
+        "Price": 28.0
     },
     {
         "Item": "Yam",
