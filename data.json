@@ -32,14 +32,6 @@
         "Price": 95.0
     },
     {
-        "Item": "Bajri Rotla 4 Pcs.",
-        "Price": 2.5
-    },
-    {
-        "Item": "Bakkerkhani",
-        "Price": 0.0
-    },
-    {
         "Item": "Bamboo Shoot Fresh",
         "Price": 149.0
     },
@@ -50,10 +42,6 @@
     {
         "Item": "Bamboo Shoot Strips",
         "Price": 55.0
-    },
-    {
-        "Item": "Banana Chiips",
-        "Price": 14.5
     },
     {
         "Item": "Banana Flower",
@@ -74,10 +62,6 @@
     {
         "Item": "Basil",
         "Price": 15.0
-    },
-    {
-        "Item": "Basmati Rice 10 Lb. X 4 Bags",
-        "Price": 37.0
     },
     {
         "Item": "Batthu",
@@ -168,10 +152,6 @@
         "Price": 55.0
     },
     {
-        "Item": "Black Pepper Sauce 36 X 250 Gms",
-        "Price": 60.0
-    },
-    {
         "Item": "Bok Choi Sum ( Baby)",
         "Price": 28.0
     },
@@ -237,7 +217,7 @@
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 41.0
+        "Price": 39.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -250,14 +230,6 @@
     {
         "Item": "Calaloo - -Tandalja ni Bhaji -",
         "Price": 35.0
-    },
-    {
-        "Item": "Candle 4 Pcs,",
-        "Price": 8.0
-    },
-    {
-        "Item": "Candle Display",
-        "Price": 10.0
     },
     {
         "Item": "Cantaloupe Melon",
@@ -308,14 +280,6 @@
         "Price": 30.0
     },
     {
-        "Item": "Center Fresh Candy",
-        "Price": 25.0
-    },
-    {
-        "Item": "Chaat Papri 16 X 285 Gms.",
-        "Price": 58.0
-    },
-    {
         "Item": "Chakoh Curry Paste 24 X 14 oz.",
         "Price": 59.0
     },
@@ -324,24 +288,12 @@
         "Price": 22.0
     },
     {
-        "Item": "Chakra Display 84Ct",
-        "Price": 25.0
-    },
-    {
         "Item": "Chakra Display 90 Pcs.",
         "Price": 30.0
     },
     {
         "Item": "Champion Chowmein- Fine",
         "Price": 41.0
-    },
-    {
-        "Item": "Chapati Flour Sarbati 2 X 20 Lb",
-        "Price": 18.0
-    },
-    {
-        "Item": "Chawanu",
-        "Price": 2.5
     },
     {
         "Item": "Chayote",
@@ -357,7 +309,7 @@
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 40.0
+        "Price": 42.0
     },
     {
         "Item": "Chayote White",
@@ -388,44 +340,12 @@
         "Price": 42.0
     },
     {
-        "Item": "Chief Chinese Sauce",
-        "Price": 68.0
-    },
-    {
-        "Item": "Chilli Paste in Oil 250 Gms.X 2",
-        "Price": 60.0
-    },
-    {
-        "Item": "Ching's Chillie Vinegar",
-        "Price": 35.0
-    },
-    {
-        "Item": "Ching's Hakka Veg 600 Gms. X 15",
-        "Price": 35.0
-    },
-    {
-        "Item": "Ching's Schezwan Noodles 240 Gm",
-        "Price": 35.0
-    },
-    {
-        "Item": "Ching's Schwan Chutney 250 Gms.",
-        "Price": 45.0
-    },
-    {
-        "Item": "Ching's Schzwan Star Fry 250 Gm",
-        "Price": 45.0
-    },
-    {
         "Item": "Chiplin Fresh Leaves",
         "Price": 30.0
     },
     {
         "Item": "Chori",
         "Price": 55.0
-    },
-    {
-        "Item": "Chutney",
-        "Price": 1.5
     },
     {
         "Item": "Cilantro Chinese",
@@ -464,16 +384,8 @@
         "Price": 46.0
     },
     {
-        "Item": "Corol Perfume 100 MLs. 6 X 8",
-        "Price": 264.0
-    },
-    {
         "Item": "CranBerry Beans",
-        "Price": 49.0
-    },
-    {
-        "Item": "Cream Roll KCB",
-        "Price": 0.0
+        "Price": 46.0
     },
     {
         "Item": "CREDIT",
@@ -534,26 +446,6 @@
     {
         "Item": "Daily:Tomato Plum",
         "Price": 30.0
-    },
-    {
-        "Item": "dano milk powder",
-        "Price": 156.0
-    },
-    {
-        "Item": "dano milk powder Pcs",
-        "Price": 26.0
-    },
-    {
-        "Item": "Darbar  Creamy Sela Basmati 20",
-        "Price": 34.0
-    },
-    {
-        "Item": "Darbar Golden Sela Basmati 10 l",
-        "Price": 34.0
-    },
-    {
-        "Item": "Darbar Masmati Rice 10Lb.",
-        "Price": 35.0
     },
     {
         "Item": "Darket Flower 10 Lb.",
@@ -712,6 +604,10 @@
         "Price": 37.0
     },
     {
+        "Item": "Drinks:Frooty Mango Tetra Pack 27 X 20",
+        "Price": 12.0
+    },
+    {
         "Item": "Drinks:Guava Drinks 8.45 Oz.",
         "Price": 6.0
     },
@@ -720,7 +616,19 @@
         "Price": 13.5
     },
     {
-        "Item": "Drinks:Lassi-Mango",
+        "Item": "Drinks:Lassi - Mango 10 Oz.",
+        "Price": 24.0
+    },
+    {
+        "Item": "Drinks:Lassi - Masala Chaas Spiced 10",
+        "Price": 19.0
+    },
+    {
+        "Item": "Drinks:Lassi - Original 10Oz./12",
+        "Price": 19.0
+    },
+    {
+        "Item": "Drinks:Lassi - Original 50Oz./6",
         "Price": 24.0
     },
     {
@@ -766,10 +674,6 @@
     {
         "Item": "Drinks:Milo Powder",
         "Price": 54.0
-    },
-    {
-        "Item": "Drinks:Panchy Drink 250 Mls. X 30",
-        "Price": 18.0
     },
     {
         "Item": "Drinks:Pomagranate Juice",
@@ -845,7 +749,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 39.0
+        "Price": 40.0
     },
     {
         "Item": "Eggplant Italian",
@@ -865,7 +769,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 49.0
+        "Price": 46.0
     },
     {
         "Item": "Eggplant Thai White",
@@ -976,6 +880,10 @@
         "Price": 45.0
     },
     {
+        "Item": "Frooty Mago Tetra Pack 6X 6X 20",
+        "Price": 10.0
+    },
+    {
         "Item": "FROZEN",
         "Price": null
     },
@@ -1002,10 +910,6 @@
     {
         "Item": "FROZEN:Banana Leaves # 20",
         "Price": 33.0
-    },
-    {
-        "Item": "FROZEN:Batata Wada",
-        "Price": 50.0
     },
     {
         "Item": "FROZEN:Broccoli Chopped 12 X 2.5 LBs.",
@@ -1040,22 +944,6 @@
         "Price": 54.0
     },
     {
-        "Item": "FROZEN:Chapati Reg - Kawan",
-        "Price": 46.0
-    },
-    {
-        "Item": "FROZEN:Chicken Hot Dogs 12.6 Oz. X 12",
-        "Price": 42.0
-    },
-    {
-        "Item": "FROZEN:Chicken Nuggets 1.3 lb X 12",
-        "Price": 66.0
-    },
-    {
-        "Item": "FROZEN:Chicken Patty X 12",
-        "Price": 69.0
-    },
-    {
         "Item": "FROZEN:Chopped spinach Endico",
         "Price": 28.0
     },
@@ -1066,10 +954,6 @@
     {
         "Item": "FROZEN:Coconut Shreaded - Truly",
         "Price": 69.0
-    },
-    {
-        "Item": "FROZEN:Coconut Water - David",
-        "Price": 26.0
     },
     {
         "Item": "FROZEN:Corn cut Regal",
@@ -1625,7 +1509,7 @@
     },
     {
         "Item": "FROZEN:Deep - Bhatura 20 Pcs.(8)",
-        "Price": 67.0
+        "Price": 61.0
     },
     {
         "Item": "FROZEN:Deep - Bhatura 5 Pcs.",
@@ -1968,10 +1852,6 @@
         "Price": 39.0
     },
     {
-        "Item": "FROZEN:Rasmalai 20 Pcs 8 Packs Kaleva",
-        "Price": 75.0
-    },
-    {
         "Item": "FROZEN:Rasmalai 850 Gms.- Brar",
         "Price": 78.0
     },
@@ -1985,7 +1865,7 @@
     },
     {
         "Item": "FROZEN:Rasmalai Small 20 Pcs.",
-        "Price": 98.0
+        "Price": 95.0
     },
     {
         "Item": "FROZEN:Rasmalai Small 8 Pcs.",
@@ -2062,10 +1942,6 @@
     {
         "Item": "FRUITS:Anar Loose",
         "Price": 65.0
-    },
-    {
-        "Item": "FRUITS:Apple 72 pcs.",
-        "Price": 36.0
     },
     {
         "Item": "FRUITS:Apple Gala",
@@ -2241,7 +2117,7 @@
     },
     {
         "Item": "FRUITS:Papaya Yellow",
-        "Price": 50.0
+        "Price": 48.0
     },
     {
         "Item": "FRUITS:Passion Fruit",
@@ -2460,10 +2336,6 @@
         "Price": 0.0
     },
     {
-        "Item": "Grocery:2Minutes Tomato Rasam 36 Packs",
-        "Price": 52.0
-    },
-    {
         "Item": "Grocery:Aaji No Moto 8 Ox. X 30 Bags",
         "Price": 60.0
     },
@@ -2484,116 +2356,12 @@
         "Price": 130.0
     },
     {
-        "Item": "Grocery:Bajaj Almond Drop Oil 200 Ml. X",
-        "Price": 70.0
-    },
-    {
-        "Item": "Grocery:Bajaj Almond Drop Oil 300 Ml. X",
-        "Price": 65.0
-    },
-    {
-        "Item": "Grocery:Bajaj Kailas parbat Cooling Oil",
-        "Price": 95.0
-    },
-    {
-        "Item": "Grocery:Bakaji Gur Rewari 400 Gms. 20 C",
-        "Price": 50.0
-    },
-    {
         "Item": "Grocery:Banana Blosom in can",
         "Price": 38.0
     },
     {
-        "Item": "Grocery:Beauty Cream AM 50 Gms. X 72",
-        "Price": 240.0
-    },
-    {
-        "Item": "Grocery:Beauty Cream Ayur 50 Gms.X 72",
-        "Price": 180.0
-    },
-    {
-        "Item": "Grocery:Beauty Cream MA 50 Gms. X 72",
-        "Price": 200.0
-    },
-    {
-        "Item": "Grocery:Beauty Cream MA 80 Gms. X 36",
-        "Price": 160.0
-    },
-    {
-        "Item": "Grocery:Beauty Cream MV 50 Gms. X 72",
-        "Price": 180.0
-    },
-    {
-        "Item": "Grocery:Bedekar's Pickels",
-        "Price": 20.0
-    },
-    {
-        "Item": "Grocery:Bikano Namakpara",
-        "Price": 46.0
-    },
-    {
-        "Item": "Grocery:Bikano Ramdana Chikki",
-        "Price": 67.0
-    },
-    {
-        "Item": "Grocery:Bikano Rasgulla",
-        "Price": 35.0
-    },
-    {
-        "Item": "Grocery:Bikano Rasmalai",
-        "Price": 65.0
-    },
-    {
-        "Item": "Grocery:Bikano Rasmalai Patty",
-        "Price": 36.0
-    },
-    {
-        "Item": "Grocery:Bikano Rasmol Gift Pack",
-        "Price": 60.0
-    },
-    {
-        "Item": "Grocery:Bikano Sakkarpara",
-        "Price": 46.0
-    },
-    {
-        "Item": "Grocery:Bikano Shahi Rasgulla",
-        "Price": 45.0
-    },
-    {
-        "Item": "Grocery:Bikano Soan Papri Big",
-        "Price": 42.0
-    },
-    {
-        "Item": "Grocery:Bikano Soan Papri Small",
-        "Price": 42.0
-    },
-    {
-        "Item": "Grocery:Bor Dried 500 Gms./ 18",
-        "Price": 70.0
-    },
-    {
-        "Item": "Grocery:Bornvitta 1 KG.",
-        "Price": 58.0
-    },
-    {
-        "Item": "Grocery:Bornvitta 500 gms.",
-        "Price": 58.0
-    },
-    {
         "Item": "Grocery:Bournvita 500 Gms X 15",
         "Price": 50.0
-    },
-    {
-        "Item": "Grocery:Brar Corn Flour 4 Lbs. X 10",
-        "Price": 39.0
-    },
-    {
-        "Item": "Grocery:Brar Corn Flour 8 Lbs. X 5",
-        "Price": 39.0
-    },
-    {
-        "Item": "Grocery:Brown & Polson Custard 500 Gms.",
-        "Price": 35.0
     },
     {
         "Item": "Grocery:Brown Sugar",
@@ -2604,72 +2372,8 @@
         "Price": 84.0
     },
     {
-        "Item": "Grocery:Burfi Kaleva",
-        "Price": 0.0
-    },
-    {
-        "Item": "Grocery:Canthederine Hair Oil 200 Mls.",
-        "Price": 55.0
-    },
-    {
-        "Item": "Grocery:Canthederine Hair Oil 400 Mls.",
-        "Price": 105.0
-    },
-    {
-        "Item": "Grocery:Cerelac Multigrain State 4 300",
-        "Price": 98.0
-    },
-    {
-        "Item": "Grocery:Cerelac Rice Veg.300 Gms. X 24",
-        "Price": 98.0
-    },
-    {
-        "Item": "Grocery:Cerelac Stage # 1 300 Gms. X 24",
-        "Price": 98.0
-    },
-    {
-        "Item": "Grocery:Chana Black Pepper 150 Gms.",
-        "Price": 105.0
-    },
-    {
-        "Item": "Grocery:Chana Dal 2 Lbs.",
-        "Price": 47.0
-    },
-    {
         "Item": "Grocery:Chana Gud Chana 150 Gms. X 120",
         "Price": 120.0
-    },
-    {
-        "Item": "Grocery:Chana Hing Jeera",
-        "Price": 120.0
-    },
-    {
-        "Item": "Grocery:Chana Masala",
-        "Price": 120.0
-    },
-    {
-        "Item": "Grocery:Chana Nimboo Phudina",
-        "Price": 120.0
-    },
-    {
-        "Item": "Grocery:Ching's Dark Soya Sauce 200 Gms",
-        "Price": 29.0
-    },
-    {
-        "Item": "Grocery:Ching's Green Chilli Sauce 190",
-        "Price": 30.0
-    },
-    {
-        "Item": "Grocery:Ching's Veg. Hakka Noodles 150",
-        "Price": 18.0
-    },
-    {
-        "Item": "Grocery:Coockies",
-        "Price": 70.0
-    },
-    {
-        "Item": "Grocery:Cotton Wisk",
-        "Price": 12.0
     },
     {
         "Item": "Grocery:Crispy Baqar Khani",
@@ -2682,10 +2386,6 @@
     {
         "Item": "Grocery:Crispy Twistees",
         "Price": 34.0
-    },
-    {
-        "Item": "Grocery:Curd Chillies 100 Gms. X 20",
-        "Price": 25.0
     },
     {
         "Item": "Grocery:Dawat Red Super",
@@ -3200,30 +2900,6 @@
         "Price": 83.0
     },
     {
-        "Item": "Grocery:Organic Rice Poha",
-        "Price": 24.0
-    },
-    {
-        "Item": "Grocery:Organic Suji 2 LBs.",
-        "Price": 34.0
-    },
-    {
-        "Item": "Grocery:Organic Turmeric Powder 100 Gms",
-        "Price": 83.0
-    },
-    {
-        "Item": "Grocery:Organic Urad Split Washed 2 Lbs",
-        "Price": 50.0
-    },
-    {
-        "Item": "Grocery:Organic White Sugar 2 Lbs.",
-        "Price": 52.0
-    },
-    {
-        "Item": "Grocery:Paraboil Rice 20 Lb. Laxmi",
-        "Price": 14.0
-    },
-    {
         "Item": "Grocery:Pocas Ginger Candy - Hard",
         "Price": 42.0
     },
@@ -3516,20 +3192,12 @@
         "Price": 45.0
     },
     {
-        "Item": "Jaggeri Plum",
-        "Price": 2.25
-    },
-    {
         "Item": "Jalapinios",
         "Price": 36.0
     },
     {
         "Item": "Jamaican Pepper",
         "Price": 33.0
-    },
-    {
-        "Item": "Jamun Powder 80 Packs",
-        "Price": 144.0
     },
     {
         "Item": "Jello Jar Charctor 6 Pcs.",
@@ -3581,11 +3249,11 @@
     },
     {
         "Item": "Karela - Hondurus",
-        "Price": 28.0
+        "Price": 25.0
     },
     {
         "Item": "Karela - Local Florida",
-        "Price": 32.0
+        "Price": 27.0
     },
     {
         "Item": "Karela Plants",
@@ -3593,10 +3261,6 @@
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
-        "Price": 28.0
-    },
-    {
-        "Item": "Kashmir-Cream Roll",
         "Price": 28.0
     },
     {
@@ -3610,6 +3274,10 @@
     {
         "Item": "Kashmir-Tea Rusk X 18",
         "Price": 27.0
+    },
+    {
+        "Item": "KCB - Cream Roll",
+        "Price": 0.0
     },
     {
         "Item": "KCB Bomaby Pav 8oz.",
@@ -3638,6 +3306,10 @@
     {
         "Item": "KCB Desi Bread",
         "Price": 26.0
+    },
+    {
+        "Item": "KCB Fancy Roll 7 Oz.",
+        "Price": 32.0
     },
     {
         "Item": "KCB Fried Moori 14 Oz.",
@@ -3700,10 +3372,6 @@
         "Price": 45.0
     },
     {
-        "Item": "Kitkat",
-        "Price": 25.0
-    },
-    {
         "Item": "Kolrabi",
         "Price": 32.0
     },
@@ -3722,18 +3390,6 @@
     {
         "Item": "Laminated Pics",
         "Price": 5.0
-    },
-    {
-        "Item": "Lassi Masala Chaas Spiced 16 Oz",
-        "Price": 19.0
-    },
-    {
-        "Item": "Lassi Original 16Oz./12",
-        "Price": 19.0
-    },
-    {
-        "Item": "Lassi Original 50Oz./6",
-        "Price": 24.0
     },
     {
         "Item": "Lau Shaak",
@@ -3761,7 +3417,7 @@
     },
     {
         "Item": "Long Bean White 10 Lbs.",
-        "Price": 42.0
+        "Price": 50.0
     },
     {
         "Item": "Long Beans - White 30lbs.",
@@ -3781,7 +3437,7 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 42.0
+        "Price": 45.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -3789,7 +3445,7 @@
     },
     {
         "Item": "Long Squash ( INDIAN )",
-        "Price": 49.0
+        "Price": 54.0
     },
     {
         "Item": "Long Squash (Bangali - Cali)",
@@ -3876,44 +3532,16 @@
         "Price": 12.0
     },
     {
-        "Item": "Medimix 18 Herbs 750 Mls X 12e",
-        "Price": 84.0
-    },
-    {
         "Item": "Medium Chillie 10 Lb",
         "Price": 28.0
-    },
-    {
-        "Item": "Mehdi Cone 12 Pcs",
-        "Price": 12.0
     },
     {
         "Item": "Mehdi Cone 25 X 35 Gms.",
         "Price": 25.0
     },
     {
-        "Item": "Melody Perfume 100 MLs.",
-        "Price": 198.0
-    },
-    {
         "Item": "Methi - TX",
-        "Price": 45.0
-    },
-    {
-        "Item": "Milo Jamaican Tin 12 X 14 Oz.",
-        "Price": 36.0
-    },
-    {
-        "Item": "Milo Ready To Drink",
-        "Price": 15.0
-    },
-    {
-        "Item": "Milo Tonic 24 X 14 oz.",
-        "Price": 75.0
-    },
-    {
-        "Item": "Milo Tonic 6 X 3.3 lbs.",
-        "Price": 62.0
+        "Price": 55.0
     },
     {
         "Item": "Mint",
@@ -4060,6 +3688,10 @@
         "Price": 28.0
     },
     {
+        "Item": "Noga Dahi 32 Lbs.",
+        "Price": 34.0
+    },
+    {
         "Item": "Noga Dahi 4 Lbs.",
         "Price": 33.0
     },
@@ -4116,20 +3748,8 @@
         "Price": 15.0
     },
     {
-        "Item": "Organic Urad Whole 2 Lbs.",
-        "Price": 49.0
-    },
-    {
-        "Item": "Ovaltin 1200gm",
-        "Price": 42.0
-    },
-    {
         "Item": "Ovaltin 200 Gms.",
         "Price": 42.0
-    },
-    {
-        "Item": "Ovaltin 400gm",
-        "Price": 34.0
     },
     {
         "Item": "Ovaltin Biscuit 24 x 14 Oz.",
@@ -4138,10 +3758,6 @@
     {
         "Item": "Packing Charge",
         "Price": 140.0
-    },
-    {
-        "Item": "Pad Thai Sauce 36 X 260 Gms.",
-        "Price": 60.0
     },
     {
         "Item": "Paha",
@@ -4190,10 +3806,6 @@
     {
         "Item": "Papaya",
         "Price": 29.0
-    },
-    {
-        "Item": "Paper Towel 30 Pcs",
-        "Price": 27.0
     },
     {
         "Item": "Papri",
@@ -4417,7 +4029,7 @@
     },
     {
         "Item": "Pumpkin Leafs - Premium",
-        "Price": 100.0
+        "Price": 85.0
     },
     {
         "Item": "Puri",
@@ -4649,7 +4261,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 65.0
+        "Price": 49.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -4757,7 +4369,7 @@
     },
     {
         "Item": "Spinach",
-        "Price": 42.0
+        "Price": 45.0
     },
     {
         "Item": "Spinach Baby",
@@ -4793,7 +4405,7 @@
     },
     {
         "Item": "Strawberry Clamshell 8 X 1 Lbs.",
-        "Price": 7.0
+        "Price": 10.0
     },
     {
         "Item": "String Beans",
