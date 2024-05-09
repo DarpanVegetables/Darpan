@@ -2089,11 +2089,11 @@
     },
     {
         "Item": "FRUITS:Mango",
-        "Price": 100.0
+        "Price": 85.0
     },
     {
         "Item": "FRUITS:Mango - Mingolo",
-        "Price": 14.0
+        "Price": 12.0
     },
     {
         "Item": "FRUITS:Mango Baby 50 Lbs.",
@@ -3645,7 +3645,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 32.0
+        "Price": 28.0
     },
     {
         "Item": "Okra Plants",
@@ -3653,7 +3653,7 @@
     },
     {
         "Item": "Okra Reg",
-        "Price": 35.0
+        "Price": 26.0
     },
     {
         "Item": "Okra Reg Cal 15 Lb.",
