@@ -193,7 +193,7 @@
     },
     {
         "Item": "Cabbage Flat",
-        "Price": 30.0
+        "Price": 32.0
     },
     {
         "Item": "Cabbage in Box",
@@ -261,7 +261,7 @@
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
-        "Price": 39.0
+        "Price": 55.0
     },
     {
         "Item": "Cawthong 10 Lb.",
@@ -309,7 +309,7 @@
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 42.0
+        "Price": 47.0
     },
     {
         "Item": "Chayote White",
@@ -401,7 +401,7 @@
     },
     {
         "Item": "Culantro",
-        "Price": 38.0
+        "Price": 39.0
     },
     {
         "Item": "Curry Leaves",
@@ -488,12 +488,12 @@
         "Price": 105.0
     },
     {
-        "Item": "Dhania-TX- 60 Bunches",
-        "Price": 26.0
+        "Item": "Dhania-Local",
+        "Price": 29.0
     },
     {
         "Item": "Dhania - Mexico -60 Bunches Pap",
-        "Price": 24.0
+        "Price": 39.0
     },
     {
         "Item": "Dill",
@@ -753,7 +753,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 40.0
+        "Price": 28.0
     },
     {
         "Item": "Eggplant Italian",
@@ -2345,7 +2345,7 @@
     },
     {
         "Item": "Grocery:Aaji No Moto 8 Ox. X 30 Bags",
-        "Price": 60.0
+        "Price": 47.0
     },
     {
         "Item": "Grocery:Aashirwad Aata",
@@ -3252,8 +3252,8 @@
         "Price": 32.0
     },
     {
-        "Item": "Lemon 140 Sz",
-        "Price": 45.0
+        "Item": "Lemon 115 Sz.",
+        "Price": 46.0
     },
     {
         "Item": "Lettuce",
@@ -3276,12 +3276,12 @@
         "Price": 50.0
     },
     {
-        "Item": "Long Beans - White 30lbs.",
-        "Price": 120.0
-    },
-    {
         "Item": "Long Beans - White 40 lb",
         "Price": 160.0
+    },
+    {
+        "Item": "Long Beans  White 25 Lbs.",
+        "Price": 100.0
     },
     {
         "Item": "Long Beans Green 30lbs",
@@ -3297,15 +3297,15 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 39.0
+        "Price": 34.0
     },
     {
         "Item": "Long squash ( Bangali)",
-        "Price": 52.0
+        "Price": 48.0
     },
     {
         "Item": "Long Squash ( INDIAN )",
-        "Price": 59.0
+        "Price": 60.0
     },
     {
         "Item": "Long Squash (Bangali - Cali)",
@@ -3401,11 +3401,11 @@
     },
     {
         "Item": "Methi - TX",
-        "Price": 50.0
+        "Price": 44.0
     },
     {
         "Item": "Mint",
-        "Price": 14.0
+        "Price": 15.0
     },
     {
         "Item": "Misc",
@@ -3457,7 +3457,7 @@
     },
     {
         "Item": "Mustard Green Baby",
-        "Price": 45.0
+        "Price": 48.0
     },
     {
         "Item": "Naan - Paratha",
@@ -3505,7 +3505,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 25.0
+        "Price": 23.0
     },
     {
         "Item": "Okra Plants",
@@ -3513,7 +3513,7 @@
     },
     {
         "Item": "Okra Reg",
-        "Price": 26.0
+        "Price": 23.0
     },
     {
         "Item": "Okra Reg Cal 15 Lb.",
@@ -3541,15 +3541,15 @@
     },
     {
         "Item": "Onion Red 2lb / 20 bags",
-        "Price": 62.0
+        "Price": 64.0
     },
     {
         "Item": "Onion Yellow - Canadian 10 Lbs.",
-        "Price": 7.0
+        "Price": 6.0
     },
     {
         "Item": "Onion Yellow 10 lbs.",
-        "Price": 5.5
+        "Price": 5.0
     },
     {
         "Item": "Onion Yellow 2lb / 20 bags",
@@ -3808,10 +3808,6 @@
         "Price": 49.0
     },
     {
-        "Item": "Pumpkin Leafs - Premium",
-        "Price": 85.0
-    },
-    {
         "Item": "Puri",
         "Price": 35.0
     },
@@ -3977,7 +3973,7 @@
     },
     {
         "Item": "Sarso Ka Saag",
-        "Price": 56.0
+        "Price": 55.0
     },
     {
         "Item": "Shopping Bag 1/6",
@@ -4077,7 +4073,7 @@
     },
     {
         "Item": "Spinach",
-        "Price": 46.0
+        "Price": 48.0
     },
     {
         "Item": "Spinach Loose",
@@ -4189,7 +4185,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 69.0
+        "Price": 78.0
     },
     {
         "Item": "Toddy Palm in Syrup",
