@@ -2037,7 +2037,7 @@
     },
     {
         "Item": "FRUITS:Guava - Thai",
-        "Price": 59.0
+        "Price": 72.0
     },
     {
         "Item": "FRUITS:Guava Chinese",
@@ -2102,6 +2102,10 @@
     {
         "Item": "FRUITS:Mango Baby 50 Lbs.",
         "Price": 149.0
+    },
+    {
+        "Item": "FRUITS:Mango Dominican 20 Lbs.",
+        "Price": 45.0
     },
     {
         "Item": "FRUITS:Mango Sugar Baby",
