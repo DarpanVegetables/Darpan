@@ -257,7 +257,7 @@
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 32.0
+        "Price": 26.0
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
@@ -353,7 +353,7 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 40.0
+        "Price": 43.0
     },
     {
         "Item": "Coconut Dry",
@@ -445,7 +445,7 @@
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 28.0
+        "Price": 19.0
     },
     {
         "Item": "Darket Flower 10 Lb.",
@@ -489,11 +489,11 @@
     },
     {
         "Item": "Dhania-Local",
-        "Price": 29.0
+        "Price": 33.0
     },
     {
         "Item": "Dhania - Mexico -60 Bunches Pap",
-        "Price": 39.0
+        "Price": 40.0
     },
     {
         "Item": "Dill",
@@ -2097,7 +2097,7 @@
     },
     {
         "Item": "FRUITS:Mango - Mingolo",
-        "Price": 12.0
+        "Price": 10.0
     },
     {
         "Item": "FRUITS:Mango Baby 50 Lbs.",
@@ -2173,7 +2173,7 @@
     },
     {
         "Item": "FRUITS:Tangerine Box 3 X",
-        "Price": 38.0
+        "Price": 45.0
     },
     {
         "Item": "FRUITS:Watermelon Pcs.",
@@ -3229,7 +3229,7 @@
     },
     {
         "Item": "Kirbi",
-        "Price": 39.0
+        "Price": 45.0
     },
     {
         "Item": "Kolrabi",
@@ -3268,12 +3268,8 @@
         "Price": 0.0
     },
     {
-        "Item": "Lime 150 Pcs.",
-        "Price": 54.0
-    },
-    {
-        "Item": "Lime 200 Ct.",
-        "Price": 56.0
+        "Item": "Lime 175 Pcs.",
+        "Price": 46.0
     },
     {
         "Item": "Long Bean White 10 Lbs.",
@@ -3405,7 +3401,7 @@
     },
     {
         "Item": "Methi - TX",
-        "Price": 44.0
+        "Price": 33.0
     },
     {
         "Item": "Mint",
@@ -3432,8 +3428,8 @@
         "Price": 10.0
     },
     {
-        "Item": "Muli - Local",
-        "Price": 43.0
+        "Item": "Muli-Cal",
+        "Price": 42.0
     },
     {
         "Item": "Muli W/O Leafs",
@@ -3509,7 +3505,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 23.0
+        "Price": 25.0
     },
     {
         "Item": "Okra Plants",
@@ -3545,7 +3541,7 @@
     },
     {
         "Item": "Onion Red 2lb / 20 bags",
-        "Price": 64.0
+        "Price": 58.0
     },
     {
         "Item": "Onion Yellow - Canadian 10 Lbs.",
@@ -3557,7 +3553,7 @@
     },
     {
         "Item": "Onion Yellow 2lb / 20 bags",
-        "Price": 29.0
+        "Price": 27.0
     },
     {
         "Item": "Ovaltin Biscuit 24 x 14 Oz.",
@@ -3709,7 +3705,7 @@
     },
     {
         "Item": "Plastic Tray 7 Compartment",
-        "Price": 72.0
+        "Price": 76.0
     },
     {
         "Item": "Plastic Tray 8 Compartment",
@@ -4189,7 +4185,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 78.0
+        "Price": 80.0
     },
     {
         "Item": "Toddy Palm in Syrup",
