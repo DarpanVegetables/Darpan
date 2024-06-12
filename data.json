@@ -45,7 +45,7 @@
     },
     {
         "Item": "Banana Flower",
-        "Price": 52.0
+        "Price": 49.0
     },
     {
         "Item": "Banana Leaves Fresh",
@@ -73,7 +73,7 @@
     },
     {
         "Item": "Bell Pepper",
-        "Price": 21.0
+        "Price": 22.0
     },
     {
         "Item": "Bell Pepper Red",
@@ -213,11 +213,11 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 38.0
+        "Price": 41.0
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 34.0
+        "Price": 36.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -229,7 +229,7 @@
     },
     {
         "Item": "Calaloo - -Tandalja ni Bhaji -",
-        "Price": 35.0
+        "Price": 29.0
     },
     {
         "Item": "Cantaloupe Melon",
@@ -353,11 +353,11 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 55.0
+        "Price": 58.0
     },
     {
         "Item": "Coconut Dry",
-        "Price": 58.0
+        "Price": 60.0
     },
     {
         "Item": "Coconut Dry In Box",
@@ -489,11 +489,11 @@
     },
     {
         "Item": "Dhania-Local",
-        "Price": 33.0
+        "Price": 27.0
     },
     {
         "Item": "Dhania - Mexico -60 Bunches Pap",
-        "Price": 45.0
+        "Price": 48.0
     },
     {
         "Item": "Dill",
@@ -736,6 +736,10 @@
         "Price": 36.0
     },
     {
+        "Item": "Eggplant Chinese Plants",
+        "Price": 15.0
+    },
+    {
         "Item": "Eggplant Green - Long",
         "Price": 75.0
     },
@@ -754,6 +758,10 @@
     {
         "Item": "Eggplant Indian - Round",
         "Price": 39.0
+    },
+    {
+        "Item": "Eggplant Indian Plants",
+        "Price": 15.0
     },
     {
         "Item": "Eggplant Italian",
@@ -1045,7 +1053,7 @@
     },
     {
         "Item": "FROZEN:DD Coconut Shredded 454 Gms. X",
-        "Price": 80.0
+        "Price": 85.0
     },
     {
         "Item": "FROZEN:DD Coconut Sliced",
@@ -2045,11 +2053,11 @@
     },
     {
         "Item": "FRUITS:Guava Mexican in CTN",
-        "Price": 65.0
+        "Price": 58.0
     },
     {
         "Item": "FRUITS:Hami Melon",
-        "Price": 29.0
+        "Price": 34.0
     },
     {
         "Item": "FRUITS:Honeydew 6 Sz.",
@@ -2097,7 +2105,11 @@
     },
     {
         "Item": "FRUITS:Mango - Mingolo",
-        "Price": 11.0
+        "Price": 13.0
+    },
+    {
+        "Item": "FRUITS:Mango Atulofo",
+        "Price": 10.0
     },
     {
         "Item": "FRUITS:Mango Baby 50 Lbs.",
@@ -3025,7 +3037,7 @@
     },
     {
         "Item": "Hot Sauce - Surinaam Sauce",
-        "Price": 36.0
+        "Price": 38.0
     },
     {
         "Item": "Hot Sauce Lemon - Soogrim Sauce",
@@ -3065,7 +3077,7 @@
     },
     {
         "Item": "Jello Jar Charctor 6 Pcs.",
-        "Price": 30.0
+        "Price": 35.0
     },
     {
         "Item": "Jicama",
@@ -3112,12 +3124,12 @@
         "Price": 30.0
     },
     {
-        "Item": "Karela - Local Florida",
+        "Item": "Karela Indian 30 lb.",
         "Price": 39.0
     },
     {
         "Item": "Karela Plants",
-        "Price": 28.0
+        "Price": 20.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -3229,7 +3241,7 @@
     },
     {
         "Item": "Kirbi",
-        "Price": 48.0
+        "Price": 46.0
     },
     {
         "Item": "Kolrabi",
@@ -3269,7 +3281,7 @@
     },
     {
         "Item": "Lime 150 Pcs.",
-        "Price": 51.0
+        "Price": 47.0
     },
     {
         "Item": "Long Bean White 10 Lbs.",
@@ -3297,7 +3309,7 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 33.0
+        "Price": 39.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -3305,7 +3317,7 @@
     },
     {
         "Item": "Long Squash ( INDIAN )",
-        "Price": 59.0
+        "Price": 62.0
     },
     {
         "Item": "Long Squash (Bangali - Cali)",
@@ -3649,7 +3661,7 @@
     },
     {
         "Item": "Pineapple",
-        "Price": 15.0
+        "Price": 30.0
     },
     {
         "Item": "Pineapple Candy 350 Gms.",
@@ -3748,6 +3760,10 @@
         "Price": 36.0
     },
     {
+        "Item": "Poi Plants",
+        "Price": 15.0
+    },
+    {
         "Item": "Poi Saag",
         "Price": 39.0
     },
@@ -3809,7 +3825,7 @@
     },
     {
         "Item": "Pumpkin Leafs - Premium",
-        "Price": 85.0
+        "Price": 72.0
     },
     {
         "Item": "Puri",
@@ -3993,7 +4009,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 65.0
+        "Price": 75.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -4168,6 +4184,10 @@
         "Price": 120.0
     },
     {
+        "Item": "Tamarind Spicy Sauce - Sugrim",
+        "Price": 50.0
+    },
+    {
         "Item": "Tar - Cucumber",
         "Price": 55.0
     },
@@ -4217,7 +4237,7 @@
     },
     {
         "Item": "Tomato Plants -  Beef",
-        "Price": 6.0
+        "Price": 20.0
     },
     {
         "Item": "Trash Bag",
@@ -4225,7 +4245,7 @@
     },
     {
         "Item": "Tree Tomatoes",
-        "Price": 38.0
+        "Price": 39.0
     },
     {
         "Item": "Tulsi - Fresh",
