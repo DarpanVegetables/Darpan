@@ -213,11 +213,11 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 45.0
+        "Price": 48.0
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 42.0
+        "Price": 44.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -353,7 +353,7 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 60.0
+        "Price": 49.0
     },
     {
         "Item": "Coconut Dry",
@@ -365,7 +365,7 @@
     },
     {
         "Item": "Coconut Green",
-        "Price": 30.0
+        "Price": 34.0
     },
     {
         "Item": "Coconut Milk - Chakoh",
@@ -445,7 +445,7 @@
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 30.0
+        "Price": 32.0
     },
     {
         "Item": "Darket Flower 10 Lb.",
@@ -761,7 +761,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 54.0
+        "Price": 42.0
     },
     {
         "Item": "Eggplant Indian Plants",
@@ -962,6 +962,10 @@
     {
         "Item": "FROZEN:Chopped spinach Endico",
         "Price": 28.0
+    },
+    {
+        "Item": "FROZEN:Chopped spinach IQF Endico",
+        "Price": 30.0
     },
     {
         "Item": "FROZEN:Chopped Spinach Regal",
@@ -2057,7 +2061,7 @@
     },
     {
         "Item": "FRUITS:Guava Mexican in CTN",
-        "Price": 58.0
+        "Price": 70.0
     },
     {
         "Item": "FRUITS:Hami Melon",
@@ -2197,7 +2201,7 @@
     },
     {
         "Item": "FRUITS:Watermelon Pcs.",
-        "Price": 10.0
+        "Price": 8.0
     },
     {
         "Item": "FRUITS:Young Coconut",
@@ -2337,7 +2341,7 @@
     },
     {
         "Item": "Gongura leaf",
-        "Price": 40.0
+        "Price": 35.0
     },
     {
         "Item": "Gooseberry Pickled",
@@ -2572,8 +2576,8 @@
         "Price": 4.5
     },
     {
-        "Item": "Grocery:Honey 8oz. X 12",
-        "Price": 42.0
+        "Item": "Grocery:Honey 10.2 oz. X 12 ( Soogrim B",
+        "Price": 46.0
     },
     {
         "Item": "Grocery:Horlicks Plain 1 Kg. X 12",
@@ -3113,7 +3117,7 @@
     },
     {
         "Item": "Kabocha",
-        "Price": 29.0
+        "Price": 26.0
     },
     {
         "Item": "Kale",
@@ -3249,7 +3253,7 @@
     },
     {
         "Item": "Kirbi",
-        "Price": 30.0
+        "Price": 26.0
     },
     {
         "Item": "Kolrabi",
@@ -3293,7 +3297,7 @@
     },
     {
         "Item": "Long Bean White 10 Lbs.",
-        "Price": 35.0
+        "Price": 28.0
     },
     {
         "Item": "Long Beans - Purple 10Lb.",
@@ -3317,7 +3321,7 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 46.0
+        "Price": 55.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -3329,6 +3333,10 @@
     },
     {
         "Item": "Long Squash (Bangali - Cali)",
+        "Price": 65.0
+    },
+    {
+        "Item": "Long squash leaves",
         "Price": 65.0
     },
     {
@@ -3413,7 +3421,7 @@
     },
     {
         "Item": "Medium Chillie 10 Lb",
-        "Price": 35.0
+        "Price": 39.0
     },
     {
         "Item": "Mehdi Cone 25 X 35 Gms.",
@@ -3545,7 +3553,7 @@
     },
     {
         "Item": "Onion - Spanish",
-        "Price": 38.0
+        "Price": 30.0
     },
     {
         "Item": "Onion Red 10 lbs. Reg.",
@@ -3773,7 +3781,7 @@
     },
     {
         "Item": "Poi Saag",
-        "Price": 39.0
+        "Price": 25.0
     },
     {
         "Item": "Pole Beans",
@@ -3789,7 +3797,7 @@
     },
     {
         "Item": "Potato Red 'A'",
-        "Price": 58.0
+        "Price": 55.0
     },
     {
         "Item": "Potato Red 'B'",
@@ -3833,7 +3841,7 @@
     },
     {
         "Item": "Pumpkin Leafs - Premium",
-        "Price": 72.0
+        "Price": 66.0
     },
     {
         "Item": "Puri",
@@ -4017,7 +4025,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 95.0
+        "Price": 110.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -4269,7 +4277,7 @@
     },
     {
         "Item": "Turia - Chinese Okra",
-        "Price": 45.0
+        "Price": 52.0
     },
     {
         "Item": "Turmeric White",
@@ -4349,7 +4357,7 @@
     },
     {
         "Item": "Yam Brazil - Cuscus",
-        "Price": 78.0
+        "Price": 69.0
     },
     {
         "Item": "Yam Leaf",
