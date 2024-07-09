@@ -20,10 +20,6 @@
         "Price": 13.0
     },
     {
-        "Item": "Aloe Vera 1.5Lts. /12",
-        "Price": 24.0
-    },
-    {
         "Item": "Aloe Vera Fresh",
         "Price": 24.0
     },
@@ -225,7 +221,7 @@
     },
     {
         "Item": "Calabaza Box",
-        "Price": 28.0
+        "Price": 23.0
     },
     {
         "Item": "Calaloo - -Tandalja ni Bhaji -",
@@ -257,7 +253,7 @@
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 31.0
+        "Price": 23.0
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
@@ -301,7 +297,7 @@
     },
     {
         "Item": "Chayote Black",
-        "Price": 48.0
+        "Price": 60.0
     },
     {
         "Item": "Chayote Leaves",
@@ -441,11 +437,11 @@
     },
     {
         "Item": "Daily:Avocados",
-        "Price": 58.0
+        "Price": 85.0
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 32.0
+        "Price": 34.0
     },
     {
         "Item": "Darket Flower 10 Lb.",
@@ -489,7 +485,7 @@
     },
     {
         "Item": "Dhania-Local",
-        "Price": 27.0
+        "Price": 28.0
     },
     {
         "Item": "Dhania - Mexico -60 Bunches Pap",
@@ -529,7 +525,7 @@
     },
     {
         "Item": "Drinks:Aloe Vera Drink 16.9 Oz. X 20",
-        "Price": 22.0
+        "Price": 24.0
     },
     {
         "Item": "Drinks:Aloe Vera Drink 50.7 Oz Organic",
@@ -581,7 +577,7 @@
     },
     {
         "Item": "Drinks:Foco - Mango",
-        "Price": 33.0
+        "Price": 29.0
     },
     {
         "Item": "Drinks:Foco - Passian Fruit",
@@ -601,7 +597,7 @@
     },
     {
         "Item": "Drinks:Foco - Tamarind Tall",
-        "Price": 37.0
+        "Price": 32.0
     },
     {
         "Item": "Drinks:Frooty Mango Tetra Pack 27 X 20",
@@ -676,6 +672,10 @@
         "Price": 54.0
     },
     {
+        "Item": "Drinks:Pocas Boba Tea Drink 24 X 16.5",
+        "Price": 48.0
+    },
+    {
         "Item": "Drinks:Pomagranate Juice",
         "Price": 43.0
     },
@@ -725,7 +725,7 @@
     },
     {
         "Item": "Eggplant  American",
-        "Price": 27.0
+        "Price": 28.0
     },
     {
         "Item": "Eggplant  Jelio",
@@ -785,7 +785,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 58.0
+        "Price": 60.0
     },
     {
         "Item": "Eggplant Thai White",
@@ -1573,7 +1573,7 @@
     },
     {
         "Item": "FROZEN:Deep - Garlic Naan 4 Pcs.",
-        "Price": 64.0
+        "Price": 55.0
     },
     {
         "Item": "FROZEN:Deep - Home Style Paratha",
@@ -1621,7 +1621,7 @@
     },
     {
         "Item": "FROZEN:Deep - Mysore Masala Dosa 4 Pcs",
-        "Price": 25.0
+        "Price": 32.0
     },
     {
         "Item": "FROZEN:Deep - Onion Kulcha 4 Pcs. X 24",
@@ -2109,7 +2109,7 @@
     },
     {
         "Item": "FRUITS:Mango",
-        "Price": 125.0
+        "Price": 85.0
     },
     {
         "Item": "FRUITS:Mango - Mingolo",
@@ -2196,8 +2196,8 @@
         "Price": 28.0
     },
     {
-        "Item": "FRUITS:Tangerine Box 3 X",
-        "Price": 45.0
+        "Item": "FRUITS:Tangerine Box 4X",
+        "Price": 49.0
     },
     {
         "Item": "FRUITS:Watermelon Pcs.",
@@ -2317,7 +2317,7 @@
     },
     {
         "Item": "Ginger Orgenic",
-        "Price": 49.0
+        "Price": 58.0
     },
     {
         "Item": "Ginger Paste Laxmi",
@@ -3029,7 +3029,7 @@
     },
     {
         "Item": "Honey W/Comb 12/624 Gms.",
-        "Price": 89.0
+        "Price": 96.0
     },
     {
         "Item": "honey W/Comb 18/350 Gms. (12.3)",
@@ -3133,11 +3133,11 @@
     },
     {
         "Item": "Karela - Hondurus",
-        "Price": 30.0
+        "Price": 39.0
     },
     {
         "Item": "Karela Indian 30 lb.",
-        "Price": 30.0
+        "Price": 39.0
     },
     {
         "Item": "Karela Plants",
@@ -3292,7 +3292,7 @@
         "Price": 0.0
     },
     {
-        "Item": "Lime 150 Pcs.",
+        "Item": "Lime 175 Pcs.",
         "Price": 46.0
     },
     {
@@ -3304,8 +3304,8 @@
         "Price": 55.0
     },
     {
-        "Item": "Long Beans  White 25 Lbs.",
-        "Price": 100.0
+        "Item": "Long Beans  White 40 Lbs.",
+        "Price": 120.0
     },
     {
         "Item": "Long Beans Green 30lbs",
@@ -3321,11 +3321,11 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 55.0
+        "Price": 65.0
     },
     {
         "Item": "Long squash ( Bangali)",
-        "Price": 48.0
+        "Price": 38.0
     },
     {
         "Item": "Long Squash ( INDIAN )",
@@ -3428,7 +3428,7 @@
         "Price": 25.0
     },
     {
-        "Item": "Methi - TX",
+        "Item": "Methi Leaves",
         "Price": 40.0
     },
     {
@@ -3456,12 +3456,12 @@
         "Price": 10.0
     },
     {
-        "Item": "Muli-Cal",
-        "Price": 39.0
+        "Item": "Muli - Local",
+        "Price": 32.0
     },
     {
         "Item": "Muli W/O Leafs",
-        "Price": 38.0
+        "Price": 45.0
     },
     {
         "Item": "Mushroom",
@@ -3485,7 +3485,7 @@
     },
     {
         "Item": "Mustard Green Baby",
-        "Price": 45.0
+        "Price": 35.0
     },
     {
         "Item": "Naan - Paratha",
@@ -3805,7 +3805,7 @@
     },
     {
         "Item": "Potato Red 'C'",
-        "Price": 84.0
+        "Price": 72.0
     },
     {
         "Item": "Potato Red  5Lb.",
@@ -3837,7 +3837,7 @@
     },
     {
         "Item": "Pumpkin Leafs",
-        "Price": 49.0
+        "Price": 65.0
     },
     {
         "Item": "Pumpkin Leafs - Premium",
@@ -4025,7 +4025,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 110.0
+        "Price": 130.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -4305,7 +4305,7 @@
     },
     {
         "Item": "Valor - Broad",
-        "Price": 79.0
+        "Price": 120.0
     },
     {
         "Item": "Valor - Long Florida",
@@ -4317,7 +4317,7 @@
     },
     {
         "Item": "Valor Beans 20Lbs.",
-        "Price": 48.0
+        "Price": 125.0
     },
     {
         "Item": "Vegetable Roll - Big roll Plast",
