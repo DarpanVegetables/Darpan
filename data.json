@@ -189,7 +189,7 @@
     },
     {
         "Item": "Cabbage Flat",
-        "Price": 39.0
+        "Price": 36.0
     },
     {
         "Item": "Cabbage in Box",
@@ -361,7 +361,7 @@
     },
     {
         "Item": "Coconut Green",
-        "Price": 34.0
+        "Price": 32.0
     },
     {
         "Item": "Coconut Milk - Chakoh",
@@ -761,7 +761,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 42.0
+        "Price": 29.0
     },
     {
         "Item": "Eggplant Indian Plants",
@@ -981,11 +981,11 @@
     },
     {
         "Item": "FROZEN:Cut Beans - Regular cut 12/ 2 l",
-        "Price": 25.0
+        "Price": 24.0
     },
     {
         "Item": "FROZEN:Cut Okra Regal 12 X 2 Lbs.",
-        "Price": 29.0
+        "Price": 32.0
     },
     {
         "Item": "FROZEN:DD Aviyal Mix",
@@ -1729,7 +1729,7 @@
     },
     {
         "Item": "FROZEN:Mix Vegetables 12 X 2.5 Lbs.",
-        "Price": 33.0
+        "Price": 34.0
     },
     {
         "Item": "FROZEN:Mustard Green",
@@ -1769,7 +1769,7 @@
     },
     {
         "Item": "FROZEN:Peas & Carrot Regal",
-        "Price": 28.0
+        "Price": 34.0
     },
     {
         "Item": "FROZEN:Pigeon Peas",
@@ -2053,7 +2053,7 @@
     },
     {
         "Item": "FRUITS:Guava - Thai",
-        "Price": 55.0
+        "Price": 45.0
     },
     {
         "Item": "FRUITS:Guava Chinese",
@@ -2261,7 +2261,7 @@
     },
     {
         "Item": "Garlic Regular",
-        "Price": 65.0
+        "Price": 59.0
     },
     {
         "Item": "Garlic White Regular",
@@ -3132,16 +3132,8 @@
         "Price": 11.0
     },
     {
-        "Item": "Karela - Hondurus",
-        "Price": 39.0
-    },
-    {
         "Item": "Karela Indian 30 lb.",
-        "Price": 39.0
-    },
-    {
-        "Item": "Karela Plants",
-        "Price": 20.0
+        "Price": 45.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -3297,7 +3289,7 @@
     },
     {
         "Item": "Long Bean White 10 Lbs.",
-        "Price": 28.0
+        "Price": 30.0
     },
     {
         "Item": "Long Beans - Purple 10Lb.",
@@ -3325,7 +3317,7 @@
     },
     {
         "Item": "Long squash ( Bangali)",
-        "Price": 38.0
+        "Price": 42.0
     },
     {
         "Item": "Long Squash ( INDIAN )",
@@ -3552,6 +3544,10 @@
         "Price": 34.0
     },
     {
+        "Item": "Onion - Shallots",
+        "Price": 32.0
+    },
+    {
         "Item": "Onion - Spanish",
         "Price": 30.0
     },
@@ -3656,8 +3652,8 @@
         "Price": 79.0
     },
     {
-        "Item": "Pear Golden 11 Sz.",
-        "Price": 18.0
+        "Item": "Pear Golden 28 Sz.",
+        "Price": 32.0
     },
     {
         "Item": "Penny Wort 10 lb.",
@@ -4081,7 +4077,7 @@
     },
     {
         "Item": "Snake Gourd 30Lbs.",
-        "Price": 42.0
+        "Price": 45.0
     },
     {
         "Item": "Snow Peas",
