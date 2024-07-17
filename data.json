@@ -785,7 +785,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 60.0
+        "Price": 75.0
     },
     {
         "Item": "Eggplant Thai White",
@@ -2053,7 +2053,7 @@
     },
     {
         "Item": "FRUITS:Guava - Thai",
-        "Price": 45.0
+        "Price": 39.0
     },
     {
         "Item": "FRUITS:Guava Chinese",
@@ -3833,7 +3833,7 @@
     },
     {
         "Item": "Pumpkin Leafs",
-        "Price": 65.0
+        "Price": 45.0
     },
     {
         "Item": "Pumpkin Leafs - Premium",
@@ -4077,7 +4077,7 @@
     },
     {
         "Item": "Snake Gourd 30Lbs.",
-        "Price": 45.0
+        "Price": 39.0
     },
     {
         "Item": "Snow Peas",
@@ -4345,7 +4345,7 @@
     },
     {
         "Item": "Winter Melon",
-        "Price": 36.0
+        "Price": 29.0
     },
     {
         "Item": "Yam",
