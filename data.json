@@ -3257,7 +3257,7 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 24.0
+        "Price": 28.0
     },
     {
         "Item": "Long Squash",
@@ -3609,7 +3609,7 @@
     },
     {
         "Item": "Plantain",
-        "Price": 32.0
+        "Price": 27.0
     },
     {
         "Item": "Plantain Hawaii",
@@ -4253,11 +4253,11 @@
     },
     {
         "Item": "Water Spinach",
-        "Price": 49.0
+        "Price": 55.0
     },
     {
         "Item": "Watercress",
-        "Price": 34.0
+        "Price": 55.0
     },
     {
         "Item": "Weri Weri Plants",
