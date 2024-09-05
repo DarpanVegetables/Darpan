@@ -225,7 +225,7 @@
     },
     {
         "Item": "Calaloo - -Tandalja ni Bhaji -",
-        "Price": 34.0
+        "Price": 36.0
     },
     {
         "Item": "Cantaloupe Melon",
@@ -345,7 +345,7 @@
     },
     {
         "Item": "Cilantro Chinese",
-        "Price": 54.0
+        "Price": 56.0
     },
     {
         "Item": "Cilantro Macho",
@@ -489,7 +489,7 @@
     },
     {
         "Item": "Dill",
-        "Price": 34.0
+        "Price": 55.0
     },
     {
         "Item": "Din Din  Candy Jar 24 Bottles",
@@ -725,7 +725,7 @@
     },
     {
         "Item": "Eggplant Chinese",
-        "Price": 35.0
+        "Price": 42.0
     },
     {
         "Item": "Eggplant Chinese Plants",
@@ -749,7 +749,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 39.0
+        "Price": 35.0
     },
     {
         "Item": "Eggplant Indian Plants",
@@ -773,7 +773,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 75.0
+        "Price": 69.0
     },
     {
         "Item": "Eggplant Thai White",
@@ -2036,6 +2036,10 @@
         "Price": 59.0
     },
     {
+        "Item": "FRUITS:Guava Pink",
+        "Price": 50.0
+    },
+    {
         "Item": "FRUITS:Guava Taiwan Pink",
         "Price": 45.0
     },
@@ -2213,7 +2217,7 @@
     },
     {
         "Item": "Garlic Peeled 1 lb. X 20 Packs",
-        "Price": 86.0
+        "Price": 65.0
     },
     {
         "Item": "Garlic Peeled 5 lb. Jar case",
@@ -2285,7 +2289,7 @@
     },
     {
         "Item": "Ginger Regular",
-        "Price": 38.0
+        "Price": 40.0
     },
     {
         "Item": "Ginger Young",
@@ -2912,10 +2916,6 @@
         "Price": 56.0
     },
     {
-        "Item": "Guava Pink",
-        "Price": 50.0
-    },
-    {
         "Item": "Gujarati Belan",
         "Price": 3.0
     },
@@ -3085,7 +3085,7 @@
     },
     {
         "Item": "Karela Indian 30 lb.",
-        "Price": 48.0
+        "Price": 46.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -3241,19 +3241,15 @@
     },
     {
         "Item": "Lime 175 Pcs.",
-        "Price": 39.0
+        "Price": 70.0
     },
     {
         "Item": "Long Bean White 10 Lbs.",
-        "Price": 30.0
+        "Price": 39.0
     },
     {
         "Item": "Long Beans - White 30Lb.",
-        "Price": 79.0
-    },
-    {
-        "Item": "Long Beans  White 40 Lbs.",
-        "Price": 100.0
+        "Price": 89.0
     },
     {
         "Item": "Long Beans Green 30lbs",
@@ -3269,7 +3265,7 @@
     },
     {
         "Item": "Long squash ( Bangali)",
-        "Price": 49.0
+        "Price": 39.0
     },
     {
         "Item": "Long Squash ( INDIAN )",
@@ -3317,11 +3313,11 @@
     },
     {
         "Item": "Malanga Lila",
-        "Price": 42.0
+        "Price": 39.0
     },
     {
         "Item": "Malanga White",
-        "Price": 59.0
+        "Price": 39.0
     },
     {
         "Item": "Mango Leaves",
@@ -3361,7 +3357,7 @@
     },
     {
         "Item": "Medium Chillie 15 Lb",
-        "Price": 45.0
+        "Price": 39.0
     },
     {
         "Item": "Mehdi Cone 25 X 35 Gms.",
@@ -3465,7 +3461,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 35.0
+        "Price": 28.0
     },
     {
         "Item": "Okra Plants",
@@ -3493,7 +3489,7 @@
     },
     {
         "Item": "Onion Red 10 Lbs.Small",
-        "Price": 6.0
+        "Price": 5.0
     },
     {
         "Item": "Onion Red 25 Lbs.",
@@ -3557,7 +3553,7 @@
     },
     {
         "Item": "Papaya",
-        "Price": 29.0
+        "Price": 28.0
     },
     {
         "Item": "Papri",
@@ -3709,7 +3705,7 @@
     },
     {
         "Item": "Potato Idaho",
-        "Price": 25.0
+        "Price": 22.0
     },
     {
         "Item": "Potato Idaho Bag",
@@ -3729,7 +3725,7 @@
     },
     {
         "Item": "Potato Red 'C'",
-        "Price": 72.0
+        "Price": 68.0
     },
     {
         "Item": "Potato Red  5Lb.",
@@ -3872,6 +3868,10 @@
         "Price": 0.0
     },
     {
+        "Item": "Round Long Squash",
+        "Price": 70.0
+    },
+    {
         "Item": "Rulo Banana",
         "Price": 28.0
     },
@@ -3913,11 +3913,11 @@
     },
     {
         "Item": "Sambal Chili Paste 18 oz X 12 P",
-        "Price": 45.0
+        "Price": 54.0
     },
     {
         "Item": "Sambal Chili Paste 8 oz",
-        "Price": 49.0
+        "Price": 68.0
     },
     {
         "Item": "Samosa Veg (Fresh)",
@@ -3945,7 +3945,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 95.0
+        "Price": 85.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -4037,7 +4037,7 @@
     },
     {
         "Item": "Sriracha Chili Sauce 17oz",
-        "Price": 65.0
+        "Price": 61.0
     },
     {
         "Item": "Sriracha Chili Sauce 28 oz",
@@ -4185,7 +4185,7 @@
     },
     {
         "Item": "Tuong Chili Garlic Sauce 18 oz",
-        "Price": 64.0
+        "Price": 58.0
     },
     {
         "Item": "Tuong Chili Garlic Sauce 3/1 ga",
@@ -4197,7 +4197,7 @@
     },
     {
         "Item": "Turia - Chinese Okra",
-        "Price": 79.0
+        "Price": 59.0
     },
     {
         "Item": "Turmeric White",
@@ -4257,7 +4257,7 @@
     },
     {
         "Item": "Watercress",
-        "Price": 32.0
+        "Price": 34.0
     },
     {
         "Item": "Weri Weri Plants",
@@ -4265,7 +4265,7 @@
     },
     {
         "Item": "Win Beans",
-        "Price": 98.0
+        "Price": 99.0
     },
     {
         "Item": "Winter Melon",
@@ -4293,7 +4293,7 @@
     },
     {
         "Item": "Yucca",
-        "Price": 28.0
+        "Price": 21.0
     },
     {
         "Item": "Zed Black Dhoop Cones",
