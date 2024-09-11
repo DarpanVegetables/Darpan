@@ -89,7 +89,7 @@
     },
     {
         "Item": "Biodegradable 10 ' 3 Comp Plate",
-        "Price": 52.0
+        "Price": 60.0
     },
     {
         "Item": "Biodegradable 10 ' Plain Plates",
@@ -101,7 +101,7 @@
     },
     {
         "Item": "Biodegradable 5 Comp Plate",
-        "Price": 53.0
+        "Price": 32.0
     },
     {
         "Item": "Biodegradable 6 Oz. Bowl 500c",
@@ -213,7 +213,7 @@
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 48.0
+        "Price": 36.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -345,7 +345,7 @@
     },
     {
         "Item": "Cilantro Chinese",
-        "Price": 56.0
+        "Price": 49.0
     },
     {
         "Item": "Cilantro Macho",
@@ -633,7 +633,7 @@
     },
     {
         "Item": "Drinks:Limca Cans 250 Mls.",
-        "Price": 19.0
+        "Price": 17.0
     },
     {
         "Item": "Drinks:Maaza Guava 12 X 330 Ml.",
@@ -713,7 +713,7 @@
     },
     {
         "Item": "Eggplant  American",
-        "Price": 32.0
+        "Price": 34.0
     },
     {
         "Item": "Eggplant  Jelio",
@@ -1680,26 +1680,6 @@
         "Price": 33.0
     },
     {
-        "Item": "FROZEN:Gulab Jamun",
-        "Price": 68.0
-    },
-    {
-        "Item": "FROZEN:Gulab Jamun 850 Gms. X 10",
-        "Price": 55.0
-    },
-    {
-        "Item": "FROZEN:Gulab jamun in Drum",
-        "Price": 68.0
-    },
-    {
-        "Item": "FROZEN:Gulab Jamun Kaleva 200 Pcs.",
-        "Price": 65.0
-    },
-    {
-        "Item": "FROZEN:Gulab Jamun Kaleva 300 Pcs.",
-        "Price": 67.0
-    },
-    {
         "Item": "FROZEN:Italian Blend Regal",
         "Price": 34.0
     },
@@ -1724,8 +1704,8 @@
         "Price": 52.0
     },
     {
-        "Item": "FROZEN:Nanak Gulab Jamun 300 Pcs.",
-        "Price": 79.0
+        "Item": "FROZEN:Nanak Gulab Jamun 850 Gms. X 10",
+        "Price": 80.0
     },
     {
         "Item": "FROZEN:Onion Diced",
@@ -1949,7 +1929,7 @@
     },
     {
         "Item": "FRUITS:Banana",
-        "Price": 25.0
+        "Price": 23.0
     },
     {
         "Item": "FRUITS:Banana - Green",
@@ -1965,7 +1945,7 @@
     },
     {
         "Item": "FRUITS:Banana Thai",
-        "Price": 42.0
+        "Price": 36.0
     },
     {
         "Item": "FRUITS:Blueberry",
@@ -2033,7 +2013,7 @@
     },
     {
         "Item": "FRUITS:Guava Mexican in CTN",
-        "Price": 59.0
+        "Price": 55.0
     },
     {
         "Item": "FRUITS:Guava Pink",
@@ -2133,7 +2113,7 @@
     },
     {
         "Item": "FRUITS:Papaya Yellow",
-        "Price": 44.0
+        "Price": 46.0
     },
     {
         "Item": "FRUITS:Passion Fruit",
@@ -2865,7 +2845,7 @@
     },
     {
         "Item": "Grocery:Pocas Ginger Candy - Hard",
-        "Price": 42.0
+        "Price": 44.0
     },
     {
         "Item": "Grocery:Rice - 2 Elephant 25lb",
@@ -3129,7 +3109,7 @@
     },
     {
         "Item": "KCB Crown Cake Rusk",
-        "Price": 0.0
+        "Price": 57.0
     },
     {
         "Item": "KCB Desi Bread",
@@ -3165,7 +3145,7 @@
     },
     {
         "Item": "KCB Plain Tea Rusk",
-        "Price": 32.0
+        "Price": 37.0
     },
     {
         "Item": "KCB Punjabi Pipa Biscuit",
@@ -3229,7 +3209,7 @@
     },
     {
         "Item": "Lemon 140 Sz.",
-        "Price": 45.0
+        "Price": 39.0
     },
     {
         "Item": "Lettuce",
@@ -3257,7 +3237,7 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 28.0
+        "Price": 30.0
     },
     {
         "Item": "Long Squash",
@@ -3365,7 +3345,7 @@
     },
     {
         "Item": "Methi Leaves",
-        "Price": 45.0
+        "Price": 42.0
     },
     {
         "Item": "Mint",
@@ -3393,7 +3373,7 @@
     },
     {
         "Item": "Muli-Cal",
-        "Price": 39.0
+        "Price": 38.0
     },
     {
         "Item": "Muli Saag ( Yul Moo)",
@@ -3413,7 +3393,7 @@
     },
     {
         "Item": "Mustard Green Baby",
-        "Price": 45.0
+        "Price": 42.0
     },
     {
         "Item": "Naan - Paratha",
@@ -3661,7 +3641,7 @@
     },
     {
         "Item": "Plastic Trey 5 Compartment. 300",
-        "Price": 60.0
+        "Price": 65.0
     },
     {
         "Item": "Plastic Vadki 6 Oz.",
@@ -3797,7 +3777,7 @@
     },
     {
         "Item": "Rambutan",
-        "Price": 45.0
+        "Price": 42.0
     },
     {
         "Item": "Rasmalai Big 6 Pcs.",
@@ -3945,7 +3925,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 85.0
+        "Price": 75.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -4101,7 +4081,7 @@
     },
     {
         "Item": "Sweet Potato",
-        "Price": 62.0
+        "Price": 76.0
     },
     {
         "Item": "Tamarind Loose",
@@ -4133,7 +4113,7 @@
     },
     {
         "Item": "Thumps Up Can 24 X 300 ml.",
-        "Price": 25.0
+        "Price": 18.0
     },
     {
         "Item": "Tinda",
@@ -4141,7 +4121,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 59.0
+        "Price": 79.0
     },
     {
         "Item": "Toddy Palm in Syrup",
@@ -4217,7 +4197,7 @@
     },
     {
         "Item": "Turnip",
-        "Price": 26.0
+        "Price": 28.0
     },
     {
         "Item": "USDA Inspection",
@@ -4273,15 +4253,11 @@
     },
     {
         "Item": "Yam",
-        "Price": 48.0
+        "Price": 69.0
     },
     {
         "Item": "Yam Brazil - Cuscus",
-        "Price": 65.0
-    },
-    {
-        "Item": "Yam Leaf",
-        "Price": 39.0
+        "Price": 69.0
     },
     {
         "Item": "Yellow Noodles 10 X 5 Lbs.",
