@@ -189,7 +189,7 @@
     },
     {
         "Item": "Cabbage Flat",
-        "Price": 36.0
+        "Price": 34.0
     },
     {
         "Item": "Cabbage in Box",
@@ -225,7 +225,7 @@
     },
     {
         "Item": "Calaloo - -Tandalja ni Bhaji -",
-        "Price": 36.0
+        "Price": 29.0
     },
     {
         "Item": "Cantaloupe Melon",
@@ -253,7 +253,7 @@
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 36.0
+        "Price": 32.0
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
@@ -489,7 +489,7 @@
     },
     {
         "Item": "Dill",
-        "Price": 55.0
+        "Price": 26.0
     },
     {
         "Item": "Din Din  Candy Jar 24 Bottles",
@@ -509,7 +509,7 @@
     },
     {
         "Item": "Dosakai",
-        "Price": 38.0
+        "Price": 35.0
     },
     {
         "Item": "Drinks",
@@ -713,7 +713,7 @@
     },
     {
         "Item": "Eggplant  American",
-        "Price": 34.0
+        "Price": 29.0
     },
     {
         "Item": "Eggplant  Jelio",
@@ -733,7 +733,7 @@
     },
     {
         "Item": "Eggplant Green - Long",
-        "Price": 52.0
+        "Price": 75.0
     },
     {
         "Item": "Eggplant Green - Round",
@@ -749,7 +749,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 35.0
+        "Price": 25.0
     },
     {
         "Item": "Eggplant Indian Plants",
@@ -773,7 +773,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 69.0
+        "Price": 49.0
     },
     {
         "Item": "Eggplant Thai White",
@@ -965,7 +965,7 @@
     },
     {
         "Item": "FROZEN:Corn cut Regal",
-        "Price": 30.0
+        "Price": 36.0
     },
     {
         "Item": "FROZEN:Cut Beans - Regular cut 12/ 2 l",
@@ -1058,10 +1058,6 @@
     {
         "Item": "FROZEN:DD Cut Mango",
         "Price": 76.0
-    },
-    {
-        "Item": "FROZEN:DD Cut Okra",
-        "Price": 40.0
     },
     {
         "Item": "FROZEN:DD Cutlets",
@@ -1513,7 +1509,7 @@
     },
     {
         "Item": "FROZEN:Deep - Bhatura 20 Pcs.(8)",
-        "Price": 61.0
+        "Price": 64.0
     },
     {
         "Item": "FROZEN:Deep - Bhatura 5 Pcs.",
@@ -1557,7 +1553,7 @@
     },
     {
         "Item": "FROZEN:Deep - Garlic Naan 12 Pcs.",
-        "Price": 55.0
+        "Price": 52.0
     },
     {
         "Item": "FROZEN:Deep - Garlic Naan 4 Pcs.",
@@ -1621,7 +1617,7 @@
     },
     {
         "Item": "FROZEN:Deep - Paneer Paratha",
-        "Price": 70.0
+        "Price": 68.0
     },
     {
         "Item": "FROZEN:Deep - Papri Lilwa",
@@ -1657,7 +1653,7 @@
     },
     {
         "Item": "FROZEN:Deep - Tuver Lilwa",
-        "Price": 44.0
+        "Price": 55.0
     },
     {
         "Item": "FROZEN:Deep - Whole Wheet Naan",
@@ -1669,7 +1665,7 @@
     },
     {
         "Item": "FROZEN:Flaky Paratha Malaysian",
-        "Price": 62.0
+        "Price": 72.0
     },
     {
         "Item": "FROZEN:French Fries 3/8 Reddy Raw",
@@ -1677,7 +1673,7 @@
     },
     {
         "Item": "FROZEN:Green Peas Regal 12 X 2.5 Lbs.",
-        "Price": 33.0
+        "Price": 34.0
     },
     {
         "Item": "FROZEN:Italian Blend Regal",
@@ -1701,7 +1697,7 @@
     },
     {
         "Item": "FROZEN:Mustard Green",
-        "Price": 52.0
+        "Price": 49.0
     },
     {
         "Item": "FROZEN:Nanak Gulab Jamun 850 Gms. X 10",
@@ -2005,7 +2001,7 @@
     },
     {
         "Item": "FRUITS:Guava - Thai",
-        "Price": 29.0
+        "Price": 39.0
     },
     {
         "Item": "FRUITS:Guava Chinese",
@@ -2069,7 +2065,7 @@
     },
     {
         "Item": "FRUITS:Mango",
-        "Price": 75.0
+        "Price": 95.0
     },
     {
         "Item": "FRUITS:Mango - Mingolo",
@@ -2169,7 +2165,7 @@
     },
     {
         "Item": "Fuzzy Squash",
-        "Price": 34.0
+        "Price": 39.0
     },
     {
         "Item": "Galka - Ghiraoula",
@@ -2201,7 +2197,7 @@
     },
     {
         "Item": "Garlic Peeled 5 lb. Jar case",
-        "Price": 52.0
+        "Price": 56.0
     },
     {
         "Item": "Garlic Regular",
@@ -2669,7 +2665,7 @@
     },
     {
         "Item": "Grocery:Maggie Hot & Sweet 500 Gms X 24",
-        "Price": 34.0
+        "Price": 35.0
     },
     {
         "Item": "Grocery:Maggie Masala Noodle 560 Gms. X",
@@ -2977,7 +2973,7 @@
     },
     {
         "Item": "Hot Sauce - Soogrim Brand",
-        "Price": 38.0
+        "Price": 44.0
     },
     {
         "Item": "Hot Sauce - Surinaam Sauce",
@@ -3025,7 +3021,7 @@
     },
     {
         "Item": "Jicama",
-        "Price": 22.0
+        "Price": 45.0
     },
     {
         "Item": "Juicy Chew Challenge in Bag 30/",
@@ -3177,7 +3173,7 @@
     },
     {
         "Item": "Kirbi",
-        "Price": 32.0
+        "Price": 45.0
     },
     {
         "Item": "Kolrabi",
@@ -3221,7 +3217,7 @@
     },
     {
         "Item": "Lime 175 Pcs.",
-        "Price": 70.0
+        "Price": 79.0
     },
     {
         "Item": "Long Bean White 10 Lbs.",
@@ -3229,11 +3225,11 @@
     },
     {
         "Item": "Long Beans - White 30Lb.",
-        "Price": 89.0
+        "Price": 99.0
     },
     {
         "Item": "Long Beans Green 30lbs",
-        "Price": 84.0
+        "Price": 95.0
     },
     {
         "Item": "Long Hot Pepper",
@@ -3436,16 +3432,8 @@
         "Price": 42.0
     },
     {
-        "Item": "Okra Ind Cal 15 Lb.",
-        "Price": 38.0
-    },
-    {
         "Item": "Okra Indian",
-        "Price": 28.0
-    },
-    {
-        "Item": "Okra Plants",
-        "Price": 20.0
+        "Price": 25.0
     },
     {
         "Item": "Okra Reg",
@@ -3685,11 +3673,11 @@
     },
     {
         "Item": "Potato Idaho",
-        "Price": 22.0
+        "Price": 23.0
     },
     {
         "Item": "Potato Idaho Bag",
-        "Price": 23.0
+        "Price": 25.0
     },
     {
         "Item": "Potato Leaves",
@@ -3909,7 +3897,7 @@
     },
     {
         "Item": "Sarso Ka Saag",
-        "Price": 50.0
+        "Price": 54.0
     },
     {
         "Item": "Shopping Bag 1/6",
@@ -3925,7 +3913,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 75.0
+        "Price": 100.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -3937,15 +3925,15 @@
     },
     {
         "Item": "Snacks:Chakri",
-        "Price": 50.0
+        "Price": 54.0
     },
     {
         "Item": "Snacks:Chakri - Jalapinios",
-        "Price": 50.0
+        "Price": 54.0
     },
     {
         "Item": "Snacks:Janthikalu",
-        "Price": 50.0
+        "Price": 54.0
     },
     {
         "Item": "Snacks:Matthi",
@@ -3969,7 +3957,7 @@
     },
     {
         "Item": "Snacks:Sakkar para Sweet",
-        "Price": 50.0
+        "Price": 54.0
     },
     {
         "Item": "Snacks:Thick Sev",
@@ -4021,7 +4009,7 @@
     },
     {
         "Item": "Sriracha Chili Sauce 28 oz",
-        "Price": 49.0
+        "Price": 61.0
     },
     {
         "Item": "Sriracha Chili Sauce 9oz",
@@ -4121,7 +4109,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 79.0
+        "Price": 59.0
     },
     {
         "Item": "Toddy Palm in Syrup",
@@ -4245,7 +4233,7 @@
     },
     {
         "Item": "Win Beans",
-        "Price": 99.0
+        "Price": 79.0
     },
     {
         "Item": "Winter Melon",
