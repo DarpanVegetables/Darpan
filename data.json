@@ -69,7 +69,7 @@
     },
     {
         "Item": "Bell Pepper",
-        "Price": 29.0
+        "Price": 26.0
     },
     {
         "Item": "Bell Pepper Red",
@@ -209,11 +209,11 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 49.0
+        "Price": 41.0
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 36.0
+        "Price": 42.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -293,7 +293,7 @@
     },
     {
         "Item": "Chayote",
-        "Price": 46.0
+        "Price": 36.0
     },
     {
         "Item": "Chayote Black",
@@ -305,7 +305,7 @@
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 54.0
+        "Price": 45.0
     },
     {
         "Item": "Chayote White",
@@ -345,7 +345,7 @@
     },
     {
         "Item": "Cilantro Chinese",
-        "Price": 49.0
+        "Price": 54.0
     },
     {
         "Item": "Cilantro Macho",
@@ -377,7 +377,7 @@
     },
     {
         "Item": "CranBerry Beans",
-        "Price": 46.0
+        "Price": 68.0
     },
     {
         "Item": "CREDIT",
@@ -749,7 +749,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 25.0
+        "Price": 36.0
     },
     {
         "Item": "Eggplant Indian Plants",
@@ -877,7 +877,7 @@
     },
     {
         "Item": "Fresh Green Peas",
-        "Price": 28.0
+        "Price": 45.0
     },
     {
         "Item": "Fresh Tamarind",
@@ -961,7 +961,7 @@
     },
     {
         "Item": "FROZEN:Coconut Shreaded - Truly",
-        "Price": 69.0
+        "Price": 75.0
     },
     {
         "Item": "FROZEN:Corn cut Regal",
@@ -1098,10 +1098,6 @@
     {
         "Item": "FROZEN:DD Gooseberry",
         "Price": 70.0
-    },
-    {
-        "Item": "FROZEN:DD Green Chilli",
-        "Price": 40.0
     },
     {
         "Item": "FROZEN:DD Idiyapam - WHITE",
@@ -1313,10 +1309,6 @@
     },
     {
         "Item": "FROZEN:DD Parotha Coriender 330 Gms. X",
-        "Price": 25.0
-    },
-    {
-        "Item": "FROZEN:DD Parotha Green Apple 330 Gms.",
         "Price": 25.0
     },
     {
@@ -1717,7 +1709,7 @@
     },
     {
         "Item": "FROZEN:Paratha Malabar Family - Truly",
-        "Price": 68.0
+        "Price": 75.0
     },
     {
         "Item": "FROZEN:Paratha Malaysian",
@@ -1860,10 +1852,6 @@
         "Price": 30.0
     },
     {
-        "Item": "FROZEN:Supari Green/ Yellow (12 Pieces",
-        "Price": 89.0
-    },
-    {
         "Item": "FROZEN:tandoori Naan 8 X 16 X 85 Gms.",
         "Price": 56.0
     },
@@ -1941,7 +1929,7 @@
     },
     {
         "Item": "FRUITS:Banana Thai",
-        "Price": 36.0
+        "Price": 39.0
     },
     {
         "Item": "FRUITS:Blueberry",
@@ -1977,7 +1965,7 @@
     },
     {
         "Item": "FRUITS:Dates ---  Fresh",
-        "Price": 100.0
+        "Price": 80.0
     },
     {
         "Item": "FRUITS:Dragon Fruit",
@@ -2021,7 +2009,7 @@
     },
     {
         "Item": "FRUITS:Hami Melon",
-        "Price": 32.0
+        "Price": 29.0
     },
     {
         "Item": "FRUITS:Honeydew 6 Sz.",
@@ -2056,16 +2044,8 @@
         "Price": 21.0
     },
     {
-        "Item": "FRUITS:Mandarine 2X",
-        "Price": 28.0
-    },
-    {
-        "Item": "FRUITS:Mandarine 3X",
-        "Price": 29.0
-    },
-    {
         "Item": "FRUITS:Mango",
-        "Price": 95.0
+        "Price": 79.0
     },
     {
         "Item": "FRUITS:Mango - Mingolo",
@@ -2093,7 +2073,7 @@
     },
     {
         "Item": "FRUITS:Mango Sweet 20 Lbs.",
-        "Price": 45.0
+        "Price": 50.0
     },
     {
         "Item": "FRUITS:Manzano Banana 20 Lb.",
@@ -2169,7 +2149,7 @@
     },
     {
         "Item": "Galka - Ghiraoula",
-        "Price": 75.0
+        "Price": 59.0
     },
     {
         "Item": "Ganesh 13 iinch",
@@ -2292,8 +2272,8 @@
         "Price": 60.0
     },
     {
-        "Item": "Green Chana",
-        "Price": 52.0
+        "Item": "Green Beans",
+        "Price": 45.0
     },
     {
         "Item": "Green Jackfruit in Can 24 X 20",
@@ -2472,10 +2452,6 @@
         "Price": 72.0
     },
     {
-        "Item": "Grocery:Green Cardemom 7 Oz. X 20",
-        "Price": 80.0
-    },
-    {
         "Item": "Grocery:Herbal tooth paste 72 Pcs.",
         "Price": 144.0
     },
@@ -2648,10 +2624,6 @@
         "Price": 32.0
     },
     {
-        "Item": "Grocery:Lijjat Green Chillie Papad",
-        "Price": 90.0
-    },
-    {
         "Item": "Grocery:Lijjat Plain Papad 200 Gms.X 80",
         "Price": 85.0
     },
@@ -2816,10 +2788,6 @@
         "Price": 240.0
     },
     {
-        "Item": "Grocery:Organic Green Tea 114 Gms.",
-        "Price": 130.0
-    },
-    {
         "Item": "Grocery:Organic Lemon Tea",
         "Price": 118.0
     },
@@ -2976,6 +2944,10 @@
         "Price": 44.0
     },
     {
+        "Item": "Hot Sauce - Soogrim Brand 32 Oz",
+        "Price": 118.0
+    },
+    {
         "Item": "Hot Sauce - Surinaam Sauce",
         "Price": 38.0
     },
@@ -3061,7 +3033,7 @@
     },
     {
         "Item": "Karela Indian 30 lb.",
-        "Price": 46.0
+        "Price": 39.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -3237,11 +3209,11 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 39.0
+        "Price": 42.0
     },
     {
         "Item": "Long squash ( Bangali)",
-        "Price": 39.0
+        "Price": 45.0
     },
     {
         "Item": "Long Squash ( INDIAN )",
@@ -3333,7 +3305,7 @@
     },
     {
         "Item": "Medium Chillie 15 Lb",
-        "Price": 39.0
+        "Price": 49.0
     },
     {
         "Item": "Mehdi Cone 25 X 35 Gms.",
@@ -3433,7 +3405,11 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 25.0
+        "Price": 20.0
+    },
+    {
+        "Item": "Okra Indian Hond.",
+        "Price": 22.0
     },
     {
         "Item": "Okra Reg",
@@ -3781,7 +3757,7 @@
     },
     {
         "Item": "Red Chillie",
-        "Price": 150.0
+        "Price": 145.0
     },
     {
         "Item": "Red Flat Beans",
@@ -3897,7 +3873,7 @@
     },
     {
         "Item": "Sarso Ka Saag",
-        "Price": 54.0
+        "Price": 64.0
     },
     {
         "Item": "Shopping Bag 1/6",
@@ -3913,7 +3889,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 100.0
+        "Price": 120.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -4069,7 +4045,7 @@
     },
     {
         "Item": "Sweet Potato",
-        "Price": 76.0
+        "Price": 59.0
     },
     {
         "Item": "Tamarind Loose",
@@ -4109,7 +4085,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 59.0
+        "Price": 49.0
     },
     {
         "Item": "Toddy Palm in Syrup",
@@ -4185,7 +4161,7 @@
     },
     {
         "Item": "Turnip",
-        "Price": 28.0
+        "Price": 24.0
     },
     {
         "Item": "USDA Inspection",
@@ -4194,6 +4170,10 @@
     {
         "Item": "Valor - Broad",
         "Price": 125.0
+    },
+    {
+        "Item": "Valor - Purple",
+        "Price": 82.5
     },
     {
         "Item": "Valor - Round Dominican",
