@@ -61,7 +61,7 @@
     },
     {
         "Item": "Batthu",
-        "Price": 55.0
+        "Price": 70.0
     },
     {
         "Item": "Beets",
@@ -1941,7 +1941,7 @@
     },
     {
         "Item": "FRUITS:Breadfruit",
-        "Price": 45.0
+        "Price": 49.0
     },
     {
         "Item": "FRUITS:Cantalop Golden 12 Size",
@@ -3201,7 +3201,7 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 55.0
+        "Price": 69.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -3282,10 +3282,6 @@
     {
         "Item": "Masala Dabba SS Lid",
         "Price": 10.0
-    },
-    {
-        "Item": "Masala Para 24 Packs",
-        "Price": 54.0
     },
     {
         "Item": "Masala Paratha 5Pcs.",
@@ -3745,7 +3741,7 @@
     },
     {
         "Item": "Red Chillie",
-        "Price": 145.0
+        "Price": 150.0
     },
     {
         "Item": "Red Flat Beans",
@@ -3900,6 +3896,10 @@
         "Price": 54.0
     },
     {
+        "Item": "Snacks:Masala Para 24 Packs",
+        "Price": 54.0
+    },
+    {
         "Item": "Snacks:Matthi",
         "Price": 55.0
     },
@@ -3909,7 +3909,7 @@
     },
     {
         "Item": "Snacks:Namakpara",
-        "Price": 50.0
+        "Price": 54.0
     },
     {
         "Item": "Snacks:Pocky Cracker Regular Pack",
@@ -4073,7 +4073,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 49.0
+        "Price": 59.0
     },
     {
         "Item": "Toddy Palm in Syrup",
