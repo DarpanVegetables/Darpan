@@ -193,7 +193,7 @@
     },
     {
         "Item": "Cabbage in Box",
-        "Price": 25.0
+        "Price": 27.0
     },
     {
         "Item": "Cactus Pear Red",
@@ -433,7 +433,7 @@
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 35.0
+        "Price": 38.0
     },
     {
         "Item": "Darket Flower 10 Lb.",
@@ -2117,7 +2117,7 @@
     },
     {
         "Item": "FRUITS:Ripe Jackfruit / lb.",
-        "Price": 1.1
+        "Price": 1.3
     },
     {
         "Item": "FRUITS:Sitafal",
@@ -2245,7 +2245,7 @@
     },
     {
         "Item": "Ginger Regular",
-        "Price": 48.0
+        "Price": 49.0
     },
     {
         "Item": "Ginger Young",
@@ -3033,7 +3033,7 @@
     },
     {
         "Item": "Karela Indian 30 lb.",
-        "Price": 59.0
+        "Price": 52.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -3201,11 +3201,11 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 42.0
+        "Price": 39.0
     },
     {
         "Item": "Long squash ( Bangali)",
-        "Price": 42.0
+        "Price": 39.0
     },
     {
         "Item": "Long Squash ( INDIAN )",
@@ -3257,7 +3257,7 @@
     },
     {
         "Item": "Malanga White",
-        "Price": 49.0
+        "Price": 45.0
     },
     {
         "Item": "Mango Leaves",
@@ -3329,7 +3329,7 @@
     },
     {
         "Item": "Muli-Cal",
-        "Price": 42.0
+        "Price": 35.0
     },
     {
         "Item": "Muli Saag ( Yul Moo)",
@@ -3393,7 +3393,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 37.0
+        "Price": 42.0
     },
     {
         "Item": "Okra Reg",
@@ -3629,7 +3629,7 @@
     },
     {
         "Item": "Pole Beans",
-        "Price": 62.0
+        "Price": 59.0
     },
     {
         "Item": "Potato Idaho",
@@ -4161,7 +4161,7 @@
     },
     {
         "Item": "Valor Beans 20 lb. Florida",
-        "Price": 100.0
+        "Price": 35.0
     },
     {
         "Item": "Valor Beans 20Lbs.",
@@ -4193,7 +4193,7 @@
     },
     {
         "Item": "Win Beans",
-        "Price": 70.0
+        "Price": 65.0
     },
     {
         "Item": "Winter Melon",
