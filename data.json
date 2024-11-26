@@ -209,11 +209,11 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 42.0
+        "Price": 49.0
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 49.0
+        "Price": 39.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -301,7 +301,7 @@
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 40.0
+        "Price": 42.0
     },
     {
         "Item": "Chayote White",
@@ -345,7 +345,7 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 34.0
+        "Price": 35.0
     },
     {
         "Item": "Coconut Dry",
@@ -481,7 +481,7 @@
     },
     {
         "Item": "Dhania - Mexico -60 Bunches Pap",
-        "Price": 28.0
+        "Price": 25.0
     },
     {
         "Item": "Dill",
@@ -729,7 +729,7 @@
     },
     {
         "Item": "Eggplant Green - Long",
-        "Price": 60.0
+        "Price": 65.0
     },
     {
         "Item": "Eggplant Green - Round",
@@ -745,7 +745,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 55.0
+        "Price": 45.0
     },
     {
         "Item": "Eggplant Indian Plants",
@@ -769,7 +769,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 49.0
+        "Price": 42.0
     },
     {
         "Item": "Eggplant Thai White",
@@ -2132,7 +2132,7 @@
         "Price": 28.0
     },
     {
-        "Item": "FRUITS:Tangerine Box 4X",
+        "Item": "FRUITS:Tangerine Box 3X",
         "Price": 45.0
     },
     {
@@ -2145,7 +2145,7 @@
     },
     {
         "Item": "Fuzzy Squash",
-        "Price": 45.0
+        "Price": 29.0
     },
     {
         "Item": "Galka - Ghiraoula",
@@ -3033,7 +3033,7 @@
     },
     {
         "Item": "Karela Indian 30 lb.",
-        "Price": 52.0
+        "Price": 42.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -3145,7 +3145,7 @@
     },
     {
         "Item": "Kirbi",
-        "Price": 55.0
+        "Price": 45.0
     },
     {
         "Item": "Kolrabi",
@@ -3173,7 +3173,7 @@
     },
     {
         "Item": "Lemon 140 Sz.",
-        "Price": 50.0
+        "Price": 49.0
     },
     {
         "Item": "Lettuce",
@@ -3189,7 +3189,7 @@
     },
     {
         "Item": "Long Bean White 10 Lbs.",
-        "Price": 45.0
+        "Price": 50.0
     },
     {
         "Item": "Long Beans Green 30lbs",
@@ -3337,7 +3337,7 @@
     },
     {
         "Item": "Muli W/O Leafs",
-        "Price": 32.0
+        "Price": 34.0
     },
     {
         "Item": "Mushroom Oystar 5 lbs.",
@@ -3953,7 +3953,7 @@
     },
     {
         "Item": "Spinach",
-        "Price": 44.0
+        "Price": 46.0
     },
     {
         "Item": "Spinach Loose",
@@ -4217,7 +4217,7 @@
     },
     {
         "Item": "Yucca",
-        "Price": 32.0
+        "Price": 34.0
     },
     {
         "Item": "Zed Black Dhoop Cones",
