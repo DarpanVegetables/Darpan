@@ -949,11 +949,7 @@
     },
     {
         "Item": "FROZEN:Chopped spinach Endico",
-        "Price": 28.0
-    },
-    {
-        "Item": "FROZEN:Chopped spinach IQF Endico",
-        "Price": 30.0
+        "Price": 32.0
     },
     {
         "Item": "FROZEN:Chopped Spinach Regal",
@@ -3393,7 +3389,7 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 42.0
+        "Price": 43.0
     },
     {
         "Item": "Okra Reg",
@@ -3869,7 +3865,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 65.0
+        "Price": 59.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -3929,7 +3925,7 @@
     },
     {
         "Item": "Snake Gourd 30Lbs.",
-        "Price": 58.0
+        "Price": 42.0
     },
     {
         "Item": "Snow Peas",
