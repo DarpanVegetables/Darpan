@@ -209,7 +209,7 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 49.0
+        "Price": 60.0
     },
     {
         "Item": "Calabasa -Larga Long",
@@ -253,7 +253,7 @@
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 36.0
+        "Price": 55.0
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
@@ -345,7 +345,7 @@
     },
     {
         "Item": "Cilantro Macho",
-        "Price": 36.0
+        "Price": 40.0
     },
     {
         "Item": "Coconut Dry",
@@ -477,15 +477,15 @@
     },
     {
         "Item": "Dhania-Bakhtawar",
-        "Price": 52.0
+        "Price": 32.0
     },
     {
         "Item": "Dhania - Mexico -60 Bunches Pap",
-        "Price": 22.0
+        "Price": 32.0
     },
     {
         "Item": "Dill",
-        "Price": 35.0
+        "Price": 31.0
     },
     {
         "Item": "Din Din  Candy Jar 24 Bottles",
@@ -1912,8 +1912,8 @@
         "Price": 40.0
     },
     {
-        "Item": "FRUITS:Grapes Red Globe 18 Lbs.",
-        "Price": 46.0
+        "Item": "FRUITS:Grapes Red Seedless",
+        "Price": 18.0
     },
     {
         "Item": "FRUITS:Green grapes",
@@ -1949,7 +1949,7 @@
     },
     {
         "Item": "FRUITS:Hami Melon",
-        "Price": 29.0
+        "Price": 38.0
     },
     {
         "Item": "FRUITS:Honeydew 6 Sz.",
@@ -2029,7 +2029,7 @@
     },
     {
         "Item": "FRUITS:Papaya Yellow",
-        "Price": 52.0
+        "Price": 42.0
     },
     {
         "Item": "FRUITS:Passion Fruit",
@@ -2185,7 +2185,7 @@
     },
     {
         "Item": "Ginger Regular",
-        "Price": 49.0
+        "Price": 45.0
     },
     {
         "Item": "Ginger Young",
@@ -2973,7 +2973,7 @@
     },
     {
         "Item": "Karela Indian 30 lb.",
-        "Price": 52.0
+        "Price": 45.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -3113,7 +3113,7 @@
     },
     {
         "Item": "Lemon 140 Sz.",
-        "Price": 49.0
+        "Price": 48.0
     },
     {
         "Item": "Lettuce",
@@ -3128,8 +3128,8 @@
         "Price": 34.0
     },
     {
-        "Item": "Long Bean White 10 Lbs.",
-        "Price": 50.0
+        "Item": "Long Bean White 25 Lbs.",
+        "Price": 110.0
     },
     {
         "Item": "Long Beans Green 30lbs",
@@ -3141,11 +3141,11 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 55.0
+        "Price": 48.0
     },
     {
         "Item": "Long squash ( Bangali)",
-        "Price": 55.0
+        "Price": 52.0
     },
     {
         "Item": "Long Squash ( INDIAN )",
@@ -3445,7 +3445,7 @@
     },
     {
         "Item": "Pear Golden 28 Sz.",
-        "Price": 32.0
+        "Price": 38.0
     },
     {
         "Item": "Penny Wort 10 lb.",
@@ -3729,11 +3729,11 @@
     },
     {
         "Item": "Round Long Squash",
-        "Price": 70.0
+        "Price": 65.0
     },
     {
         "Item": "Rulo Banana",
-        "Price": 29.0
+        "Price": 25.0
     },
     {
         "Item": "Rumali Roti",
@@ -3789,7 +3789,7 @@
     },
     {
         "Item": "Sarso Ka Saag",
-        "Price": 64.0
+        "Price": 58.0
     },
     {
         "Item": "Shopping Bag 1/6",
@@ -4064,20 +4064,12 @@
         "Price": 45.0
     },
     {
-        "Item": "Turmeric White",
-        "Price": 150.0
-    },
-    {
         "Item": "Turmeric White - FIJI",
         "Price": 150.0
     },
     {
-        "Item": "Turmeric Yellow",
-        "Price": 84.0
-    },
-    {
         "Item": "Turmeric Yellow Fiji",
-        "Price": 130.0
+        "Price": 90.0
     },
     {
         "Item": "Turnip",
@@ -4089,7 +4081,7 @@
     },
     {
         "Item": "Valor - Broad",
-        "Price": 95.0
+        "Price": 75.0
     },
     {
         "Item": "Valor - Purple",
