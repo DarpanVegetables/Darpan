@@ -373,7 +373,7 @@
     },
     {
         "Item": "CranBerry Beans",
-        "Price": 59.0
+        "Price": 70.0
     },
     {
         "Item": "CREDIT",
@@ -717,7 +717,7 @@
     },
     {
         "Item": "Eggplant Green - Long",
-        "Price": 69.0
+        "Price": 75.0
     },
     {
         "Item": "Eggplant Guyanish",
@@ -729,7 +729,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 45.0
+        "Price": 47.0
     },
     {
         "Item": "Epazote",
@@ -1653,7 +1653,7 @@
     },
     {
         "Item": "FROZEN:Paratha Family Pack",
-        "Price": 65.0
+        "Price": 69.0
     },
     {
         "Item": "FROZEN:Paratha Malabar Family - Truly",
@@ -1925,7 +1925,7 @@
     },
     {
         "Item": "FRUITS:Guava - Thai",
-        "Price": 80.0
+        "Price": 85.0
     },
     {
         "Item": "FRUITS:Guava Chinese",
@@ -2008,10 +2008,6 @@
         "Price": 9.0
     },
     {
-        "Item": "FRUITS:Mango Sugar Baby",
-        "Price": 25.0
-    },
-    {
         "Item": "FRUITS:Mango Sweet 20 Lbs.",
         "Price": 50.0
     },
@@ -2068,10 +2064,6 @@
         "Price": 24.0
     },
     {
-        "Item": "FRUITS:Sugar Cane Fresh",
-        "Price": 28.0
-    },
-    {
         "Item": "FRUITS:Tangerine Box 3X",
         "Price": 49.0
     },
@@ -2113,7 +2105,7 @@
     },
     {
         "Item": "Garlic Peeled 1 lb. X 20 Packs",
-        "Price": 82.0
+        "Price": 78.0
     },
     {
         "Item": "Garlic Peeled 5 lb. Jar case",
@@ -2254,10 +2246,6 @@
     {
         "Item": "Grocery:Bournvita 500 Gms X 15",
         "Price": 50.0
-    },
-    {
-        "Item": "Grocery:Brown Sugar",
-        "Price": 22.0
     },
     {
         "Item": "Grocery:Bru Roasted Coffee 500 Gms.",
@@ -2546,6 +2534,10 @@
     {
         "Item": "Grocery:Kolkata Dry Pan 20 Packs",
         "Price": 50.0
+    },
+    {
+        "Item": "Grocery:Krack Jack 48 X 60 Gms.",
+        "Price": 19.0
     },
     {
         "Item": "Grocery:Kushal Kanthil 5 Gms. X 21",
@@ -3085,7 +3077,7 @@
     },
     {
         "Item": "Kirbi",
-        "Price": 37.0
+        "Price": 45.0
     },
     {
         "Item": "Kolrabi",
@@ -3128,16 +3120,20 @@
         "Price": 34.0
     },
     {
-        "Item": "Long Bean White 25 Lbs.",
-        "Price": 110.0
+        "Item": "Long Bean White 10 Lbs.",
+        "Price": 45.0
+    },
+    {
+        "Item": "Long Beans - White 30Lb.",
+        "Price": 115.0
     },
     {
         "Item": "Long Beans Green 30lbs",
-        "Price": 100.0
+        "Price": 110.0
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 39.0
+        "Price": 78.0
     },
     {
         "Item": "Long Squash",
@@ -3277,7 +3273,7 @@
     },
     {
         "Item": "Muli W/O Leafs",
-        "Price": 35.0
+        "Price": 39.0
     },
     {
         "Item": "Mushroom Oystar 5 lbs.",
@@ -3289,7 +3285,7 @@
     },
     {
         "Item": "Mustard Green Baby",
-        "Price": 32.0
+        "Price": 34.0
     },
     {
         "Item": "Naan - Paratha",
@@ -3400,10 +3396,6 @@
         "Price": 5.0
     },
     {
-        "Item": "Palm Sugar ( 36 * 16 oz.)",
-        "Price": 56.0
-    },
-    {
         "Item": "Pan Leaves",
         "Price": 150.0
     },
@@ -3429,7 +3421,7 @@
     },
     {
         "Item": "Parle G Biscuit 192 X 56.4 Gms.",
-        "Price": 36.0
+        "Price": 33.0
     },
     {
         "Item": "Parsley",
@@ -3561,7 +3553,7 @@
     },
     {
         "Item": "Poi Saag",
-        "Price": 30.0
+        "Price": 32.0
     },
     {
         "Item": "Pole Beans",
@@ -3673,7 +3665,7 @@
     },
     {
         "Item": "Red Chillie",
-        "Price": 150.0
+        "Price": 200.0
     },
     {
         "Item": "Red Flat Beans",
@@ -3777,7 +3769,7 @@
     },
     {
         "Item": "Sambal Chili Paste 8 oz",
-        "Price": 68.0
+        "Price": 55.0
     },
     {
         "Item": "Samosa Veg (Fresh)",
@@ -3901,7 +3893,7 @@
     },
     {
         "Item": "Sriracha Chili Sauce 17oz",
-        "Price": 61.0
+        "Price": 55.0
     },
     {
         "Item": "Sriracha Chili Sauce 28 oz",
@@ -3920,24 +3912,12 @@
         "Price": 22.0
     },
     {
-        "Item": "Sugar",
-        "Price": 25.0
-    },
-    {
-        "Item": "Sugar Cane Stick Lrg.",
-        "Price": 30.0
-    },
-    {
         "Item": "Sugarcan(Lrg) Can 12 X 48 Oz.",
         "Price": 50.0
     },
     {
         "Item": "Sugarcan(Med) Can",
-        "Price": 32.0
-    },
-    {
-        "Item": "Sugarcan(Sml) Can",
-        "Price": 32.0
+        "Price": 50.0
     },
     {
         "Item": "Summer Squash",
@@ -4005,7 +3985,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 59.0
+        "Price": 79.0
     },
     {
         "Item": "Toddy Palm in Syrup",
@@ -4081,11 +4061,15 @@
     },
     {
         "Item": "Valor - Broad",
-        "Price": 75.0
+        "Price": 65.0
     },
     {
         "Item": "Valor - Purple",
         "Price": 49.0
+    },
+    {
+        "Item": "Valor - Round Dominican",
+        "Price": 65.0
     },
     {
         "Item": "Valor Beans 20 lb. Florida",
