@@ -73,7 +73,7 @@
     },
     {
         "Item": "Bell Pepper",
-        "Price": 20.0
+        "Price": 27.0
     },
     {
         "Item": "Bell Pepper Red",
@@ -213,11 +213,11 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 44.0
+        "Price": 39.0
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 39.0
+        "Price": 34.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -252,12 +252,12 @@
         "Price": 25.0
     },
     {
-        "Item": "cash",
+        "Item": "Cash",
         "Price": 16.0
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 26.0
+        "Price": 27.0
     },
     {
         "Item": "Cauliflower 16 Heads",
@@ -441,7 +441,7 @@
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 21.0
+        "Price": 19.0
     },
     {
         "Item": "Darket Flower 10 Lb.",
@@ -493,7 +493,7 @@
     },
     {
         "Item": "Dill",
-        "Price": 35.0
+        "Price": 30.0
     },
     {
         "Item": "Din Din  Candy Jar 24 Bottles",
@@ -705,11 +705,11 @@
     },
     {
         "Item": "Eggplant  American",
-        "Price": 36.0
+        "Price": 38.0
     },
     {
         "Item": "Eggplant Chinese",
-        "Price": 49.0
+        "Price": 52.0
     },
     {
         "Item": "Eggplant Green - Long",
@@ -729,7 +729,7 @@
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 49.0
+        "Price": 55.0
     },
     {
         "Item": "Epazote",
@@ -876,10 +876,6 @@
         "Price": 34.0
     },
     {
-        "Item": "FROZEN:Canbe Kotthu Roti",
-        "Price": 60.0
-    },
-    {
         "Item": "FROZEN:Carrots Diced",
         "Price": 18.0
     },
@@ -889,7 +885,7 @@
     },
     {
         "Item": "FROZEN:Chapati - Malasian",
-        "Price": 44.0
+        "Price": 60.0
     },
     {
         "Item": "FROZEN:Chapati Family Pack",
@@ -1086,10 +1082,6 @@
     {
         "Item": "FROZEN:DD Kerala Fish Curry",
         "Price": 108.0
-    },
-    {
-        "Item": "FROZEN:DD King Fish Steak 10X4 5/10",
-        "Price": 185.0
     },
     {
         "Item": "FROZEN:DD King Fish Steak 2X20 Lbs.",
@@ -1832,12 +1824,8 @@
         "Price": 0.0
     },
     {
-        "Item": "FRUITS:Anar 6 Sz.",
+        "Item": "FRUITS:Anar 5 Sz.",
         "Price": 28.0
-    },
-    {
-        "Item": "FRUITS:Anar Loose",
-        "Price": 75.0
     },
     {
         "Item": "FRUITS:Apple Fiji",
@@ -1993,7 +1981,7 @@
     },
     {
         "Item": "FRUITS:Mag Melon",
-        "Price": 21.0
+        "Price": 35.0
     },
     {
         "Item": "FRUITS:Mango",
@@ -2029,7 +2017,7 @@
     },
     {
         "Item": "FRUITS:Pamelo",
-        "Price": 42.0
+        "Price": 29.0
     },
     {
         "Item": "FRUITS:Papaya Yellow",
@@ -2197,7 +2185,7 @@
     },
     {
         "Item": "Gongura leaf",
-        "Price": 39.0
+        "Price": 90.0
     },
     {
         "Item": "Gooseberry Pickled",
@@ -2250,6 +2238,10 @@
     {
         "Item": "Grocery:Banana Blosom in can",
         "Price": 38.0
+    },
+    {
+        "Item": "Grocery:Bashundhara Floor 6 x 2 Kgs.",
+        "Price": 20.0
     },
     {
         "Item": "Grocery:Bournvita 500 Gms X 15",
@@ -2310,10 +2302,6 @@
     {
         "Item": "Grocery:DD Ragi Powder Brown 500 Gms. X",
         "Price": 30.0
-    },
-    {
-        "Item": "Grocery:DD Rice Ada 200 Gms. X 30",
-        "Price": 36.0
     },
     {
         "Item": "Grocery:DD Samba Wheat PuttuPodi 1 Kg.",
@@ -2977,7 +2965,7 @@
     },
     {
         "Item": "Karela Indian 30 lb.",
-        "Price": 90.0
+        "Price": 75.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -3149,15 +3137,15 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 46.0
+        "Price": 40.0
     },
     {
         "Item": "Long Squash",
-        "Price": 46.0
+        "Price": 45.0
     },
     {
         "Item": "Long squash ( Bangali)",
-        "Price": 48.0
+        "Price": 58.0
     },
     {
         "Item": "Long Squash ( INDIAN )",
@@ -3213,7 +3201,7 @@
     },
     {
         "Item": "Mango Baby 20 Lb.",
-        "Price": 55.0
+        "Price": 65.0
     },
     {
         "Item": "Mango Leaves",
@@ -3246,10 +3234,6 @@
     {
         "Item": "Mashroom",
         "Price": 12.0
-    },
-    {
-        "Item": "Medium Chilli 25 lbs.",
-        "Price": 85.0
     },
     {
         "Item": "Medium Chillie 10 Lb",
@@ -3289,7 +3273,7 @@
     },
     {
         "Item": "Muli Saag ( Yul Moo)",
-        "Price": 45.0
+        "Price": 49.0
     },
     {
         "Item": "Muli W/O Leafs",
@@ -3349,11 +3333,11 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 38.0
+        "Price": 30.0
     },
     {
         "Item": "Okra Reg",
-        "Price": 44.0
+        "Price": 32.0
     },
     {
         "Item": "Onion - Pearl",
@@ -3361,7 +3345,7 @@
     },
     {
         "Item": "Onion - Shallots",
-        "Price": 48.0
+        "Price": 49.0
     },
     {
         "Item": "Onion - Spanish",
@@ -3457,7 +3441,7 @@
     },
     {
         "Item": "Parval",
-        "Price": 110.0
+        "Price": 119.0
     },
     {
         "Item": "Peanut  Roasted",
@@ -3588,12 +3572,8 @@
         "Price": 55.0
     },
     {
-        "Item": "Potato Idaho",
-        "Price": 23.0
-    },
-    {
-        "Item": "Potato Idaho Bag",
-        "Price": 23.0
+        "Item": "Potato Idaho Box 10 X 5 lb.",
+        "Price": 25.0
     },
     {
         "Item": "Potato Leaves",
@@ -3648,10 +3628,6 @@
         "Price": 35.0
     },
     {
-        "Item": "Purple Yam",
-        "Price": 65.0
-    },
-    {
         "Item": "Rakhi",
         "Price": 12.0
     },
@@ -3701,7 +3677,7 @@
     },
     {
         "Item": "Red Kidney 29 oz.",
-        "Price": 38.0
+        "Price": 49.0
     },
     {
         "Item": "Red Kidney Beans",
@@ -3825,7 +3801,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 65.0
+        "Price": 50.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -3973,7 +3949,7 @@
     },
     {
         "Item": "Sweet Potato",
-        "Price": 59.0
+        "Price": 63.0
     },
     {
         "Item": "Tamarind Loose",
@@ -4073,11 +4049,11 @@
     },
     {
         "Item": "Turmeric White - FIJI",
-        "Price": 150.0
+        "Price": 175.0
     },
     {
         "Item": "Turmeric Yellow Fiji",
-        "Price": 90.0
+        "Price": 145.0
     },
     {
         "Item": "Turnip",
@@ -4142,10 +4118,6 @@
     {
         "Item": "Winter Melon",
         "Price": 39.0
-    },
-    {
-        "Item": "Yam",
-        "Price": 69.0
     },
     {
         "Item": "Yam Brazil - Cuscus",
