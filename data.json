@@ -73,7 +73,7 @@
     },
     {
         "Item": "Bell Pepper Red",
-        "Price": 30.0
+        "Price": 32.0
     },
     {
         "Item": "Besan Laxmi 10 X 4 Lbs.",
@@ -297,7 +297,7 @@
     },
     {
         "Item": "Chayote Black",
-        "Price": 48.0
+        "Price": 39.0
     },
     {
         "Item": "Chayote Mexican",
@@ -305,7 +305,7 @@
     },
     {
         "Item": "Chayote White",
-        "Price": 55.0
+        "Price": 45.0
     },
     {
         "Item": "Cheak Peas",
@@ -413,11 +413,11 @@
     },
     {
         "Item": "Dahi 4 Lb. Regular",
-        "Price": 30.0
+        "Price": 33.0
     },
     {
         "Item": "Dahi 4Lbs. Low Fat",
-        "Price": 30.0
+        "Price": 33.0
     },
     {
         "Item": "Daily",
@@ -429,7 +429,7 @@
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 14.0
+        "Price": 19.0
     },
     {
         "Item": "Darket Flower 10 Lb.",
@@ -713,7 +713,7 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 59.0
+        "Price": 45.0
     },
     {
         "Item": "Eggplant Thai",
@@ -897,7 +897,7 @@
     },
     {
         "Item": "FROZEN:Coconut Shreaded - Truly",
-        "Price": 78.0
+        "Price": 79.0
     },
     {
         "Item": "FROZEN:Corn cut Regal",
@@ -1893,7 +1893,7 @@
     },
     {
         "Item": "FRUITS:Grapes Red Seedless",
-        "Price": 14.0
+        "Price": 42.0
     },
     {
         "Item": "FRUITS:Green Jack Fruit",
@@ -2045,7 +2045,7 @@
     },
     {
         "Item": "FRUITS:Watermelon Pcs.",
-        "Price": 9.0
+        "Price": 50.0
     },
     {
         "Item": "Fumigation",
@@ -2153,7 +2153,7 @@
     },
     {
         "Item": "Ginger Regular",
-        "Price": 29.0
+        "Price": 35.0
     },
     {
         "Item": "Ginger Young",
@@ -2953,7 +2953,7 @@
     },
     {
         "Item": "Karela Indian 30 lb.",
-        "Price": 48.0
+        "Price": 27.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -3101,7 +3101,7 @@
     },
     {
         "Item": "Lettuce",
-        "Price": 34.0
+        "Price": 30.0
     },
     {
         "Item": "Lettuce Romain",
@@ -3193,7 +3193,7 @@
     },
     {
         "Item": "Mango Baby 20 Lb.",
-        "Price": 59.0
+        "Price": 49.0
     },
     {
         "Item": "Mango Leaves",
@@ -3265,7 +3265,7 @@
     },
     {
         "Item": "Muli-Cal",
-        "Price": 42.0
+        "Price": 35.0
     },
     {
         "Item": "Muli Saag ( Yul Moo)",
@@ -3341,7 +3341,7 @@
     },
     {
         "Item": "Onion - Shallots",
-        "Price": 49.0
+        "Price": 69.0
     },
     {
         "Item": "Onion - Spanish",
@@ -3361,7 +3361,7 @@
     },
     {
         "Item": "Onion Red 25 Lbs.",
-        "Price": 29.0
+        "Price": 27.0
     },
     {
         "Item": "Onion Red 2lb / 20 bags",
@@ -3373,7 +3373,7 @@
     },
     {
         "Item": "Onion Yellow - Canadian 10 Lbs.",
-        "Price": 6.0
+        "Price": 5.5
     },
     {
         "Item": "Onion Yellow 10 lbs.",
@@ -3381,7 +3381,7 @@
     },
     {
         "Item": "Onion Yellow 2lb / 20 bags",
-        "Price": 23.0
+        "Price": 24.0
     },
     {
         "Item": "Ovaltin Biscuit 24 x 14 Oz.",
@@ -3413,7 +3413,7 @@
     },
     {
         "Item": "Paneer BULK",
-        "Price": 3.6
+        "Price": 3.7
     },
     {
         "Item": "Paneer Khoe/Mawa",
@@ -3437,7 +3437,7 @@
     },
     {
         "Item": "Parval",
-        "Price": 119.0
+        "Price": 130.0
     },
     {
         "Item": "Peanut  Roasted",
@@ -3776,6 +3776,18 @@
         "Price": 55.0
     },
     {
+        "Item": "Samyang Raman Black Noodles",
+        "Price": 46.0
+    },
+    {
+        "Item": "Samyang Raman Pink Noodles",
+        "Price": 48.0
+    },
+    {
+        "Item": "Samyang Raman Red Noodles",
+        "Price": 46.0
+    },
+    {
         "Item": "Sapota in Can",
         "Price": 55.0
     },
@@ -3797,7 +3809,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 69.0
+        "Price": 59.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -3985,7 +3997,7 @@
     },
     {
         "Item": "Tindora",
-        "Price": 69.0
+        "Price": 75.0
     },
     {
         "Item": "Toddy Palm in Syrup",
@@ -4108,6 +4120,10 @@
         "Price": 28.0
     },
     {
+        "Item": "White Hominy 15.5 Oz.",
+        "Price": 34.0
+    },
+    {
         "Item": "Win Beans",
         "Price": 85.0
     },
@@ -4169,6 +4185,6 @@
     },
     {
         "Item": "Zuchini(Green Squash)",
-        "Price": 14.0
+        "Price": 24.0
     }
 ]
