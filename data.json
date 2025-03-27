@@ -32,6 +32,10 @@
         "Price": 120.0
     },
     {
+        "Item": "Bamboo Shoot Peeled  24 Packs",
+        "Price": 40.0
+    },
+    {
         "Item": "Bamboo Shoot Sliced 24 x 19 oz.",
         "Price": 46.0
     },
@@ -41,7 +45,7 @@
     },
     {
         "Item": "Banana Flower",
-        "Price": 45.0
+        "Price": 49.0
     },
     {
         "Item": "Banana Leaves Fresh",
@@ -69,7 +73,7 @@
     },
     {
         "Item": "Bell Pepper",
-        "Price": 21.0
+        "Price": 26.0
     },
     {
         "Item": "Bell Pepper Red",
@@ -189,11 +193,11 @@
     },
     {
         "Item": "Cabbage Flat",
-        "Price": 28.0
+        "Price": 29.0
     },
     {
         "Item": "Cabbage in Box",
-        "Price": 24.0
+        "Price": 25.0
     },
     {
         "Item": "Cactus Pear Red",
@@ -209,11 +213,11 @@
     },
     {
         "Item": "Calabasa - Round Gray",
-        "Price": 39.0
+        "Price": 42.0
     },
     {
         "Item": "Calabasa -Larga Long",
-        "Price": 34.0
+        "Price": 42.0
     },
     {
         "Item": "Calabaza - Pumpkin",
@@ -237,7 +241,7 @@
     },
     {
         "Item": "Carrots",
-        "Price": 32.0
+        "Price": 35.0
     },
     {
         "Item": "Carrots 1 LB. bag/ 30",
@@ -249,11 +253,7 @@
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 27.0
-    },
-    {
-        "Item": "Cauliflower 16 Heads",
-        "Price": 16.0
+        "Price": 28.0
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
@@ -297,11 +297,11 @@
     },
     {
         "Item": "Chayote Black",
-        "Price": 39.0
+        "Price": 52.0
     },
     {
         "Item": "Chayote Mexican",
-        "Price": 55.0
+        "Price": 42.0
     },
     {
         "Item": "Chayote White",
@@ -330,6 +330,10 @@
     {
         "Item": "Chick Peas 47 Oz.",
         "Price": 42.0
+    },
+    {
+        "Item": "Ching's Secret Schezwan Chutney",
+        "Price": 35.0
     },
     {
         "Item": "Chiplin Fresh Leaves",
@@ -364,12 +368,24 @@
         "Price": 22.0
     },
     {
+        "Item": "Corn Black Finger 20 Packs",
+        "Price": 75.0
+    },
+    {
+        "Item": "Corn Color 16 Packs",
+        "Price": 65.0
+    },
+    {
         "Item": "Corn in Can",
         "Price": 46.0
     },
     {
+        "Item": "Corn White Finger 20 Packs",
+        "Price": 75.0
+    },
+    {
         "Item": "CranBerry Beans",
-        "Price": 39.0
+        "Price": 45.0
     },
     {
         "Item": "CREDIT",
@@ -429,7 +445,7 @@
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 19.0
+        "Price": 24.0
     },
     {
         "Item": "Darket Flower 10 Lb.",
@@ -481,7 +497,7 @@
     },
     {
         "Item": "Dill",
-        "Price": 30.0
+        "Price": 34.0
     },
     {
         "Item": "Din Din  Candy Jar 24 Bottles",
@@ -501,7 +517,7 @@
     },
     {
         "Item": "Dosakai",
-        "Price": 35.0
+        "Price": 30.0
     },
     {
         "Item": "Drinks",
@@ -652,6 +668,10 @@
         "Price": 54.0
     },
     {
+        "Item": "Drinks:MIranda Drink",
+        "Price": 14.0
+    },
+    {
         "Item": "Drinks:Pocas Boba Tea Drink 24 X 16.5",
         "Price": 48.0
     },
@@ -693,15 +713,15 @@
     },
     {
         "Item": "Eggplant  American",
-        "Price": 34.0
+        "Price": 28.0
     },
     {
         "Item": "Eggplant Chinese",
-        "Price": 49.0
+        "Price": 39.0
     },
     {
         "Item": "Eggplant Green - Long",
-        "Price": 85.0
+        "Price": 65.0
     },
     {
         "Item": "Eggplant Griffiti",
@@ -713,11 +733,11 @@
     },
     {
         "Item": "Eggplant Indian - Round",
-        "Price": 45.0
+        "Price": 29.0
     },
     {
         "Item": "Eggplant Thai",
-        "Price": 56.0
+        "Price": 65.0
     },
     {
         "Item": "Epazote",
@@ -1901,7 +1921,7 @@
     },
     {
         "Item": "FRUITS:Guava - Thai",
-        "Price": 55.0
+        "Price": 75.0
     },
     {
         "Item": "FRUITS:Guava Chinese",
@@ -1909,7 +1929,7 @@
     },
     {
         "Item": "FRUITS:Guava Mexican in CTN",
-        "Price": 52.0
+        "Price": 55.0
     },
     {
         "Item": "FRUITS:Guava Pink",
@@ -1929,7 +1949,7 @@
     },
     {
         "Item": "FRUITS:Honeydew 5 Sz.",
-        "Price": 24.0
+        "Price": 22.0
     },
     {
         "Item": "FRUITS:Jamboo",
@@ -1957,7 +1977,7 @@
     },
     {
         "Item": "FRUITS:Mango",
-        "Price": 200.0
+        "Price": 180.0
     },
     {
         "Item": "FRUITS:Mango - Mingolo",
@@ -1977,7 +1997,7 @@
     },
     {
         "Item": "FRUITS:Mango Sweet 20 Lbs.",
-        "Price": 48.0
+        "Price": 45.0
     },
     {
         "Item": "FRUITS:Manzano Banana 20 Lb.",
@@ -2089,7 +2109,7 @@
     },
     {
         "Item": "Garlic Regular",
-        "Price": 75.0
+        "Price": 69.0
     },
     {
         "Item": "Garlic White Regular",
@@ -2153,7 +2173,7 @@
     },
     {
         "Item": "Ginger Regular",
-        "Price": 35.0
+        "Price": 37.0
     },
     {
         "Item": "Ginger Young",
@@ -2844,7 +2864,7 @@
         "Price": 96.0
     },
     {
-        "Item": "honey W/Comb 18/350 Gms. (12.3)",
+        "Item": "Honey W/Comb 18/350 Gms. (12.3)",
         "Price": 129.0
     },
     {
@@ -2953,7 +2973,7 @@
     },
     {
         "Item": "Karela Indian 30 lb.",
-        "Price": 27.0
+        "Price": 59.0
     },
     {
         "Item": "Kashmir-Cake Rusk Economy",
@@ -3092,16 +3112,12 @@
         "Price": 32.0
     },
     {
-        "Item": "Lemon 140 Sz.",
-        "Price": 39.0
-    },
-    {
         "Item": "Lemon 140Sz.",
-        "Price": 39.0
+        "Price": 30.0
     },
     {
         "Item": "Lettuce",
-        "Price": 30.0
+        "Price": 38.0
     },
     {
         "Item": "Lettuce Romain",
@@ -3129,7 +3145,7 @@
     },
     {
         "Item": "Long Hot Pepper",
-        "Price": 38.0
+        "Price": 33.0
     },
     {
         "Item": "Long Squash",
@@ -3189,7 +3205,7 @@
     },
     {
         "Item": "Malanga White",
-        "Price": 54.0
+        "Price": 44.0
     },
     {
         "Item": "Mango Baby 20 Lb.",
@@ -3197,7 +3213,7 @@
     },
     {
         "Item": "Mango Leaves",
-        "Price": 80.0
+        "Price": 8.0
     },
     {
         "Item": "Maria Crackers 3 Packs X 10",
@@ -3285,7 +3301,7 @@
     },
     {
         "Item": "Mustard Green Baby",
-        "Price": 49.0
+        "Price": 35.0
     },
     {
         "Item": "Naan - Paratha",
@@ -3333,7 +3349,7 @@
     },
     {
         "Item": "Okra Reg",
-        "Price": 32.0
+        "Price": 27.0
     },
     {
         "Item": "Onion - Pearl",
@@ -3437,7 +3453,11 @@
     },
     {
         "Item": "Parval",
-        "Price": 130.0
+        "Price": 110.0
+    },
+    {
+        "Item": "Patanjali Desi Ghee 12 Pcs.",
+        "Price": 120.0
     },
     {
         "Item": "Peanut  Roasted",
@@ -3665,7 +3685,7 @@
     },
     {
         "Item": "Red Chillie",
-        "Price": 150.0
+        "Price": 120.0
     },
     {
         "Item": "Red Flat Beans",
@@ -3809,7 +3829,7 @@
     },
     {
         "Item": "Small Chili",
-        "Price": 59.0
+        "Price": 55.0
     },
     {
         "Item": "Small Chillie Plants",
@@ -3820,12 +3840,20 @@
         "Price": 0.0
     },
     {
+        "Item": "Snacks:Bingo Mad Angle",
+        "Price": 32.0
+    },
+    {
         "Item": "Snacks:Chakri",
         "Price": 54.0
     },
     {
         "Item": "Snacks:Chakri - Jalapinios",
         "Price": 54.0
+    },
+    {
+        "Item": "Snacks:Doritos 56 Sz.",
+        "Price": 42.0
     },
     {
         "Item": "Snacks:Janthikalu",
@@ -3893,7 +3921,7 @@
     },
     {
         "Item": "Spinach",
-        "Price": 46.0
+        "Price": 44.0
     },
     {
         "Item": "Spinach Loose",
@@ -3957,7 +3985,7 @@
     },
     {
         "Item": "Sweet Potato",
-        "Price": 63.0
+        "Price": 68.0
     },
     {
         "Item": "Tamarind Loose",
@@ -4053,7 +4081,7 @@
     },
     {
         "Item": "Turia - Chinese Okra",
-        "Price": 63.0
+        "Price": 64.0
     },
     {
         "Item": "Turmeric White - FIJI",
@@ -4072,8 +4100,8 @@
         "Price": 0.0
     },
     {
-        "Item": "Valor - Broad",
-        "Price": 65.0
+        "Item": "Valor - Bangali",
+        "Price": 75.0
     },
     {
         "Item": "Valor - Long Florida",
@@ -4085,7 +4113,11 @@
     },
     {
         "Item": "Valor - Round Dominican",
-        "Price": 39.0
+        "Price": 75.0
+    },
+    {
+        "Item": "Valor - Round Florida 20 Lbs.",
+        "Price": 75.0
     },
     {
         "Item": "Valor Beans 20 lb. Florida",
@@ -4145,7 +4177,7 @@
     },
     {
         "Item": "Yucca",
-        "Price": 42.0
+        "Price": 44.0
     },
     {
         "Item": "Zed Black Dhoop Cones",
@@ -4185,6 +4217,6 @@
     },
     {
         "Item": "Zuchini(Green Squash)",
-        "Price": 24.0
+        "Price": 21.0
     }
 ]
