@@ -217,7 +217,7 @@
     },
     {
         "Item": "Cabbage Flat",
-        "Price": 29.0
+        "Price": 33.0
     },
     {
         "Item": "Cabbage in Box",
@@ -277,7 +277,7 @@
     },
     {
         "Item": "Cauliflower 12 Heads",
-        "Price": 29.0
+        "Price": 27.0
     },
     {
         "Item": "Cauliflower Chinses 25 Lbs.",
@@ -465,7 +465,7 @@
     },
     {
         "Item": "Daily:Tomato Plum",
-        "Price": 22.0
+        "Price": 25.0
     },
     {
         "Item": "Darket Flower 10 Lb.",
@@ -710,6 +710,10 @@
     {
         "Item": "Drumstics Leaves",
         "Price": 55.0
+    },
+    {
+        "Item": "Dubai Chaoclates",
+        "Price": 9.0
     },
     {
         "Item": "Edoes Medium",
@@ -1909,7 +1913,7 @@
     },
     {
         "Item": "FRUITS:Banana",
-        "Price": 23.0
+        "Price": 24.0
     },
     {
         "Item": "FRUITS:Banana - Green",
@@ -2025,7 +2029,7 @@
     },
     {
         "Item": "FRUITS:Lychee",
-        "Price": 22.0
+        "Price": 75.0
     },
     {
         "Item": "FRUITS:Mag Melon",
@@ -2037,7 +2041,7 @@
     },
     {
         "Item": "FRUITS:Mango - Mingolo",
-        "Price": 14.0
+        "Price": 10.0
     },
     {
         "Item": "FRUITS:Mango Baby 50 Lbs.",
@@ -2045,7 +2049,7 @@
     },
     {
         "Item": "FRUITS:Mango Sweet 20 Lbs.",
-        "Price": 65.0
+        "Price": 55.0
     },
     {
         "Item": "FRUITS:Manzano Banana 20 Lb.",
@@ -2117,7 +2121,7 @@
     },
     {
         "Item": "FRUITS:Watermelon Pcs.",
-        "Price": 50.0
+        "Price": 9.0
     },
     {
         "Item": "Fumigation",
@@ -3181,11 +3185,11 @@
     },
     {
         "Item": "Lime 150 Pcs.",
-        "Price": 60.0
+        "Price": 75.0
     },
     {
         "Item": "Long Bean White 10 Lbs.",
-        "Price": 49.0
+        "Price": 45.0
     },
     {
         "Item": "Long Beans - White 30Lb.",
@@ -3197,7 +3201,7 @@
     },
     {
         "Item": "Long Beans Green 30lbs",
-        "Price": 85.0
+        "Price": 75.0
     },
     {
         "Item": "Long Hot Pepper",
@@ -3205,7 +3209,7 @@
     },
     {
         "Item": "Long Squash",
-        "Price": 72.0
+        "Price": 90.0
     },
     {
         "Item": "Long squash ( Bangali)",
@@ -3321,7 +3325,7 @@
     },
     {
         "Item": "Methi Leaves",
-        "Price": 46.0
+        "Price": 42.0
     },
     {
         "Item": "Mint",
@@ -3353,7 +3357,7 @@
     },
     {
         "Item": "Muli W/O Leafs",
-        "Price": 35.0
+        "Price": 36.0
     },
     {
         "Item": "Mushroom Oystar 5 lbs.",
@@ -3653,7 +3657,7 @@
     },
     {
         "Item": "Poi Saag",
-        "Price": 32.0
+        "Price": 39.0
     },
     {
         "Item": "Pole Beans",
@@ -3813,7 +3817,7 @@
     },
     {
         "Item": "Round Long Squash",
-        "Price": 70.0
+        "Price": 72.0
     },
     {
         "Item": "Rulo Banana",
