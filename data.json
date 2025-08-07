@@ -2061,7 +2061,7 @@
     },
     {
         "Item": "FRUITS:Mango Sweet 20 Lbs.",
-        "Price": 60.0
+        "Price": 40.0
     },
     {
         "Item": "FRUITS:Manzano Banana 20 Lb.",
@@ -2305,7 +2305,7 @@
     },
     {
         "Item": "Grocery:Ashoka - Mango Pulp Kesar 6 X 8",
-        "Price": 13.0
+        "Price": 15.0
     },
     {
         "Item": "Grocery:Atta",
@@ -3213,11 +3213,11 @@
     },
     {
         "Item": "Long Beans  White 30 Lbs.",
-        "Price": 85.0
+        "Price": 65.0
     },
     {
         "Item": "Long Beans Green 30lbs",
-        "Price": 65.0
+        "Price": 69.0
     },
     {
         "Item": "Long Hot Pepper",
@@ -3328,12 +3328,8 @@
         "Price": 12.0
     },
     {
-        "Item": "Medium Chilli 25 lbs.",
-        "Price": 55.0
-    },
-    {
         "Item": "Medium Chillie 10 Lb",
-        "Price": 35.0
+        "Price": 27.0
     },
     {
         "Item": "Mehdi Cone 25 X 35 Gms.",
@@ -3365,7 +3361,7 @@
     },
     {
         "Item": "Muli-Cal",
-        "Price": 45.0
+        "Price": 39.0
     },
     {
         "Item": "Muli Saag ( Yul Moo)",
@@ -3425,11 +3421,11 @@
     },
     {
         "Item": "Okra Indian",
-        "Price": 22.0
+        "Price": 18.0
     },
     {
         "Item": "Okra Reg",
-        "Price": 25.0
+        "Price": 19.0
     },
     {
         "Item": "Onion - Pearl",
@@ -3793,7 +3789,7 @@
     },
     {
         "Item": "Red Leaves",
-        "Price": 67.0
+        "Price": 59.0
     },
     {
         "Item": "Rice Flour 10 X 4 Lbs.",
@@ -3833,7 +3829,7 @@
     },
     {
         "Item": "Round Long Squash",
-        "Price": 75.0
+        "Price": 60.0
     },
     {
         "Item": "Rulo Banana",
@@ -3989,7 +3985,7 @@
     },
     {
         "Item": "Snake Gourd 30Lbs.",
-        "Price": 32.0
+        "Price": 39.0
     },
     {
         "Item": "Snow Peas",
@@ -4265,7 +4261,7 @@
     },
     {
         "Item": "Win Beans",
-        "Price": 85.0
+        "Price": 65.0
     },
     {
         "Item": "Winter Melon",
